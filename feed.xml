@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Ramadhar Singh &#8211; Distinguished Professor</title>
+	<atom:link href="https://ramadharsingh.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ramadharsingh.wordpress.com</link>
+	<description></description>
+	<lastBuildDate>Fri, 24 Nov 2023 09:14:23 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='ramadharsingh.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s0.wp.com/i/buttonw-com.png</url>
+		<title>Ramadhar Singh &#8211; Distinguished Professor</title>
+		<link>https://ramadharsingh.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://ramadharsingh.wordpress.com/osd.xml" title="Ramadhar Singh - Distinguished Professor" />
+	<atom:link rel='hub' href='https://ramadharsingh.wordpress.com/?pushpress=hub'/>
+</channel>
+</rss>
