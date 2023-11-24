@@ -1,0 +1,26 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+<style lang="en" type="text/css" id="dark-mode-custom-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-sheet"/>
+<ShortName>ramadharsingh</ShortName>
+<Description>Search Ramadhar Singh - Distinguished Professor - </Description>
+<Contact>help@wordpress.com</Contact>
+<Url type="application/atom+xml" template="https://ramadharsingh.com?s={searchTerms}&feed=atom"/>
+<Url type="rss+xml" template="https://ramadharsingh.com?s={searchTerms}&feed=rss2"/>
+<Url type="text/html" template="https://ramadharsingh.com?s={searchTerms}" method="GET"/>
+<Url type="application/opensearchdescription+xml" rel="self" template="https://ramadharsingh.comosd.xml"/>
+<LongName>Ramadhar Singh - Distinguished Professor</LongName>
+<Image height="16" width="16" type="image/vnd.microsoft.icon">https://ramadharsingh.comfavicon.ico</Image>
+<Image height="64" width="64" type="image/png">https://s-ssl.wordpress.com/i/logo/gray-white-transparent-64.png</Image>
+<Query role="example" searchTerms="photography"/>
+<Tags>blog</Tags>
+<Developer>Automattic</Developer>
+<SyndicationRight>open</SyndicationRight>
+<AdultContent>false</AdultContent>
+<Language>en</Language>
+<OutputEncoding>UTF-8</OutputEncoding>
+<InputEncoding>UTF-8</InputEncoding>
+<moz:SearchForm>https://ramadharsingh.com</moz:SearchForm>
+</OpenSearchDescription>
