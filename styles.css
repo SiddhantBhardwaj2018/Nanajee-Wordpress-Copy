@@ -29,11 +29,28 @@
     border-top: solid #c22004 3px!important;
 }
 
-#removeBorderTop{
-    border-top-color: unset;
-    border-top: unset;
-}
-
 #removeBorderTop:hover{
     border-top-color: unset;
+}
+
+.imgContainer{
+    position: relative;
+    top: 3rem;
+    width: 80vw;
+}
+
+.flexImgList{
+    margin: 1em 0;
+}
+
+.flexImgList img{
+    margin: 0 0.5em;
+    width: 310px;
+    height: 225px;
+}
+
+.flexImgList iframe{
+    margin: 0 0.5em;
+    width: 310px;
+    height: 225px;
 }

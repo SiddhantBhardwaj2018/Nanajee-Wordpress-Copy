@@ -13,7 +13,7 @@ function getNavbar(){
           id=\"menu-item-8\"
           class=\"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-8\"
         >
-          <a id=\"removeBorderTop\" href=\"index.php\" aria-current=\"page\">Home</a>
+          <a  href=\"index.php\" aria-current=\"page\">Home</a>
         </li>
         <li
           id=\"menu-item-173\"
@@ -71,24 +71,14 @@ function getNavbar(){
           id=\"menu-item-17\"
           class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17\"
         >
-          <a href=\"gallery.php\">Gallery</a>
-          <ul class=\"sub-menu\">
-            <li
-              id=\"menu-item-65\"
-              class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-65\"
-            >
-              <a href=\"publications.php\">Photo Gallery</a>
-            </li>
-            <li
-              id=\"menu-item-39\"
-              class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-39\"
-            >
-              <a href=\"doctoralStudents.php\">Video Gallery</a>
-            </li>
-          </ul>
-        </li>
-        
-      </li>
+          <a href=\"photoGallery.php\">Photos</a>
+        </li>  
+        <li
+        id=\"menu-item-17\"
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17\"
+      >
+        <a href=\"videoGallery.php\">Videos</a>
+      </li>  
       </ul>
     </div>
   </nav>";
