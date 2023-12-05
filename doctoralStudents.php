@@ -1,3 +1,6 @@
+<?php 
+  require_once 'includes/main_view.inc.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,8 +12,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Colloquium &amp; Conference &#8211; Ramadhar Singh &#8211; Distinguished
-      Professor
+      Doctoral Students &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -48,6 +50,12 @@
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Feed"
       href="/feed.xml/"
+    />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Ramadhar Singh - Distinguished Professor &raquo; Comments Feed"
+      href="https://ramadharsingh.wordpress.com/comments/feed/"
     />
     <script type="text/javascript">
       /* <![CDATA[ */
@@ -234,6 +242,12 @@
       rel="stylesheet"
       id="all-css-0-1"
       href="https://s0.wp.com/_static/??-eJx9zEEOAiEMheELiY0ZM44L41k60BCGQoktId7e0Y2uXL78Xx6M5rxUo2qwskTXuMdUFYY8AgaFyLIiH73qAX5s6V+ZQiRToL5XyYkc4wCj0hiNFNSeTP8OOOWdbWQNfXaf9eb3cjvNy7RcL+dp3l5DtT5p&cssminify=yes"
+      type="text/css"
+      media="all"
+    />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
       type="text/css"
       media="all"
     />
@@ -765,10 +779,10 @@
       /* <![CDATA[ */
       var videopressAjax = {
         ajaxUrl:
-          "https:\/\/ramadharsingh.ramadharsingh.com.com\/wp-admin\/admin-ajax.php",
+          "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
         bridgeUrl:
           "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-videopress\/build\/lib\/token-bridge.js",
-        post_id: "88",
+        post_id: "34",
       };
       /* ]]> */
     </script>
@@ -776,7 +790,7 @@
       /* <![CDATA[ */
       var actionbardata = {
         siteID: "115692407",
-        postID: "88",
+        postID: "34",
         siteURL: "http:\/\/ramadharsingh.wordpress.com",
         xhrURL:
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
@@ -786,7 +800,7 @@
         subsEmailDefault: "instantly",
         proxyScriptUrl:
           "https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021",
-        shortlink: "https:\/\/wp.me\/P7PqSz-1q",
+        shortlink: "https:\/\/wp.me\/P7PqSz-y",
         i18n: {
           followedText:
             'New posts from this site will now appear in your <a href="https:\/\/wordpress.com\/read">Reader<\/a>',
@@ -811,46 +825,29 @@
       });
       /* ]]> */
     </script>
-    <link
-      rel="EditURI"
-      type="application/rsd+xml"
-      title="RSD"
-      href="https://ramadharsingh.wordpress.com/xmlrpc.php?rsd"
-    />
     <meta name="generator" content="WordPress.com" />
-    <link
-      rel="canonical"
-      href="/conference.html/"
-    />
-    <link rel="shortlink" href="https://wp.me/P7PqSz-1q" />
+    <link rel="canonical" href="/doctoralStudents.html" />
+    <link rel="shortlink" href="https://wp.me/P7PqSz-y" />
     <link
       rel="alternate"
       type="application/json+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fconference%2F&amp;for=wpcom-auto-discovery"
-    />
-    <link
-      rel="alternate"
-      type="application/xml+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fconference%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fdoctoral-students%2F&amp;for=wpcom-auto-discovery"
     />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Colloquium &amp; Conference" />
-    <meta
-      property="og:url"
-      content="/conference.html/"
-    />
+    <meta property="og:title" content="Doctoral Students" />
+    <meta property="og:url" content="/doctoralStudents.html" />
     <meta
       property="og:description"
-      content="Invited Colloquia Invited Colloquia 2021: Indian Institute of Management Ranchi 2021: Ahmedabad University, Ahmedabad 2021: MICA – The School of Ideas, Ahmedabad 2017: National Institute of Advance…"
+      content="Indian Institute of Technology, Kanpur 1. Ajit Kumar Dalal, PhD, 1978: Expected Job Attractiveness and Satisfaction as Information Integration. (Retired Professor of Psychology, University of Allah…"
     />
     <meta
       property="article:published_time"
-      content="2016-09-19T15:10:50+00:00"
+      content="2016-08-31T13:51:17+00:00"
     />
     <meta
       property="article:modified_time"
-      content="2022-10-20T07:01:01+00:00"
+      content="2016-09-26T03:28:21+00:00"
     />
     <meta
       property="og:site_name"
@@ -860,11 +857,7 @@
     <meta property="og:image:alt" content="" />
     <meta property="og:locale" content="en_US" />
     <meta property="fb:app_id" content="249643311490" />
-    <meta
-      property="article:publisher"
-      content="https://www.facebook.com/WordPresscom"
-    />
-    <meta name="twitter:text:title" content="Colloquium &amp; Conference" />
+    <meta name="twitter:text:title" content="Doctoral Students" />
     <meta name="twitter:card" content="summary" />
 
     <!-- End Jetpack Open Graph Tags -->
@@ -887,13 +880,27 @@
       href="https://ramadharsingh.com/osd.xml"
       title="Ramadhar Singh - Distinguished Professor"
     />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="https://s1.wp.com/opensearch.xml"
+      title="WordPress.com"
+    />
     <meta
       name="application-name"
       content="Ramadhar Singh - Distinguished Professor"
     />
     <meta
+      name="msapplication-window"
+      content="width=device-width;height=device-height"
+    />
+    <meta
+      name="msapplication-task"
+      content="name=Subscribe;action-uri=/feed.xml/;icon-uri=https://s0.wp.com/i/favicon.ico"
+    />
+    <meta
       name="description"
-      content="Invited Colloquia Invited Colloquia 2021: Indian Institute of Management Ranchi 2021: Ahmedabad University, Ahmedabad 2021: MICA – The School of Ideas, Ahmedabad 2017: National Institute of Advanced Study, Bangalore 2017: Indian Institute of Technology, Bombay 2016: Mudra Institute of Communications, Ahmedabad 2016: Indian Institute of Management, Indore 2015: University of Allahabad, Allahabad 2015: Indian Institute of Technology,&hellip;"
+      content="Indian Institute of Technology, Kanpur 1. Ajit Kumar Dalal, PhD, 1978: Expected Job Attractiveness and Satisfaction as Information Integration. (Retired Professor of Psychology, University of Allahabad) 2. Meenakshi Gupta, PhD, 1978: An Information Integration Analysis of Developmental Trends in Attribution of Scholastic Performance. (Professor of Psychology, Indian Institute of Technology, Bombay) 3. N. R. Mrinal,&hellip;"
     />
     <style type="text/css" id="apostrophe-header-css"></style>
     <script type="text/javascript">
@@ -1067,7 +1074,7 @@
       var sas_fallback = sas_fallback || [];
       sas_fallback.push(
         {
-          tag: "&lt;div id=&quot;atatags-26942-6560691f2d92c&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-6560691f2d92c',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
+          tag: "&lt;div id=&quot;atatags-26942-656068be8185f&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-656068be8185f',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
           type: "belowpost",
         },
         {
@@ -1134,7 +1141,7 @@
   </head>
 
   <body
-    class="page-template-default page page-id-88 customizer-styles-applied apostrophe-no-sidebar"
+    class="page-template-default page page-id-34 customizer-styles-applied apostrophe-no-sidebar"
   >
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
@@ -1153,95 +1160,9 @@
           <h2 class="site-description"></h2>
         </div>
 
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <a class="menu-toggle">Menu</a>
-          <a class="skip-link screen-reader-text" href="#content"
-            >Skip to content</a
-          >
-
-          <div class="menu-primary-container">
-            <ul id="menu-primary" class="apostrophe-navigation">
-              <li
-                id="menu-item-8"
-                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"
-              >
-                <a href="/">Home</a>
-              </li>
-              <li
-                id="menu-item-173"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173"
-              >
-                <a href="/overview.html"
-                  >Overview</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-54"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"
-                  >
-                    <a
-                      href="/responsibilities.html"
-                      >Responsibilities</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-17"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17"
-              >
-                <a href="/research.html"
-                  >Research</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-65"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"
-                  >
-                    <a href="/publications.html"
-                      >Publications</a
-                    >
-                  </li>
-                  <li
-                    id="menu-item-39"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"
-                  >
-                    <a
-                      href="/doctoralStudents.html"
-                      >Students supervised</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-19"
-                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-88 current_page_item menu-item-19"
-              >
-                <a
-                  href="/conference.html/"
-                  aria-current="page"
-                  >Colloquium &amp; Conference</a
-                >
-              </li>
-              <li
-                id="menu-item-42"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"
-              >
-                <a href="/recognition.html"
-                  >Recognition</a
-                >
-              </li>
-              <li
-                id="menu-item-53"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"
-              >
-                <a href="/advisors.html"
-                  >Advisors</a
-                >
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php 
+          getNavbar();
+        ?>
         <!-- #site-navigation -->
       </header>
       <!-- #masthead -->
@@ -1250,347 +1171,138 @@
         <section id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article
-              id="post-88"
-              class="post-88 page type-page status-publish hentry"
+              id="post-34"
+              class="post-34 page type-page status-publish hentry"
             >
               <header class="entry-header">
-                <h1 class="entry-title">Colloquium &amp; Conference</h1>
+                <h1 class="entry-title">Doctoral Students</h1>
               </header>
               <!-- .entry-header -->
 
               <div class="entry-content">
-                <h3>Invited Colloquia</h3>
-                <h1>Invited Colloquia</h1>
-                <p>2021: Indian Institute of Management Ranchi</p>
-                <p>2021: Ahmedabad University, Ahmedabad</p>
-                <p>2021: MICA – The School of Ideas, Ahmedabad</p>
-                <p>2017: National Institute of Advanced Study, Bangalore</p>
-                <p>2017: Indian Institute of Technology, Bombay</p>
-                <p>2016: Mudra Institute of Communications, Ahmedabad</p>
-                <p>2016: Indian Institute of Management, Indore</p>
-                <p>2015: University of Allahabad, Allahabad</p>
-                <p>2015: Indian Institute of Technology, Bombay</p>
-                <p>2014: Indian Institute of Technology, Guwahati</p>
+                <p><strong>Indian Institute of Technology, Kanpur</strong></p>
+                <table width="967">
+                  <tbody>
+                    <tr>
+                      <td width="957">
+                        1. Ajit Kumar Dalal, PhD, 1978: Expected Job
+                        Attractiveness and Satisfaction as Information
+                        Integration. (Retired Professor of Psychology,
+                        University of Allahabad)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="957">
+                        2. Meenakshi Gupta, PhD, 1978: An Information
+                        Integration Analysis of Developmental Trends in
+                        Attribution of Scholastic Performance. (Professor of
+                        Psychology, Indian Institute of Technology, Bombay)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="957">
+                        3. N. R. Mrinal, PhD, 1980, Enhancement of Trying
+                        through Vicarious Learning: A Developmental
+                        Investigation. (Retired Professor of Psychology,
+                        University of Nagpur)
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <p><strong>Gujarat University, Ahmedabad</strong></p>
+                <table width="967">
+                  <tbody>
+                    <tr>
+                      <td width="963">
+                        4. Shivganesh Bhargava, PhD, 1983: Developmental Trends
+                        in Prediction of Life Performance. (Professor and Head,
+                        Shailesh J. Mehta School of Management, Indian Institute
+                        of Technology, Bombay)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="963">
+                        5. Sneh Shobha, PhD, 1985: Achievement Judgments by
+                        School Teachers: An Information Integration Analysis
+                        (Retired Principal, Degree College, Malikpura, Ghazipur)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="963">
+                        6. Shushil K Upadhyaya, Ph. D., 1985: Managerial
+                        Information Processing: The Case of Prediction of Job
+                        Performance (Retired Research Officer, Indian Institute
+                        of Foreign Trade, New Delhi)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="963">
+                        7. Mridula Mehta, Ph. D., 1986: Prediction and
+                        Evaluation of Son&#8217;s Exam Performance: An
+                        Attribution “Integration Theoretical Analysis&#8221;
+                        (Retired Reader in Psychology, S. L. U. College for Arts
+                        and Commerce, Ahmedabad)
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
                 <p>
-                  2014: GLS Centre for Research &amp; Development, Ahmedabad
+                  <strong>Indian Institute of Management, Ahmedabad</strong>
                 </p>
-                <p>2013: Indian Institute of Technology, Bombay</p>
-                <p>2013: Indian Institute of Technology, Kanpur</p>
-                <p>
-                  2013: Narsee Monjee Institute of Management Studies, Mumbai
-                </p>
-                <p>2012: Indian Institute of Management Lucknow</p>
-                <p>2012: Indian Institute of Management Kozhikode</p>
-                <p>2012: Xavier Institute of Management Bhubaneswar</p>
-                <p>2012: Central University of Bihar, Patna</p>
-                <p>2012: Defense Institute of Psychological Research, Delhi</p>
-                <p>2011: Christ University, Bangalore, India</p>
-                <p>2009: Indian Institute of Management Bangalore</p>
-                <p>
-                  2009: A.E.S. Post Graduate Institute of Business Management,
-                  Ahmedabad
-                </p>
-                <p>2009: Indian Institute of Management Lucknow</p>
-                <p>2008: Indian Institute of Management Lucknow</p>
-                <p>
-                  2008: A.E.S. Post Graduate Institute of Business Management,
-                  Ahmedabad
-                </p>
-                <p>2008: Purdue University, West Lafayette, Indiana, USA</p>
-                <p>2008: Indiana University, Bloomington, Indiana, USA</p>
-                <p>2008: The Ohio State University, Columbus, Ohio, USA</p>
-                <p>
-                  2007: A.E.S. Post Graduate Institute of Business Management,
-                  Ahmedabad
-                </p>
-                <p>2007: Indian Institute of Management Lucknow</p>
-                <p>2006: Indian Institute of Management Lucknow</p>
-                <p>2006: LKY School of Public Policy, Singapore</p>
-                <p>2005: Islamic University of Malaysia, Kuala Lumpur</p>
-                <p>2005: Mudra Institute of Communications Ahmedabad</p>
-                <p>2005: Indian Institute of Management Lucknow</p>
-                <p>2005: University of Allahabad, Allahabad</p>
-                <p>
-                  2005: Nirma University of Science and Technology, Ahmedabad
-                </p>
-                <p>2004: University of Illinois, Urbana, Illinois, USA</p>
-                <p>2004: University of Wisconsin, Madison, Wisconsin, USA</p>
-                <p>2004: University of Rochester, Rochester, New York, USA</p>
-                <p>2004: University of Kent, Canterbury, U.K.</p>
-                <p>2004: University of Oxford, Oxford, England, U.K.</p>
-                <p>2004: Catholic University of Leuven, Leuven, Belgium</p>
-                <p>2004: University of Birmingham, Birmingham, England, U.K.</p>
-                <p>
-                  2004: Colorado State University, Fort Collins, Colorado, USA
-                </p>
-                <p>
-                  2004: Massachusetts College of Liberal Arts, North Adams,
-                  Massachusetts, USA
-                </p>
-                <p>
-                  2003: Kathmandu University School of Management, Kathmandu,
-                  Nepal
-                </p>
-                <p>
-                  2003: Faculty of Psychology, Chulalongkorn University,
-                  Bangkok, Thailand
-                </p>
-                <p>2003: University of Rochester, Rochester, New York, USA</p>
-                <p>2003: University of Western Ontario, London, Canada</p>
-                <p>2003: University of Connecticut, Storrs, Connecticut, USA</p>
-                <p>2002: University of Rochester, Rochester, New York, USA</p>
-                <p>
-                  2002: Massachusetts College of Liberal Arts, North Adams,
-                  Massachusetts, USA
-                </p>
-                <p>2002: University of Tokyo, Tokyo, Japan</p>
-                <p>2002: University of Allahabad, Allahabad</p>
-                <p>2001: Indian Institute of Management Indore</p>
-                <p>2001: University of Allahabad, Allahabad</p>
-                <p>2001: Indian Institute of Management Bangalore</p>
-                <p>
-                  1999: Institute of Psychology, Center of Human and Social
-                  Sciences, Hanoi, Vietnam
-                </p>
-                <p>
-                  1999: Faculty of Psychology, University of Indonesia, Depok,
-                  Indonesia
-                </p>
-                <p>
-                  1998: Institute of Psychology, Chinese Academy of Sciences,
-                  Beijing, PRC
-                </p>
-                <p>1998: Beijing Normal University, Beijing, PRC</p>
-                <p>1998: Peking University, Beijing, PRC</p>
-                <p>1998: University of Delhi, Delhi</p>
-                <p>1997: Inha University, Inchon, Korea</p>
-                <p>1997: University of Tokyo, Tokyo, Japan</p>
-                <p>1996: The Chinese University of Hong Kong, Hong Kong</p>
-                <p>1996: Ball State University, Muncie, Indiana, USA</p>
-                <p>1996: Purdue University, West Lafayette, Indiana, USA</p>
-                <p>1995: Nanyang Technological University, Singapore</p>
-                <p>
-                  <strong> </strong>1994:<strong> </strong>Indian Institute of
-                  Management, Ahmedabad
-                </p>
-                <p>
-                  1993: Nepal Administrative Staff College, Kathmandu, Nepal
-                </p>
-                <p>1993: A. N. S. Institute of Social Studies, Patna</p>
-                <p>1993: California State University at Fullerton, USA</p>
-                <p>1993: The University of Michigan, Ann Arbor, USA</p>
-                <p>1993: Northern Illinois University, De Kalb, USA</p>
-                <p>1989: National University of Singapore, Singapore</p>
-                <p>1989: Singapore Institute of Management, Singapore</p>
-                <p>1988: Birla Institute of Technology, Mesra</p>
-                <p>1988: National University of Singapore, Singapore</p>
-                <p>1987: M. S. University of Baroda, Vadodara</p>
-                <p>1987: University of Allahabad, Allahabad</p>
-                <p>
-                  1987: Rajasthan Institute of Public Administration, Jaipur
-                </p>
-                <p>1986: S. V. University, Tirupati</p>
-                <p>
-                  1986: L. N. Mishra Institute of Economic Development and
-                  Social Change, Patna
-                </p>
-                <p>1986: University of Delhi, Delhi</p>
-                <p>1985: Punjab University, Chandigarh</p>
-                <p>1985: Banaras Hindu University, Varanasi</p>
-                <p>1985: Osmania University, Hyderabad</p>
-                <p>1984: A. N. S. Institute of Social Studies, Patna</p>
-                <p>1984: Birla Institute of Technology, Mesra</p>
-                <p>1984: Indian Institute of Business Management, Patna</p>
-                <p>1984: Saurashtra University, Rajkot</p>
-                <p>1984: State University of New York at Albany, USA</p>
-                <p>1984: University of Bombay, Bombay</p>
-                <p>1984: University of Connecticut, Storrs, USA</p>
-                <p>1983: A. N. S. Institute of Social Studies, Patna</p>
-                <p>1983: Birla Institute of Technology, Mesra</p>
-                <p>
-                  1983: L. N. Mishra Institute of Economic Development and
-                  Social Change, Patna
-                </p>
-                <p>1983: M. S. University of Baroda, Vadodara</p>
-                <p>1983: Sardar Patel University, Vallabh Vidyanagar</p>
-                <p>
-                  1983: Sardar Patel Institute of Public Administration,
-                  Ahmedabad
-                </p>
-                <p>1983: University of Delhi, Delhi</p>
-                <p>1983: University of Jodhpur, Jodhpur</p>
-                <p>1982: University of Allahabad, Allahabad</p>
-                <p>1981: Gujarat University, Ahmedabad</p>
-                <p>1980: University of Bombay, Bombay</p>
-                <p>1980: Sardar Patel University, Vallabh Vidyanagar</p>
-                <p>1979: A. N. S. Institute of Social Studies, Patna</p>
-                <p>1979: University of Allahabad, Allahabad</p>
-                <p>1979: University of Rajasthan, Jaipur</p>
-                <p>1979: Utkal University, Bhubneswar</p>
-                <p>1978: Indian Institute of Management Ahmedabad</p>
-                <p>1978: Meerut University, Meerut, India</p>
-                <p>1976: University of Allahabad, Allahabad</p>
-                <p>1973: A. N. S. Institute of Social Studies, Patna</p>
-                <h3>Convention Participation and Presentations</h3>
-                <p>2014: Academy of Management, Philadelphia, USA</p>
-                <p>
-                  2012: International Congress of Psychology, Cape Town, South
-                  Africa
-                </p>
-                <p>
-                  2012: National Academy of Psychology (NAoP) India, Bangalore
-                </p>
-                <p>
-                  2011: 21<sup>st</sup> convention of the National Academy of
-                  Psychology (NAOP), Anand
-                </p>
-                <p>
-                  2010: Excellence in Management Research, Indian Institute of
-                  Management Indore
-                </p>
-                <p>
-                  2010: International Conference on Demography, Culture, and
-                  Marketing, Xavier Institute of Management, Bhubneshwar
-                </p>
-                <p>
-                  2010: IMRDC Doctoral Conference, Indian Institute of
-                  Management Bangalore
-                </p>
-                <p>2009: European Congress of Psychology, Oslo, Norway</p>
-                <p>2009: American Psychological Association, Toronto, Canada</p>
-                <p>2009: Asian Association of Social Psychology, New Delhi</p>
-                <p>
-                  2009: IMRDC Doctoral Conference, Indian Institute of
-                  Management Bangalore
-                </p>
-                <p>
-                  2008: International Congress of Psychology, Berlin, Germany
-                </p>
-                <p>2007: American Psychological Society, Washington, DC, USA</p>
-                <p>
-                  2006: Japanese Association of Group Dynamics, Tokyo, Japan
-                </p>
-                <p>
-                  2002: Affect, Attraction, and Their Conceptual Children,
-                  University of Connecticut, USA
-                </p>
-                <p>
-                  2002: International Congress of Applied Psychology, Singapore
-                </p>
-                <p>
-                  2000: International Congress of Psychology, Stockholm, Sweden
-                </p>
-                <p>
-                  2000: International Association of Cross-cultural Psychology,
-                  Pultusk, Poland
-                </p>
-                <p>
-                  2000: International Congress of Psychology, Stockholm, Sweden
-                </p>
-                <p>
-                  2000: International Association of Cross-cultural Psychology,
-                  Pultusk, Poland
-                </p>
-                <p>
-                  1999: Indonesian Psychological Association, Depok, Indonesia
-                </p>
-                <p>1999: European Congress of Psychology, Rome, Italy</p>
-                <p>
-                  1999: Asian Association of Social Psychology, Taiwan, Republic
-                  of China
-                </p>
-                <p>
-                  1998: Afro-Asian Psychological Association and the
-                  Psychological Association of the
-                </p>
-                <p>Philippines, Diliman, Quezon City, The Philippines</p>
-                <p>
-                  1997: Asian Association of Social Psychology, Kyoto, Japan
-                </p>
-                <p>1996: Psychonomic Society, Chicago, USA</p>
-                <p>
-                  1996: Society for Judgment and Decision Making, Chicago, USA
-                </p>
-                <p>
-                  <strong> </strong>1993: Psychonomic Society, Washington, D.C.,
-                  USA
-                </p>
-                <p>
-                  1993: Society for Judgment and Decision Making, Washington,
-                  D.C., USA
-                </p>
-                <p>1993: National Academy of Psychology (India), Delhi</p>
-                <p>
-                  1992: Association of the Management Development Institutions
-                  of South Asia,
-                </p>
-                <p>Kathmandu, Nepal</p>
-                <p>1992: First Asian Conference in Psychology, Singapore</p>
-                <p>
-                  1991: International Academic Symposium on Psychological
-                  Measurement, Nanjing, People&#8217;s Republic of China.
-                </p>
-                <p>
-                  1990: International Congress of Applied Psychology, Kyoto,
-                  Japan
-                </p>
-                <p>
-                  1990: Japan Advertising Academy and Osaka Advertising
-                  Association, Osaka, Japan
-                </p>
-                <p>
-                  1990: Joint National Meeting of the Institute of Management
-                  Science and the
-                </p>
-                <p>Operations Research Society of America, Philadelphia, USA</p>
-                <p>1990: World Communication Forum, Kobe, Japan</p>
-                <p>1986: Indian Science Congress Association, New Delhi</p>
-                <p>
-                  1984: International Congress of Psychology, Acapulco, Mexico
-                </p>
-                <p>
-                  1982: Indian Science Congress Association, Mysore, Karnataka
-                </p>
-                <p>1981: Indian Science Congress Association, Varanasi</p>
-                <p>
-                  1980: International Conference on Transportation, New Delhi
-                </p>
-                <p>1979: Indian Science Congress Association, Hyderabad</p>
-                <p>1978: U. P. Psychological Association, Lucknow</p>
-                <p>1978: Indian Psychological Association, Tirupati</p>
-                <p>1977: Indian Science Congress Association, Bhubaneswar</p>
-                <p>1976: International Symposium on Cognition, New Delhi</p>
-                <p>1975: Indian Science Congress Association, New Delhi</p>
-                <p>
-                  1973: Midwestern Psychological Association, Chicago, Illinois,
-                  USA
-                </p>
-                <p>
-                  1993: Conference of Graduate Students of Social Psychology,
-                  Ann Arbor, USA.
-                </p>
-                <p>
-                  1972: Midwestern Psychological Association, Cleveland, Ohio,
-                  USA
-                </p>
-                <p>1971: Psychonomic Society, St. Louis, Missouri, USA</p>
-                <p>1969: Bihar Psychological Association, Gaya, Bihar</p>
-                <div id="atatags-370373-6560691f33705">
+                <table width="1066">
+                  <tbody>
+                    <tr>
+                      <td width="1058">
+                        8. Mithileshwar Jha, Fellow, 1984: An Attribution
+                        Theoretical Analysis of Consumers&#8217; Satisfaction
+                        and Dissatisfaction with Products ( Pro Vice Chancellor,
+                        Jain University, Bangalore)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="1058">
+                        9. P.B. Nagananda Kumar, Fellow, 1986: Identification
+                        and Measurement of Work Dedication (Former Director,
+                        Myra School of Business, Mysore)
+                      </td>
+                    </tr>
+                    <tr>
+                      <td width="1058">
+                        10. C.M. Ramesh, Fellow, 1988: Do Stress and Personality
+                        Determine Health of the Indian Executives?&#8221;
+                        (Professor, Goa Institute of Management)
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <p><strong>National University of Singapore</strong></p>
+                <table width="966">
+                  <tbody>
+                    <tr>
+                      <td width="956">
+                        11. Smita Singh, PhD, Abstract Construal of Top Leaders:
+                        Respect as a Mediator (Senior Lecturer, School of
+                        Psychology, James Cook University Australia)
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <div id="atatags-370373-656068be843f0">
                   <script type="text/javascript">
                     __ATA.cmd.push(function () {
-                      __ATA.initVideoSlot("atatags-370373-6560691f33705", {
+                      __ATA.initVideoSlot("atatags-370373-656068be843f0", {
                         sectionId: "370373",
                         format: "inread",
                       });
                     });
                   </script>
                 </div>
-                <div id="atatags-26942-6560691f3376c"></div>
+                <div id="atatags-26942-656068be8442c"></div>
 
                 <script>
                   __ATA.cmd.push(function () {
                     __ATA.initDynamicSlot({
-                      id: "atatags-26942-6560691f3376c",
+                      id: "atatags-26942-656068be8442c",
                       location: 120,
                       formFactor: "001",
                       label: {
@@ -1621,9 +1333,9 @@
                           <li class="share-twitter">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-twitter-88"
+                              data-shared="sharing-twitter-34"
                               class="share-twitter sd-button share-icon"
-                              href="/conference.html/?share=twitter"
+                              href="/doctoralStudents.html?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -1632,9 +1344,9 @@
                           <li class="share-facebook">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-facebook-88"
+                              data-shared="sharing-facebook-34"
                               class="share-facebook sd-button share-icon"
-                              href="/conference.html/?share=facebook"
+                              href="/doctoralStudents.html?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -1644,6 +1356,24 @@
                         </ul>
                       </div>
                     </div>
+                  </div>
+                  <div
+                    class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded"
+                    id="like-post-wrapper-115692407-34-656068be84852"
+                    data-src="//widgets.wp.com/likes/index.html?ver=20230906#blog_id=115692407&amp;post_id=34&amp;origin=ramadharsingh.wordpress.com&amp;obj_id=115692407-34-656068be84852"
+                    data-name="like-post-frame-115692407-34-656068be84852"
+                    data-title="Like or Reblog"
+                  >
+                    <h3 class="sd-title">Like this:</h3>
+                    <div
+                      class="likes-widget-placeholder post-likes-widget-placeholder"
+                      style="height: 55px"
+                    >
+                      <span class="button"><span>Like</span></span>
+                      <span class="loading">Loading...</span>
+                    </div>
+                    <span class="sd-text-color"></span
+                    ><a class="sd-link-color"></a>
                   </div>
                 </div>
               </div>
@@ -1662,7 +1392,7 @@
 
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
-          <a target="_blank"  href="https://webclass.in/" rel="nofollow"
+          <a target="_blank" href="https://webclass.in/" rel="nofollow"
             >Designed & Developed By WebClass.in</a
           >
         </div>
@@ -2018,7 +1748,6 @@
         </form>
       </div>
     </div>
-    
 
     <script>
       window.addEventListener("load", function (event) {
@@ -2039,7 +1768,7 @@
 
     <script type="text/javascript">
       window.WPCOM_sharing_counts = {
-        "https:\/\/ramadharsingh.wordpress.com\/conference\/": 88,
+        "https:\/\/ramadharsingh.wordpress.com\/doctoral-students\/": 34,
       };
     </script>
     <script type="text/javascript" id="comment-like-js-extra">
@@ -2208,7 +1937,7 @@
           v: "wpcom",
           tz: "0",
           user_id: "0",
-          post: "88",
+          post: "34",
           subd: "ramadharsingh",
         },
       ]);
@@ -2216,10 +1945,10 @@
         "extra",
         {
           crypt:
-            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1eThaUHJmZDc0XUQmODh1MFNXQltCRFZCRC1HSmlZM21kLjgwSEdzcTdxPTdXPWpjTFdXYUJzcUQ/ek5fcHU9NE5KX1FbZTVmRVM5MHltN2U1bH5bOC5JRjFMZllBQj9ITmxIWi5kZDRCcCw2TjduMS95aUovLk9QLjgmLnBPZi1mT3E4",
+            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1W05JW2RQZnhsQ2Q/dlctQVBlZTJQUCtVTXlLcEJILU0sVXBheDlmdXx5Py9vbSZaRUIyQW1qZVFSLmJWW1JtRiZ0VDlrdVVbUVlbZ3w9MmcvLHw5PyUxPUx6K0E/ZT9RRGJEeFY9NTU4anYrc3VMVmVoUW58K1VCUSVkXVpxbnAldTZmWQ==",
         },
       ]);
-      _stq.push(["clickTrackerInit", "115692407", "88"]);
+      _stq.push(["clickTrackerInit", "115692407", "34"]);
     </script>
     <noscript
       ><img

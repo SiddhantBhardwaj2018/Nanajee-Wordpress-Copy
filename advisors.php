@@ -1,3 +1,6 @@
+<?php 
+  require_once 'includes/main_view.inc.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,7 +12,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Publications &#8211; Ramadhar Singh &#8211; Distinguished Professor
+      Advisors &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -46,7 +49,7 @@
       rel="alternate"
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Feed"
-      href="https://ramadharsingh.wordpress.com/feed/"
+      href="/feed.xml/"
     />
     <link
       rel="alternate"
@@ -239,6 +242,12 @@
       rel="stylesheet"
       id="all-css-0-1"
       href="https://s0.wp.com/_static/??-eJx9zEEOAiEMheELiY0ZM44L41k60BCGQoktId7e0Y2uXL78Xx6M5rxUo2qwskTXuMdUFYY8AgaFyLIiH73qAX5s6V+ZQiRToL5XyYkc4wCj0hiNFNSeTP8OOOWdbWQNfXaf9eb3cjvNy7RcL+dp3l5DtT5p&cssminify=yes"
+      type="text/css"
+      media="all"
+    />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
       type="text/css"
       media="all"
     />
@@ -773,7 +782,7 @@
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
         bridgeUrl:
           "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-videopress\/build\/lib\/token-bridge.js",
-        post_id: "79",
+        post_id: "51",
       };
       /* ]]> */
     </script>
@@ -781,7 +790,7 @@
       /* <![CDATA[ */
       var actionbardata = {
         siteID: "115692407",
-        postID: "79",
+        postID: "51",
         siteURL: "http:\/\/ramadharsingh.wordpress.com",
         xhrURL:
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
@@ -791,7 +800,7 @@
         subsEmailDefault: "instantly",
         proxyScriptUrl:
           "https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021",
-        shortlink: "https:\/\/wp.me\/P7PqSz-1h",
+        shortlink: "https:\/\/wp.me\/P7PqSz-P",
         i18n: {
           followedText:
             'New posts from this site will now appear in your <a href="https:\/\/wordpress.com\/read">Reader<\/a>',
@@ -825,37 +834,37 @@
     <meta name="generator" content="WordPress.com" />
     <link
       rel="canonical"
-      href="/publications.html"
+      href="/advisors.html"
     />
-    <link rel="shortlink" href="https://wp.me/P7PqSz-1h" />
+    <link rel="shortlink" href="https://wp.me/P7PqSz-P" />
     <link
       rel="alternate"
       type="application/json+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fpublications%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fadvisors%2F&amp;for=wpcom-auto-discovery"
     />
     <link
       rel="alternate"
       type="application/xml+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fpublications%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fadvisors%2F&amp;for=wpcom-auto-discovery"
     />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Publications" />
+    <meta property="og:title" content="Advisors" />
     <meta
       property="og:url"
-      content="/publications.html"
+      content="/advisors.html"
     />
     <meta
       property="og:description"
-      content="Postdoctoral Research Singh, R., &amp; Rai, H. (2021). Desiring to punish leaders: A new test of the model of people as intuitive prosecutors. Journal of Theoretical Social Psychology, 5(4), 377-39…"
+      content="2022-            Member, Expert Committee on Behavioral and Psychological Sciences, IIM Bangalore 2022-            Distinguished Advisor, Faculty of Behavioral Sciences, SGTU, Gurugram, Haryana 201…"
     />
     <meta
       property="article:published_time"
-      content="2016-09-19T14:47:53+00:00"
+      content="2016-08-31T14:38:50+00:00"
     />
     <meta
       property="article:modified_time"
-      content="2022-01-07T15:35:28+00:00"
+      content="2022-10-20T06:57:10+00:00"
     />
     <meta
       property="og:site_name"
@@ -869,14 +878,14 @@
       property="article:publisher"
       content="https://www.facebook.com/WordPresscom"
     />
-    <meta name="twitter:text:title" content="Publications" />
+    <meta name="twitter:text:title" content="Advisors" />
     <meta name="twitter:card" content="summary" />
 
     <!-- End Jetpack Open Graph Tags -->
     <link
     rel="shortcut icon"
     type="image/x-icon"
-    href="/icons/favicon.ico"
+    href="icons/favicon.ico"
     sizes="16x16 24x24 32x32 48x48"
   />
   <link
@@ -899,16 +908,8 @@
       title="WordPress.com"
     />
     <meta
-      name="application-name"
-      content="Ramadhar Singh - Distinguished Professor"
-    />
-    <meta
-      name="msapplication-window"
-      content="width=device-width;height=device-height"
-    />
-    <meta
       name="description"
-      content="Postdoctoral Research Singh, R., &amp; Rai, H. (2021). Desiring to punish leaders: A new test of the model of people as intuitive prosecutors. Journal of Theoretical Social Psychology, 5(4), 377-390. DOI: 10.1002/jts5.105 Singh, R., &amp; Pandey, N. (2020). Psychological foundations of the cleanliness initiative in Ahmedabad city of India. Global Journal of Human Social Science,&hellip;"
+      content="2022-            Member, Expert Committee on Behavioral and Psychological Sciences, IIM Bangalore 2022-            Distinguished Advisor, Faculty of Behavioral Sciences, SGTU, Gurugram, Haryana 2019-            Member, Academic Advisory Council, Goa Institute of Management, Goa 2015-2018    Member, Kwok Leung Scholarship Fund, Asian Association of Social Psychology 2014-2016    Member, Advisory Board, Southeast Asia CEO Association, Indonesia 2012-2014   &hellip;"
     />
     <style type="text/css" id="apostrophe-header-css"></style>
     <script type="text/javascript">
@@ -1082,7 +1083,7 @@
       var sas_fallback = sas_fallback || [];
       sas_fallback.push(
         {
-          tag: "&lt;div id=&quot;atatags-26942-656067185eb10&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-656067185eb10',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
+          tag: "&lt;div id=&quot;atatags-26942-65606a3520e7b&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-65606a3520e7b',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
           type: "belowpost",
         },
         {
@@ -1149,114 +1150,28 @@
   </head>
 
   <body
-    class="page-template-default page page-id-79 customizer-styles-applied apostrophe-no-sidebar"
+    class="page-template-default page page-id-51 customizer-styles-applied apostrophe-no-sidebar"
   >
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
         <div class="site-branding">
           <a
-            href="https://ramadharsingh.wordpress.com/"
+            href="https://ramadharsingh.com/"
             class="site-logo-link"
             rel="home"
             itemprop="url"
           ></a>
           <h1 class="site-title">
-            <a href="https://ramadharsingh.wordpress.com/" rel="home"
+            <a href="https://ramadharsingh.com/" rel="home"
               >Ramadhar Singh &#8211; Distinguished Professor</a
             >
           </h1>
           <h2 class="site-description"></h2>
         </div>
 
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <a class="menu-toggle">Menu</a>
-          <a class="skip-link screen-reader-text" href="#content"
-            >Skip to content</a
-          >
-
-          <div class="menu-primary-container">
-            <ul id="menu-primary" class="apostrophe-navigation">
-              <li
-                id="menu-item-8"
-                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"
-              >
-                <a href="/">Home</a>
-              </li>
-              <li
-                id="menu-item-173"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173"
-              >
-                <a href="https://ramadharsingh.wordpress.com/overview/"
-                  >Overview</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-54"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"
-                  >
-                    <a
-                      href="https://ramadharsingh.wordpress.com/responsibilities/"
-                      >Responsibilities</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-17"
-                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-17"
-              >
-                <a href="https://ramadharsingh.wordpress.com/research/"
-                  >Research</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-65"
-                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-79 current_page_item menu-item-65"
-                  >
-                    <a
-                      href="/publications.html"
-                      aria-current="page"
-                      >Publications</a
-                    >
-                  </li>
-                  <li
-                    id="menu-item-39"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"
-                  >
-                    <a
-                      href="/doctoralStudents.html"
-                      >Students supervised</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-19"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
-              >
-                <a href="/conference.html"
-                  >Colloquium &amp; Conference</a
-                >
-              </li>
-              <li
-                id="menu-item-42"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"
-              >
-                <a href="/recognition.html"
-                  >Recognition</a
-                >
-              </li>
-              <li
-                id="menu-item-53"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"
-              >
-                <a href="/advisors.html"
-                  >Advisors</a
-                >
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php 
+          getNavbar();
+        ?>
         <!-- #site-navigation -->
       </header>
       <!-- #masthead -->
@@ -1265,859 +1180,81 @@
         <section id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article
-              id="post-79"
-              class="post-79 page type-page status-publish hentry"
+              id="post-51"
+              class="post-51 page type-page status-publish hentry"
             >
               <header class="entry-header">
-                <h1 class="entry-title">Publications</h1>
+                <h1 class="entry-title">Advisors</h1>
               </header>
               <!-- .entry-header -->
 
-              <div class="entry-content">
-                <p><em>P</em><em>ostdoctoral Research</em></p>
+              <div class="entry-content" id="prevEmployment">
                 <p>
-                  Singh, R., &amp; Rai, H. (2021). Desiring to punish leaders: A
-                  new test of the model of people as intuitive prosecutors.
-                  <em>Journal of Theoretical Social Psychology</em>,
-                  <em>5</em>(4), 377-390. DOI: 10.1002/jts5.105
+                  2022- Member, Expert Committee on Behavioral and Psychological
+                  Sciences, IIM Bangalore
                 </p>
                 <p>
-                  Singh, R., &amp; Pandey, N. (2020). Psychological foundations
-                  of the cleanliness initiative in Ahmedabad city of India.
-                  <em>Global Journal of Human Social Science, 20(8),</em> 23-27.
-                  DOI:
-                  <a href="https://doi.org/10.34257/GJHSSAVOL20IS8PG23"
-                    >https://doi.org/10.34257/GJHSSAVOL20IS8PG23<br />
-                  </a>
+                  2022- Distinguished Advisor, Faculty of Behavioral Sciences,
+                  SGTU, Gurugram, Haryana
                 </p>
                 <p>
-                  Singh, R. (2020). Indian idols drinking milk: Understanding
-                  the phenomenon and its implications for social reform.
-                  <em>Global Journal of Human Social Science, 20(2),</em> 15-18.
-                  DOI:<a
-                    href="https://globaljournals.org/ev/GJHSS/17910281745e05dbc0b7aaf3.44118902.pdf"
-                    >https://globaljournals.org/ev/GJHSS/17910281745e05dbc0b7aaf3.44118902.pdf</a
-                  >
+                  2019- Member, Academic Advisory Council, Goa Institute of
+                  Management, Goa
                 </p>
                 <p>
-                  Singh, R., Bhullar, N., &amp; Sankaran, K. (2019).
-                  Leader-<em>versu</em>s-member and fair-<em>versu</em>s-biased
-                  categorisations as safeguards against negative effects of
-                  demographic diversity on group attraction.
-                  <em>IIMB Management Review</em>, <em>31</em>, 7-19. DOI:
-                  10.1016/j.iimb.2018.08.003
+                  2015-2018 Member, Kwok Leung Scholarship Fund, Asian
+                  Association of Social Psychology
                 </p>
                 <p>
-                  Singh, R. (2015/2018). Attribution of causation and assignment
-                  of responsibility: Intuitive prosecution for enjoying freedom
-                  but dodging responsibility.
-                  <em
-                    >Sandhan: A Journal of the Center for Studies in
-                    Civilization</em
-                  >, <em>15</em>, 89-124. (Submitted in 2017; Protests made to
-                  the Editors and the Publisher for publishing the article in
-                  the back issue of 2015 without the knowledge of the author)
+                  2014-2016 Member, Advisory Board, Southeast Asia CEO
+                  Association, Indonesia
                 </p>
                 <p>
-                  Singh, R., Teng, J. S. Q., Bhullar, N., &amp; Sankaran, K.
-                  (2018). Positive affect as a moderator of liking effects on
-                  trust and attraction.
-                  <em>Asian Journal of Social Psychology</em>, in press. DOI:
-                  10.1111/ajsp.12192
+                  2012-2014 Member, Academic Council, International Management
+                  Institute, New Delhi
                 </p>
                 <p>
-                  Singh, R., Tay, Y. Y., &amp; Sankaran, K. (2017). Causal role
-                  of trust in interpersonal attraction from attitude similarity.
-                  <em>Journal of Social and Personal Relationships</em>,
-                  <em>34</em>, 717-731. DOI: 10.1177/0265407516656826
+                  2011-2014 Member, Doctoral Research Committee, NMIMS
+                  University, Mumbai, Maharashtra, India
                 </p>
                 <p>
-                  Singh, R., Wegener, D. T., Sankaran, K., Bhullar, N., Ang, K.
-                  Q. P., Chia, P. J. L., Cheong, X., &amp; Chen, F. (2017).
-                  Attitude similarity and attraction: Validation, positive
-                  affect, and trust as sequential mediators.
-                  <em>Personal Relationship</em>s, <em>24</em>, 203-222. DOI:
-                  10.1111/pere.1278
+                  2010-2016 Member, Centre of Social Development (Asia),
+                  National University of Singapore
                 </p>
                 <p>
-                  Sahoo, B., Singh, R., Mishra, B., &amp; Sankaran, K. (2017).
-                  Research productivity in management schools of India during
-                  1968-2015: A directional benefit-of-doubt model analysis.
-                  <em>Omega,66, 118-139. </em
-                  >DOI:org/10.1016/j.omega.2016.02.004
+                  2006-2010 Member, International Advisory Panel, Asian Assoc.
+                  of Edu. &amp; Dev Psychology, Korea
                 </p>
                 <p>
-                  Singh, R., Goh, A., Sankaran, K.., &amp; Bhullar, N. (2016).
-                  Similarity and liking effects on interpersonal attraction: A
-                  test of the two-dimensional trust-respect model<em
-                    >. Psychologia</em
-                  >, <em>59</em>, 1-18.
+                  2006-2015 Member, International Advisory Panel, Foundation of
+                  Liberal and Management
                 </p>
+                <p>Education (FLAME), Pune, India</p>
                 <p>
-                  Singh, R., Wegener, D. T., Singh, S., Sankaran, K., Lin, P. K.
-                  F., Seow, M. X.., Teng, J. S. Q., &amp; Shuli (2015). On the
-                  importance of trust in interpersonal attraction from attitude
-                  similarity.
-                  <em>Journal of Social and Personal Relationships</em>,
-                  <em>32</em>, 829-850. DOI: 10.1177/0265407515576993
+                  2007-2009 Member, International Advisory Board, Mudra
+                  Institute of Communication Research
                 </p>
+                <p>(MICORE), Ahmedabad, India</p>
                 <p>
-                  Singh, R., Chen, F., &amp; Wegener, D. T. (2014). The
-                  similarity-attraction link: Sequential versus parallel
-                  multiple-mediator models involving inferred attraction,
-                  respect, and positive affect. <em>Basic and</em
-                  ><em> Applied Social Psychology</em>, <em>36</em>, 281-298.
-                  DOI:10.1080/01973533.2014.912583
+                  2002-2006 Chair, Psychology Cluster, East Asian University
+                  Press. Times Media, Singapore
                 </p>
-                <p>
-                  Singh, R., Bell, P. A., Sinha, R. B. N., Singh, S., &amp;
-                  Sankaran, K. (2014). Crime against woman and punishment goals:
-                  Social order and country moderate the public protest effect.
-                  <em>IIMB </em><em>Management Review</em>, <em>26</em>, 82-90.
-                  DOI:10.1016/j.iimb.2013.12.005
-                </p>
-                <p>
-                  Singh, R., Ramasamy. M. A., Self, W. T., Simons, J. J. P.,
-                  &amp; Lin, P. K. F. (2013). Age-moderated effects of
-                  consequence and intent information on punishment: An intuitive
-                  prosecutorial interpretation.
-                  <em>The Journal of Genetic Psychology</em>, <em>174</em>,
-                  1-24. DOI:10.1080/00221325.2011.635913
-                </p>
-                <p>
-                  Singh, R., Simons, J. J. P., Self, W. T., Tetlock, P. E.,
-                  Zemba, Y., Yamaguchi, S., Osborn, C. Y., Fisher, J. D., May,
-                  J., &amp; Kaur, S. (2012). Association, culture, and
-                  collective imprisonment: Tests of a causal-moral model.
-                  <em>Basic and Applied Social Psychology</em>, <em>34</em>,
-                  269-277. DOI: 10.1080/01973533.2012.674763
-                </p>
-                <p>
-                  Singh, R., Simons, J.J P., Self, W. T. Tetlock, P. E., Bell,
-                  P. A., May J., Crisp, R. J., Kaur, S., Benfield,A., &amp;
-                  Sziemko, W. J. (2012). From wrongdoing to imprisonment: Test
-                  of a causal-moral model. <em>IIMB Management Review</em>,
-                  <em>24</em>, 73-78. DOI:10.1016/j.iimb.2012.02.001
-                </p>
-                <p>
-                  Singh, R., Kaur, S., Junid, Z. B., &amp; Self, W. T. (2011).
-                  Reacting to headline news: Circumstances leading to causal
-                  explanations versus implicational concerns.
-                  <em>International Journal of Psychology</em>, <em>46</em>,
-                  63-70. DOI: 10.1080/00207594.2010.516829
-                </p>
-                <p>
-                  Singh. R., &amp; Lin, X. (2011). The severity effect on the
-                  compensation and imprisonment recommendations: Deterrence as a
-                  mediator in Singapore.
-                  <em>Asian Journal of Social Psychology</em>, <em>14</em>,
-                  36-49. DOI: 10.1111/j.1467-839X.2010.01324.x
-                </p>
-                <p>
-                  Singh, R., &amp; Simons. J. J. P. (2010). Attitudes and
-                  attraction: Optimism and weight as explanations for the
-                  similarity-dissimilarity asymmetry.
-                  <em>Social and Personality Psychology Compass,</em>
-                  <em>4</em>, 1206- 1219. DOI: 10.1111/j.1751-9004.2010.00328.x
-                </p>
-                <p>
-                  Tetlock. P. E., Self, W. T., &amp; Singh, R. (2010). The
-                  punitiveness paradox: When is external pressure exculpatory
-                  and when a signal just to spread blame?
-                  <em>Journal of Experimental Social Psychology, 46,</em>
-                  388-395. DOI:10.1016/j.jesp.2009.11.013
-                </p>
-                <p>
-                  Jia, L., &amp; Singh, R. (2009). Asymmetrical attention
-                  allocation to dissimilar and similar attitudes.
-                  <em>Journal of Experimental Social Psychology, 45, </em
-                  >1259-1265. DOI:10.1016/j.jesp.2009.07.012
-                </p>
-                <p>
-                  Singh, R., Simons, J. J. P., Young, D. P. C. Y., Sim, B. S.
-                  X., Chai, X. T., Singh, S.,&amp; Choiu, S. Y. (2009). Trust
-                  and respect as mediators of the effects of other- and
-                  self-profitable trait on interpersonal attraction.
-                  <em>European Journal of Social Psychology</em>, <em>39</em>,
-                  1021-1038 DOI: 10.1002/ejsp.605
-                </p>
-                <p>
-                  Singh, R., Lin, P. K. F, Tan, H. L., &amp; Ho, L. J. (2008).
-                  Evaluations, attitudes, and interpersonal attraction: Testing
-                  the hypothesis of weighting interference across responses.
-                  <em>Basic and Applied Social Psychology</em>, <em>30</em>,
-                  241-252. DOI: 10.1080/01973530802375052
-                </p>
-                <p>
-                  Singh, R., &amp; Lee, C. Y. (2008). Mediators of the effects
-                  of cold-warm communication on attraction toward online service
-                  providers. <em>The Journal of Social Psychology, 148</em>,
-                  375-377. DOI: 10.3200/SOCP.148.3.375-378
-                </p>
-                <p>
-                  Singh, R., &amp; Tor, X. L. (2008). The relative effects of
-                  competence and likableness on interpersonal attraction.
-                  <em>The</em> <em>Journal of Social Psychology,</em>
-                  <em>148</em>, 253-255. DOI: 10.3200/SOCP.148.2.253 256
-                </p>
-                <p>
-                  Singh, R., Ng, R., Ong E. L., &amp; Lin, P. K. F. (2008).
-                  Different mediators of the age, sex, and attitude similarity
-                  effects on interpersonal attraction.
-                  <em>Basic and Applied Social Psychology</em>, <em>30</em>,
-                  1-17. DOI: 10.1080/01973530701665165
-                </p>
-                <p>
-                  Singh, R., Poh, W. Y., &amp; Chang, A. P. M. (2008).
-                  Competitive versus cooperative attitude in
-                  crossed-categorization effects: Testing the category dominance
-                  and equivalence models.
-                  <em>The Journal of Social Psychology</em>, <em>148</em>, 5-20.
-                  DOI:10.3200/SOCP.148.1.5-21
-                </p>
-                <p>
-                  Singh, R. Yeo, S. E., Lin, P. K. F. &amp; Tan, L. (2007).
-                  Multiple mediators of the attitude similarity-attraction
-                  relationship: Dominance of inferred attraction and subtlety of
-                  affect. <em>Basic and Applied Social Psychology</em>,
-                  <em>29</em>, 61-74. DOI: 10.1080/01973530701331007
-                </p>
-                <p>
-                  Tor, X. L. &amp; Singh, R. (2007). Inferred negative trait in
-                  the attitude similarity-attraction relationship.<em
-                    >The Journal of Social Psychology</em
-                  >, <em>147</em>, 190-192. DOI: 10.3200/SOCP.147.2.190-192
-                </p>
-                <p>
-                  Singh, R., Ho, L. J., Tan, H. L., &amp; Bell, P. A. (2007).
-                  Attitudes, personal evaluations, cognitive evaluation, and
-                  interpersonal attraction: On the direct, indirect, and
-                  reverse-causal effects.
-                  <em>British Journal of Social Psychology</em>, <em>46</em>,
-                  19-42. DOI: 10.1348/014466606X104417
-                </p>
-                <p>
-                  Tetlock, P. E., Visser, P., Singh, R., Polifroini, M., Scott,
-                  A., Elson, B., &amp; Mazzocco, P. (2007). People as intuitive
-                  prosecutors: The impact of social-control goals on
-                  punitiveness and attributions of responsibility.<em>
-                    Journal of Experimental Social Psychology</em
-                  >,<em> 43</em>, 195-209. DOI:10.1016/j.jesp.2006.02.009
-                </p>
-                <p>
-                  Singh, R., &amp; Goh, H. Y. (2006). Gender and group versus
-                  individual target as moderators of the models of crossed
-                  categorization effects.
-                  <em>Psychology and Developing Societies</em>, <em>18</em>,
-                  139-166. DOI: 10.1177/097133360601800201
-                </p>
-                <p>
-                  Sin, H. P., &amp; Singh, R. (2005). Age and outcome
-                  allocation: A new test of the subtractive model. <em>Asian</em
-                  ><em> Journal of Social Psychology</em>,<em> 8</em>, 211-223.
-                  DOI: 10.1111/j.1467-839X.2005.00168.x
-                </p>
-                <p>
-                  Singh, R., Sharmini, &amp; Choo, I. (2004). Intergroup
-                  perception as a compromise between in-group bias and
-                  fair-mindedness<em>. The Journal of Social Psychology</em>,
-                  <em>104</em>, 373-387. DOI: 10.3200/SOCP.144.4.373-388
-                </p>
-                <p>
-                  Singh, R., Chong, S. S. K., Leow, H. C., &amp; Tan, R. C. H.
-                  (2002). Cognitive and social effects in allocation behavior: A
-                  new view on loci of developmental differences.
-                  <em>Asian Journal of </em><em>Social Psychology</em>,
-                  <em>5</em>, 21-47. DOI: 10.1111/1467-839X.00092
-                </p>
-                <p>
-                  Singh, R. &amp; Kaur, S. (2002). Psychology at the National
-                  University of Singapore: The first 15 years.
-                  <em>Applied Psychology: An International Review</em>,
-                  <em>51</em>, 191-203. DOI: 10.1111/1464-0597.00086
-                </p>
-                <p>
-                  Singh, R., &amp; Teoh, J. B. P. (2000). Impression formation
-                  from intellectual and social traits: Evidence for behavioral
-                  adaptation and cognitive processing.
-                  <em>British Journal of Social Psychology</em>, <em>39</em>,
-                  537-554. DOI: 10.1348/014466600164624
-                </p>
-                <p>
-                  Singh, R., &amp; Ho, S. Y. (2000). Attitudes and attraction: A
-                  new test of the attraction, repulsion, and
-                  similarity-dissimilarity asymmetry hypotheses.
-                  <em>British Journal of Social Psychology</em>, <em>39</em>,
-                  197-211. DOI: 10.1348/014466600164426
-                </p>
-                <p>
-                  Singh, R., &amp; Teoh, J. B. P. (1999). Attitudes and
-                  attraction: A test of two hypotheses about the
-                  similarity-dissimilarity asymmetry.
-                  <em>British Journal of Social Psychology</em>,
-                  <em>38,</em> 427-443. DOI: 10.1348/014466699164257
-                </p>
-                <p>
-                  Singh, R., Choo, W. M., &amp; Poh, L. L. (1998). In-group bias
-                  and fair-mindedness as strategies of self-presentation in
-                  intergroup perception.
-                  <em>Personality and Social Psychology Bulletin</em>,
-                  <em>24, </em>147-162. DOI: 10.1177/0146167298242004
-                </p>
-                <p>
-                  Singh, R. (1998). Causal analyses in interpersonal relations:
-                  On importance of the control condition.
-                  <em>Asian Journal of Social Psychology</em>, <em>1</em>,
-                  33-50. DOI: 10.1111/1467-839X.00004
-                </p>
-                <p>
-                  Singh, R. (1997). Group harmony and interpersonal fairness in
-                  reward allocation: On the loci of the moderation effect.
-                  <em>Organizational Behavior and Human Decision Processes</em>,
-                  <em>72</em>, 158-183.
-                </p>
-                <p>
-                  Singh, R., Yeoh, B. S. E., Lim, D. I., &amp; Lim, K. K.
-                  (1997). Cross categorization effects in intergroup
-                  discrimination: Adding versus averaging.
-                  <em>British Journal of Social Psychology</em>,
-                  <em>36, </em>121-138. DOI: 10.1111/j.2044-8309.1997.tb01123.x
-                </p>
-                <p>
-                  Singh, R., Onglatco, M. L., Sriram, N., &amp; Tay, A. G. B.
-                  (1997). The warm–cold variable in impression formation:
-                  Evidence for the positive-negative asymmetry.
-                  <em>British Journal of Social Psychology</em>,<em> 36</em
-                  ><strong>,</strong> 457-477. DOI:
-                  10.1111/j.2044-8309.1997.tb01144.x
-                </p>
-                <p>
-                  Singh, R. (1996) Subtractive versus ratio model of
-                  &#8220;fair&#8221; allocation: Can group level analyses be
-                  misleading?
-                  <em>Organizational Behavior and Human Decision Processes</em>,
-                  <em>68,</em> 123-144.
-                </p>
-                <p>
-                  Tan, D. T. Y., &amp; Singh, R. (1995). Attitudes and
-                  attraction: A developmental study of the similarity–attraction
-                  and dissimilarity–repulsion hypotheses.
-                  <em>Personality and Social Psychology Bulletin,</em>
-                  <em>21</em>, 975-986. DOI:10.1177/0146167295219011
-                </p>
-                <p>
-                  Singh, R. (1995). &#8220;Fair&#8221; allocations of pay and
-                  workload: Tests of a subtractive model with nonlinear judgment
-                  function.
-                  <em>Organizational Behavior and Human Decision Processes</em>,
-                  <em>62</em>, 70-78.
-                </p>
-                <p>
-                  Lee, J. W., Yates, J. F., Shinotsuka, H., Yen, N. S., Singh,
-                  R., Onglatco, M. L. U., Gupta, M., &amp; Bhatnagar, D. (1995).
-                  Cross-national differences in overconfidence.
-                  <em>Asian Journal of Psychology</em>, <em>1</em>, 63-69.
-                </p>
-                <p>
-                  Singh, R., &amp; Huang, A. S. T. (1995). Locus of age effects
-                  in &#8220;fair&#8221; allocations.
-                  <em>Asian Journal of Psychology, 1</em>, 36-44.
-                </p>
-                <p>
-                  Singh, R., &amp; Singh, P. (1994). Prediction of performance
-                  using motivation and ability information: New light on
-                  integrational capacity and weighing strategies.
-                  <em>Cognitive Development,</em> <em>9</em>, 455–496.
-                  DOI:10.1016/0885-2014(94)90015-9
-                </p>
-                <p>
-                  Singh, R., &amp; Tan, L. S. C. (1992). Attitudes and
-                  attraction: A test of the similarity–attraction and
-                  dissimilarity–repulsion hypotheses.
-                  <em>British Journal of Social Psychology</em>, <em>31</em>,
-                  227–238. DOI: 10.1111/j.2044-8309.1992.tb00967.x
-                </p>
-                <p>
-                  Chik, W. Y. L., &amp; Singh, R. (1992). What makes a job
-                  attractive to Singaporean students?
-                  <em>Singapore Psychologist</em>, <em>4</em>, 19–32.
-                </p>
-                <p>
-                  Sim, T. N., &amp; Singh, R. (1991). Peer and maternal factors
-                  in the manifestation of conduct problems.
-                  <em>Psychologia</em>, <em>34, 1</em>64–170.
-                </p>
-                <p>
-                  Norman, K. L., &amp; Singh, R. (1989). Expected performance at
-                  human/computer interface as a function of user proficiency and
-                  system power. <em>Journal of Behavioral Decision Making,</em>
-                  <em>2</em>, 179–195.
-                </p>
-                <p>
-                  Srivastava, P., &amp; Singh, R. (1988). Age and task
-                  differences in prediction of performance from motivation and
-                  ability information. <em>Child Development,</em> <em>59</em>,
-                  769–781.
-                </p>
-                <p>
-                  Singh, R. (1988). Life Performance ¹ Motivation x Ability x
-                  Opportunity: Individual differences in predictive models.
-                  <em>Genetic, Social, and General Psychology Monographs,</em>
-                  <em>114</em>, 191–210.
-                </p>
-                <p>
-                  Singh, R., &amp; Mehta, M. (1988). Differences between mothers
-                  and fathers in prediction of son&#8217;s performance in easy
-                  through difficult exams.
-                  <em>International Journal of Psychology,</em> <em>23</em>,
-                  433–447.
-                </p>
-                <p>
-                  Kelley, K., Cheung, F. M., Rodriguez–Carrillo, P., Singh, R.,
-                  &amp; Wan, C. K. (1986). Chronic self-destructiveness and
-                  locus of control in cross-cultural perspective. <em>The</em>
-                  <em>Journal of Social </em><em>Psychology</em>, <em>126</em>,
-                  573-577.
-                </p>
-                <p>
-                  Dalal, A. K., &amp; Singh, R. (1986). An
-                  integration–theoretical analysis of expected job
-                  attractiveness and satisfaction.
-                  <em>International Journal of Psychology,</em> <em>21</em>,
-                  555–564.
-                </p>
-                <p>
-                  Singh, R., &amp; Bhargava, S. (1986). Constant–weight versus
-                  relative–weight averaging in the prediction of exam
-                  performance.
-                  <em>Journal of Experimental Social Psychology, 22</em>,
-                  547–566.
-                </p>
-                <p>
-                  Singh, R., &amp; Bhargava, S. (1985). Motivation, ability, and
-                  exam performance: Tests of hypotheses of cultural difference
-                  and task difficulty.
-                  <em>Journal of Experimental Social Psychology,</em>
-                  <em>21</em>, 466–479.
-                </p>
-                <p>
-                  Singh, R. (1985). A test of the relative ratio model of reward
-                  division with students and managers in India.
-                  <em>Genetic, Social, and General Psychology Monographs,</em>
-                  <em>111</em>, 363–384.
-                </p>
-                <p>
-                  Singh, R. (1983). Leadership style and reward allocation: Does
-                  least preferred co–worker scale measure task and relation
-                  orientation?
-                  <em>Organizational Behavior and Human Performance,</em>
-                  <em>32</em>, 178–197.
-                </p>
-                <p>
-                  Gupta, M., &amp; Singh, R. (1981). An integration–theoretical
-                  analysis of cultural and developmental differences in
-                  attribution of performance.
-                  <em>Developmental Psychology,</em> <em>17,</em> 816–825.
-                </p>
-                <p>
-                  Singh, R., Gupta, M., &amp; Dalal, A. K. (1979). Cultural
-                  difference in attribution of performance: An
-                  integration–theoretical analysis.
-                  <em>Journal of Personality and Social Psychology,</em>
-                  <em>37</em>, 1342–1351.
-                </p>
-                <p>
-                  Singh, R., Bohra, K. A., &amp; Dalal, A. K. (1979).
-                  Favorableness of leadership situations studied with
-                  information integration theory.
-                  <em>European Journal of Social Psychology,</em> <em>9</em>,
-                  253–264.
-                </p>
-                <p>
-                  Singh, R. (1978). Disciplinary judgments as information
-                  integration. <em>The</em>
-                  <em>Journal of Social Psychology,</em> <em>104,</em> 197–205.
-                </p>
-                <p>
-                  Singh, R., Sidana, U. R., &amp; Saluja, S. K. (1978).
-                  Playgroup attractiveness studied with information integration
-                  theory. <em>Journal of Experimental Child Psychology,</em>
-                  <em>25</em>, 429–436.
-                </p>
-                <p>
-                  Singh, R., Sidana, R., &amp; Saluja, S. K. (1978). Integration
-                  theory applied to judgments of personal happiness by children.
-                  <em>The Journal of Social Psychology,</em> <em>105</em>,
-                  27–31.
-                </p>
-                <p>
-                  Singh, R., Sidana, U. R., &amp; Srivastava, P. (1978).
-                  Averaging processes in children&#8217;s judgment of happiness.
-                  <em>The Journal of Social Psychology,</em> <em>104</em>,
-                  123–132.
-                </p>
-                <p>
-                  Singh, R. (1976). Affective style and person perception.
-                  <em>The</em> <em>Journal of Social Psychology</em>,
-                  <em>98</em>, 289–290.
-                </p>
-                <p>
-                  Singh, R. (1976). Set–size effect in impression formation as a
-                  function of set homogeneity–heterogeneity.
-                  <em>Psychologia, 19<strong>, </strong></em>108–113.
-                </p>
-                <p>
-                  Singh, R. (1976). Trait meaning in impression formation as a
-                  function of trait variance.
-                  <em>Bulletin of the Psychonomic Society, 7</em>, 364–366.
-                </p>
-                <p>
-                  Sidana, U. R., Singh, R., &amp; Srivastava, P. (1976). Social
-                  agents in children&#8217;s happiness.
-                  <em>The Journal of Social Psychology,</em> <em>99</em>,
-                  289–290.
-                </p>
-                <p>
-                  Singh, R. (1975). Information integration theory applied to
-                  expected job attractiveness and satisfaction.
-                  <em>Journal of Applied Psychology</em>, <em>60</em>, 621–623.
-                </p>
-                <p>
-                  Singh, R. (1975). Reinforcement, affect, and interpersonal
-                  attraction. <em>Psychologia, 18</em>, 142–148.
-                </p>
-                <p>
-                  Singh, R., &amp; Jack, R. M. (1975). Personal evaluations,
-                  laughter, and affective judgments.
-                  <em>Journal of Social Psychology,</em> <em>97</em>, 53–59.
-                </p>
-                <p>
-                  Singh, R., &amp; Brink, J. H. (1975). Regression effect in
-                  interpersonal judgment.
-                  <em>Journal of Social Psychology,</em> <em>97</em>, 295–296.
-                </p>
-                <p>
-                  Singh, R., Byrne, D., Gupta, N. C., &amp; Clouser, M. (1974).
-                  Informational set–size as a determinant of interpersonal
-                  judgment in a between–subjects design.
-                  <em>Representative Research in Social Psychology, 5</em>,
-                  17–26.
-                </p>
-                <p>
-                  Singh, R. (1974). Reinforcement and attraction: Specifying the
-                  effects of affective states. <em>Journal of </em
-                  ><em>Research in Personality, 8</em>, 294–305.
-                </p>
-                <p>
-                  Singh, R., &amp; Memering, M. (1974). Trait repetition and
-                  interpersonal judgment.
-                  <em>Journal of Social Psychology,</em> <em>94</em>, 151–152.
-                </p>
-                <p>
-                  Singh, R. (1973). Attraction as a function of similarity in
-                  attitudes and personality characteristics.
-                  <em>Journal of Social Psychology,</em> <em>91</em>, 87–95.
-                </p>
-                <p>
-                  Singh, R. (1973). Evaluative response and certainty of its
-                  accuracy as a function of proportion of positive information.
-                  <em>Psychologia,</em> <em>16</em>, 218–223.
-                </p>
-                <p>
-                  Capaldi, E. D., &amp; Singh, R. (1973). Percentage body weight
-                  and the successive negative contrast effect in rats.
-                  <em>Learning and Motivation,</em> <em>4</em>, 405–416.
-                </p>
-                <p><em>Predoctoral Research</em></p>
-                <p>
-                  De, B., &amp; Singh, R. (1972). A cross–cultural study of the
-                  Maudsley personality inventory and the manifest anxiety scale.
-                  <em>Behaviorometrics,</em> <em>2</em>, 40–44.
-                </p>
-                <p>
-                  Singh, R. (1971). Academic motivation as a determinant of
-                  school attendance and attainment. <em>Indian</em
-                  ><em> Educational Review, 6(2)</em>, 233–237.
-                </p>
-                <p>
-                  Singh, R., &amp; Byrne, D. (1971). Cognitive certainty and
-                  affective neutrality as a function of stimulus
-                  homogeneity–heterogeneity. <em>Psychonomic Science,</em>
-                  <em>25</em>, 207–208.
-                </p>
-                <p>
-                  De, B., &amp; Singh, R. (1971). Induced goals as determinants
-                  of verbal learning.
-                  <em>Indian Journal of Experimental Psychology,</em>
-                  <em>5</em>, 32–34.
-                </p>
-                <p>
-                  De, B., Singh, R., &amp; Sinha, P. (1971). A note on family
-                  size, birth order, and intelligence.
-                  <em>Journal of Psychological Researches,</em> <em>15</em>,
-                  45–47.
-                </p>
-                <p>
-                  Singh, R. (1971). Incidental and intentional learning of
-                  perceptual–motor skill.
-                  <em>Indian Journal of Experimental Psychology,</em>
-                  <em>5</em>, 29–31.
-                </p>
-                <p>
-                  De, B., &amp; Singh, R. (1970). Home adjustment as a
-                  determinant of academic motivation.
-                  <em>Indian Educational Review,</em> <em>5(2)</em>, 52– 58.
-                </p>
-                <p>
-                  De, B., &amp; Singh, R. (1970). A Hindi adaptation of the
-                  Aberdeen academic motivation inventory.
-                  <em>Indian Educational Review,</em> <em>5(1)</em>, 71–74.
-                </p>
-                <p>
-                  Shanker, U., &amp; Singh, R. (1970). Recall of completed and
-                  interrupted tasks as a function of intolerance of ambiguity.
-                  <em>Indian Journal of Psychometry and Education,</em>
-                  <em>1</em>, 27–32.
-                </p>
-                <p>
-                  Hazari, A., &amp; Singh, R. (1969). Social maladaptation as a
-                  factor in the recall of completed and interrupted tasks.<em>
-                    Indian Psychological Review,</em
-                  >
-                  <em>5,</em> 122–125.
-                </p>
-                <p>
-                  Roy, B. P., &amp; Singh, R. (1968). Learning and retention of
-                  paired–associates as a function of nature of stimulus item.
-                  <em>Indian Journal of Experimental Psychology,</em>
-                  <em>2</em>, 45–49.
-                </p>
-                <p><em>Chapters in Edited Volumes</em></p>
-                <p>
-                  Singh, R. (2022). On the complexity of a “seemingly simple
-                  relation” between attitude similarity and attraction, In P.
-                  Singh &amp; G. Misra (Eds.),
-                  <em
-                    >Social psychology in the globalizing era: Emerging
-                    challenges and potentials</em
-                  >. [New Delhi: Published to be decided]
-                </p>
-                <p>
-                  Singh, R. (2022). Validating cognitive and emotional urges in
-                  understanding of one’s surroundings: The case of attraction
-                  from attitudes. In R. C. Tripathi &amp; J. Pandey (Eds.),
-                  <em>Psychology in cultures and contexts</em> (pp.??). New
-                  Delhi: Sage.
-                </p>
-                <p>
-                  Singh, R. (2011). Imputing values to missing information in
-                  social judgment. In R. M. Arkin (Ed.),
-                  <em
-                    >Most underappreciated: 50 prominent social psychologists
-                    describe their most unloved work </em
-                  >(pp<em>. </em>159-164). New York: Oxford University Press.
-                </p>
-                <p>
-                  Singh, R. (2011). Information integration as a basic cognitive
-                  process. In G. Mishra (Ed.), <em>Handbook of </em
-                  ><em>psychology in India</em> (pp<em>.</em>73-98). New Delhi:
-                  Oxford University Press.
-                </p>
-                <p>
-                  Singh, R., Simons, J. J. P., Self, W. T., Tetlock, P. E.,
-                  Bell, P. A., Ong, P., &amp; Kaur, S. (2011). Cultural and
-                  developmental differences in norm and meta-norm enforcement:
-                  Does collective blame compensate for individual blame? In P.
-                  Singh, P. Bain, C. H. Leong, G. Misra, &amp; Y. Ohtsubo
-                  (Eds.),
-                  <em
-                    >Psychological, group, and cultural processes in changing
-                    societies:
-                  </em>
-                  <em>The Progress in Asian social psychology series</em> (Vol.
-                  8, pp. 109-122). New Delhi: MacMillan.
-                </p>
-                <p>
-                  Singh, R. (2010). Religious majority-minority and gender
-                  differences in models of crossed categorization effects: Some
-                  evidence for social development. In J. Pandey, T. N. Sinha,
-                  &amp; A. K. Sinha (Eds.), <em>Dialogues </em
-                  ><em>for development </em>(pp. 230-251). New Delhi, India:
-                  Concept.
-                </p>
-                <p>
-                  Singh, R. (2006). Gender among multiple categories: Social
-                  attraction in women but interpersonal attraction in men. In R.
-                  Crisp &amp; M. Hewstone (Eds.),
-                  <em
-                    >Multiple categories and cross-categorizations: Processes,
-                    models, and applications </em
-                  >(pp. 189-208). East Sussex: UK: Psychology Press.
-                </p>
-                <p>
-                  Singh, R. (2006). Dealing with norm and meta-norm violators:
-                  Cultural differences in thoughts or motivated actions? In Q.
-                  Jing, M. R. Rosenzweig, G. d&#8217;Ydewalle, H. Zhang, H.C.
-                  Chen, &amp; K. Zhang (Eds.),
-                  <em
-                    >Progress in psychological science around the world (Vol. 2:
-                    Social and applied issue, </em
-                  >pp. 261-278). East Sussex, UK: Psychology Press.
-                </p>
-                <p>
-                  Singh, R. (2000). [Psychology in] Southeast Asia. In A. R.
-                  Kazdin (Ed.), <em>Encyclopedia of psychology</em> (Vol. 7, pp.
-                  403-411). New York: Oxford University Press.
-                </p>
-                <p>
-                  Singh, R. (1991). Two problems in cognitive algebra:
-                  Imputations and averaging–versus–multiplying. In N. H.
-                  Anderson (Ed.),
-                  <em>Contributions to information integration theory</em> (Vol.
-                  II, Social, pp. 143–180). Hillsdale, NJ: Erlbaum.
-                </p>
-                <p>
-                  Singh, R. (1988). Attitudes and social cognition. In J. Pandey
-                  (Ed.),
-                  <em>Psychology in India: The state–of–the–art</em> (Vol. 2,
-                  pp. 19–54). New Delhi: Sage.
-                </p>
-                <p>
-                  Singh, R. (1981). Prediction of performance from motivation
-                  and ability: An appraisal of the cultural difference
-                  hypothesis. In J. Pandey (Ed.),
-                  <em>Perspectives on experimental</em
-                  ><em> social psychology in India</em> (pp. 21–53). New Delhi:
-                  Concept Learning.
-                </p>
-                <p>
-                  Singh, R. (1981). Experimental social psychology is real and
-                  scientific: A reply to Durganand Sinha. In J. Pandey (Ed.),
-                  <em
-                    >Perspectives on experimental social psychology in India</em
-                  >
-                  (pp. 229–239). New Delhi: Concept Learning.
-                </p>
-                <p>
-                  Singh, R., Palaniswamy, S. P., &amp; Pradhan, Y. N. (1981). An
-                  information integration theory analysis of attractiveness of
-                  bus systems. In N. K. Jaiswal (Ed.),
-                  <em>Scientific management of transport systems</em> (pp.
-                  335–345). Amsterdam: North Holland.
-                </p>
-                <p>
-                  Singh, R. (1977). Set–size of information and interpersonal
-                  judgment: Methodological and theoretical considerations. In B.
-                  De &amp; D. Sinha (Eds.),
-                  <em>A perspective on psychology in India</em> (pp. 75–101).
-                  Allahabad: D. Sinha.
-                </p>
-                <p><em>Research Monograph</em></p>
-                <p>
-                  Singh, R. (1982).
-                  <em>Children&#8217;s judgments of personal happiness</em> (PSG
-                  Monograph 42). Ahmedabad: Indian Institute of Management.
-                </p>
-                <p><em>Book Reviews</em></p>
-                <p>
-                  B. Minor&#8217;s (1992)
-                  <em>Industrial–organizational psychology.</em> New York:
-                  McGraw–Hill in <em>Vikalpa</em>, 1992, <em>17</em>, 58–59.
-                </p>
-                <p>
-                  R. Real&#8217;s (1989)
-                  <em>Super media: A cultural studies approach</em>. Newbury
-                  Park: Sage in <em>Media Asia</em>, 1991, <em>18</em>, 208–209.
-                </p>
-                <p>
-                  P. Campbell, R.L. Daft, &amp; C.L. Hulin&#8217;s (1982)
-                  <em
-                    >What to study: Generating and developing research
-                    questions</em
-                  >. Beverly Hills, Calif.: Sage in <em>Vikalpa</em>, 1986,
-                  <em>11</em>, 89–90.
-                </p>
-                <p>
-                  B. P. Sinha&#8217;s (1980)
-                  <em
-                    >The nurturant task leader: A model of the effective
-                    executive</em
-                  >. New Delhi: Concept Learning Press in
-                  <em>Psychological Studies</em>, 1981, <em>26</em>, 133–134.
-                </p>
-                <p>
-                  Krishnan&#8217;s (Ed., 1974) <em>Studies in psychology</em>.
-                  Mysore: University of Mysore in
-                  <em>Indian Journal of Psychology</em>, 1975,
-                  <em>50,</em> 69–70.
-                </p>
-                <p><em>Remembrances and Obituaries</em></p>
-                <p>
-                  <em> </em>Singh, R. (2016). Obituary: Kwok Leung.
-                  <em>Asian Journal of Social Psychology</em>, <em>19</em>,
-                  88-89.DOI: 10.1111/ajsp.12135
-                </p>
-                <p>
-                  Fisher, W. A., Fisher, J. D., Singh, R., &amp; Baron, R. A.
-                  (July-August 2015). Obituary: Donn Byrne (1931-2014).
-                  <em>American Psychologist</em>, 70, 477. DOI:
-                  dx.doi.org/10.1037/a0039175
-                </p>
-                <p>
-                  Singh, R. (2014, December). Remembering Donn Byrne: December
-                  19, 1931-August 10, 2014. <em>APS Observer</em>,
-                  <em>27(10),</em> 27-28.
-                  <a
-                    href="http://www.psychologicalscience.org/index.php/publications/observer/2014/december-14/remembering-donn-byrne.html"
-                    >http://www.psychologicalscience.org/index.php/publications/observer/2014/december-14/remembering-donn-byrne.html</a
-                  >
-                </p>
-                <p><em>Miscellaneous Publications</em></p>
-                <p>
-                  Singh, R. (1993, January). Management development in Nepal: A
-                  civic perspective. <em>The Social Engineer</em>,
-                  <em>2,</em> 15–18.
-                </p>
-                <p>
-                  Singh, R. (1992, October). Social advertising in Singapore
-                  (Japanese).
-                  <em>Bulletin of Nikkei Advertising Research Institute</em>,
-                  <em>141</em>, 21–25.
-                </p>
-                <p>
-                  Singh, R. (1991, December). Contemporary ads in Singapore
-                  (Japanese).
-                  <em>Bulletin of Nikkei Advertising Research Institute</em>,
-                  <em>140,</em> 24–28.
-                </p>
-                <p>
-                  Singh, R. (1987). Towards a better campus recruitment.
-                  <em>Vikalpa</em>, <em>12</em>, 63–65.
-                </p>
-                <p>
-                  Singh, R. (1987). On redesign of application form for better
-                  selection decisions. <em>Vikalpa</em>, <em>12</em>, 67–69.
-                </p>
-                <p>
-                  Singh, R. (1985). Stress–resistant executives: The hardy
-                  personality. <em>Vikalpa</em>, <em>10</em>, 463–465.
-                </p>
-                <div id="atatags-370373-6560671864faf">
+                <div id="atatags-370373-65606a35244eb">
                   <script type="text/javascript">
                     __ATA.cmd.push(function () {
-                      __ATA.initVideoSlot("atatags-370373-6560671864faf", {
+                      __ATA.initVideoSlot("atatags-370373-65606a35244eb", {
                         sectionId: "370373",
                         format: "inread",
                       });
                     });
                   </script>
                 </div>
-                <div id="atatags-26942-65606718650ee"></div>
+                <div id="atatags-26942-65606a352454b"></div>
 
                 <script>
                   __ATA.cmd.push(function () {
                     __ATA.initDynamicSlot({
-                      id: "atatags-26942-65606718650ee",
+                      id: "atatags-26942-65606a352454b",
                       location: 120,
                       formFactor: "001",
                       label: {
@@ -2148,9 +1285,9 @@
                           <li class="share-twitter">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-twitter-79"
+                              data-shared="sharing-twitter-51"
                               class="share-twitter sd-button share-icon"
-                              href="/publications.html?share=twitter"
+                              href="/advisors.html?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -2159,9 +1296,9 @@
                           <li class="share-facebook">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-facebook-79"
+                              data-shared="sharing-facebook-51"
                               class="share-facebook sd-button share-icon"
-                              href="/publications.html?share=facebook"
+                              href="/advisors.html?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -2172,6 +1309,8 @@
                       </div>
                     </div>
                   </div>
+                </div>
+              </div>
               <!-- .entry-content -->
             </article>
             <!-- #post-## -->
@@ -2187,8 +1326,8 @@
 
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
-          <a target="_blank" href="https://webclass.in" rel="nofollow"
-            >Designed & Developed By WebClass.in</a
+          <a target="_blank" href="https://webclass.in/" rel="nofollow"
+            >Designed & Developed At WebClass.in</a
           >
         </div>
         <!-- .site-info -->
@@ -2563,7 +1702,7 @@
 
     <script type="text/javascript">
       window.WPCOM_sharing_counts = {
-        "https:\/\/ramadharsingh.wordpress.com\/publications\/": 79,
+        "https:\/\/ramadharsingh.wordpress.com\/advisors\/": 51,
       };
     </script>
     <script type="text/javascript" id="comment-like-js-extra">
@@ -2732,7 +1871,7 @@
           v: "wpcom",
           tz: "0",
           user_id: "0",
-          post: "79",
+          post: "51",
           subd: "ramadharsingh",
         },
       ]);
@@ -2740,10 +1879,10 @@
         "extra",
         {
           crypt:
-            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1eUV+XXFPPUxOWEdYVkhRLEVPSjhKdFQmL3pYSG9naWl+ZC5lMC8zNSZsUm1pc05tZzdmLC9ISk1HWV9tTGItak5Kc1Y9bktmN1cyRSZra0Z2NlhzR3ImZngmbyV6RkMtLUNva1owdVd4ZW1pbXRrdlAzOU9SLV8tVHI/aWV8SlYtS0QwLA==",
+            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1d2lKP2ZMUlpbTWlOcj1jWy9lWmhRVnYrUTdLT21PZm9DTyUlRk5pJi9Sa1phTGMud2NIblZaVTliMVVYWU94M0dwJlR3Yy5+WUIvPXw3K2pjTjM9cm4xV1V4aGclTTFXS3FZQnVHeUE3dHIwbE1ITkJLdkZtZ2FXZT18T2FjLjE4UDl3",
         },
       ]);
-      _stq.push(["clickTrackerInit", "115692407", "79"]);
+      _stq.push(["clickTrackerInit", "115692407", "51"]);
     </script>
     <noscript
       ><img

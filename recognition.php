@@ -1,3 +1,6 @@
+<?php 
+  require_once 'includes/main_view.inc.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,7 +12,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Responsibilities &#8211; Ramadhar Singh &#8211; Distinguished Professor
+      Recognition &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -47,6 +50,12 @@
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Feed"
       href="/feed.xml/"
+    />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Ramadhar Singh - Distinguished Professor &raquo; Comments Feed"
+      href="https://ramadharsingh.wordpress.com/comments/feed/"
     />
     <script type="text/javascript">
       /* <![CDATA[ */
@@ -236,6 +245,12 @@
       type="text/css"
       media="all"
     />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
+      type="text/css"
+      media="all"
+    />
     <style id="wp-emoji-styles-inline-css">
       img.wp-smiley,
       img.emoji {
@@ -270,7 +285,7 @@
       crossorigin="anonymous"
       rel="stylesheet"
       id="all-css-4-1"
-      href="https://s0.wp.com/_static/??-eJyVjcEKwjAQRH/IdFstggfxW9LNsqTdpCGbIPl740l7ETw+Zt4MPJPxEaU6UlgVAjlvSShQLAdIYhtlI8QW2xB8HFD1BL/0nn3zQcI9lncnSWUfFbh2XCizWWTHrY9RSRY302/3Wgxn70BLE/p/ItviI+tHf4T7dJ0v53G8TfP6AjdwYUY=&cssminify=yes"
+      href="https://s0.wp.com/_static/??-eJyVjV0OwiAQBi8kEKrR+mA8C4UN2br8hAVNby8mprEvGh8n+82semSB0VJzwGpmFcChAYIAsW4gk1mgCAJv7CIDRmmZd+qb3m+fvJFsivW1ydQ8Rla+dZygeDFRsrceg5qNvYn+NrUqfEGnuC4E/yeKqRg9/9BtemuD1KPUgjFkAlHgLg/KIdd1IdbQNVz0cdTjfhjOp/kJMmh7kg==&cssminify=yes"
       type="text/css"
       media="all"
     />
@@ -767,7 +782,7 @@
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
         bridgeUrl:
           "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-videopress\/build\/lib\/token-bridge.js",
-        post_id: "49",
+        post_id: "40",
       };
       /* ]]> */
     </script>
@@ -775,7 +790,7 @@
       /* <![CDATA[ */
       var actionbardata = {
         siteID: "115692407",
-        postID: "49",
+        postID: "40",
         siteURL: "http:\/\/ramadharsingh.wordpress.com",
         xhrURL:
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
@@ -785,7 +800,7 @@
         subsEmailDefault: "instantly",
         proxyScriptUrl:
           "https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021",
-        shortlink: "https:\/\/wp.me\/P7PqSz-N",
+        shortlink: "https:\/\/wp.me\/P7PqSz-E",
         i18n: {
           followedText:
             'New posts from this site will now appear in your <a href="https:\/\/wordpress.com\/read">Reader<\/a>',
@@ -810,46 +825,24 @@
       });
       /* ]]> */
     </script>
-    <link
-      rel="EditURI"
-      type="application/rsd+xml"
-      title="RSD"
-      href="https://ramadharsingh.wordpress.com/xmlrpc.php?rsd"
-    />
     <meta name="generator" content="WordPress.com" />
-    <link
-      rel="canonical"
-      href="/responsibilities.html"
-    />
-    <link rel="shortlink" href="https://wp.me/P7PqSz-N" />
-    <link
-      rel="alternate"
-      type="application/json+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fresponsibilities%2F&amp;for=wpcom-auto-discovery"
-    />
-    <link
-      rel="alternate"
-      type="application/xml+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fresponsibilities%2F&amp;for=wpcom-auto-discovery"
-    />
+    <link rel="canonical" href="/recognition.html" />
+    <link rel="shortlink" href="https://wp.me/P7PqSz-E" />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Responsibilities" />
-    <meta
-      property="og:url"
-      content="/responsibilities.html"
-    />
+    <meta property="og:title" content="Recognition" />
+    <meta property="og:url" content="/recognition.html" />
     <meta
       property="og:description"
-      content="Journal Editorships Editor 1994–1995:   Asian Journal of Psychology Associate Editor 2016–    :          Asian Journal of Social Psychology 2010– :          IIMB Management Review Consulting Editor…"
+      content="2022 KAKA Education Forever Award, the KAKA Community Learning Center, Balara, Sarlahi, Nepal: 2022 Heritage Wall of Fame, the Society for Personality and Social Psychology, Washington, DC, USA: 20…"
     />
     <meta
       property="article:published_time"
-      content="2016-08-31T14:37:26+00:00"
+      content="2016-08-31T14:10:15+00:00"
     />
     <meta
       property="article:modified_time"
-      content="2017-05-19T15:05:07+00:00"
+      content="2022-10-20T07:02:36+00:00"
     />
     <meta
       property="og:site_name"
@@ -863,14 +856,14 @@
       property="article:publisher"
       content="https://www.facebook.com/WordPresscom"
     />
-    <meta name="twitter:text:title" content="Responsibilities" />
+    <meta name="twitter:text:title" content="Recognition" />
     <meta name="twitter:card" content="summary" />
 
     <!-- End Jetpack Open Graph Tags -->
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="/icons/favicon.ico"
+      href="icons/favicon.ico"
       sizes="16x16 24x24 32x32 48x48"
     />
     <link
@@ -883,14 +876,8 @@
     <link
       rel="search"
       type="application/opensearchdescription+xml"
-      href="https://ramadharsingh.wordpress.com/osd.xml"
+      href="https://ramadharsingh.com/osd.xml"
       title="Ramadhar Singh - Distinguished Professor"
-    />
-    <link
-      rel="search"
-      type="application/opensearchdescription+xml"
-      href="https://s1.wp.com/opensearch.xml"
-      title="WordPress.com"
     />
     <meta
       name="application-name"
@@ -902,7 +889,7 @@
     />
     <meta
       name="description"
-      content="Journal Editorships Editor 1994–1995:   Asian Journal of Psychology Associate Editor 2016–    :          Asian Journal of Social Psychology 2010– :          IIMB Management Review Consulting Editor 2017-     :      Journal of Theoretical Social Psychology 2014-2016:   Review of General Psychology 2011-    :        South Asian Journal of Management 2011-2013:    &hellip;"
+      content="2022 KAKA Education Forever Award, the KAKA Community Learning Center, Balara, Sarlahi, Nepal: https://kakaclc.org.np/activities/ 2022 Heritage Wall of Fame, the Society for Personality and Social Psychology, Washington, DC, USA: https://spsp.org/membership/awards/heritage-wall-of-fame/ramadhar-singh/ 2022  Distinguished Alumni Award in Psychological Sciences, College of Health and Human Sciences, Purdue University, West Lafayette, Indiana, USA: https://www.purdue.edu/hhs/news/2022/02/passion-for-research-drives-hhs-distinguished-alumni-award-recipient-to-excel-in-social-psychology-and-management 2022  Prabha and Ramadhar Singh&hellip;"
     />
     <style type="text/css" id="apostrophe-header-css"></style>
     <script type="text/javascript">
@@ -1076,7 +1063,7 @@
       var sas_fallback = sas_fallback || [];
       sas_fallback.push(
         {
-          tag: "&lt;div id=&quot;atatags-26942-656065de12462&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-656065de12462',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
+          tag: "&lt;div id=&quot;atatags-26942-656069ece9385&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-656069ece9385',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
           type: "belowpost",
         },
         {
@@ -1143,7 +1130,7 @@
   </head>
 
   <body
-    class="page-template-default page page-id-49 customizer-styles-applied apostrophe-no-sidebar"
+    class="page-template-default page page-id-40 customizer-styles-applied apostrophe-no-sidebar"
   >
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
@@ -1162,94 +1149,9 @@
           <h2 class="site-description"></h2>
         </div>
 
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <a class="menu-toggle">Menu</a>
-          <a class="skip-link screen-reader-text" href="#content"
-            >Skip to content</a
-          >
-
-          <div class="menu-primary-container">
-            <ul id="menu-primary" class="apostrophe-navigation">
-              <li
-                id="menu-item-8"
-                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"
-              >
-                <a href="/">Home</a>
-              </li>
-              <li
-                id="menu-item-173"
-                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-173"
-              >
-                <a href="https://ramadharsingh.wordpress.com/overview/"
-                  >Overview</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-54"
-                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-49 current_page_item menu-item-54"
-                  >
-                    <a
-                      href="/responsibilities.html"
-                      aria-current="page"
-                      >Responsibilities</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-17"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17"
-              >
-                <a href="/research.html"
-                  >Research</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-65"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"
-                  >
-                    <a href="/publications.html"
-                      >Publications</a
-                    >
-                  </li>
-                  <li
-                    id="menu-item-39"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"
-                  >
-                    <a
-                      href="/doctoralStudents.html"
-                      >Students supervised</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-19"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
-              >
-                <a href="/conference.html"
-                  >Colloquium &amp; Conference</a
-                >
-              </li>
-              <li
-                id="menu-item-42"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"
-              >
-                <a href="/recognition.html"
-                  >Recognition</a
-                >
-              </li>
-              <li
-                id="menu-item-53"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"
-              >
-                <a href="/advisors.html"
-                  >Advisors</a
-                >
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php 
+          getNavbar();
+        ?>
         <!-- #site-navigation -->
       </header>
       <!-- #masthead -->
@@ -1258,158 +1160,356 @@
         <section id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article
-              id="post-49"
-              class="post-49 page type-page status-publish hentry"
+              id="post-40"
+              class="post-40 page type-page status-publish hentry"
             >
               <header class="entry-header">
-                <h1 class="entry-title">Responsibilities</h1>
+                <h1 class="entry-title">Recognition</h1>
               </header>
               <!-- .entry-header -->
 
               <div class="entry-content">
-                <p><strong>Journal Editorships</strong></p>
-                <p><em>Editor</em></p>
-                <p>1994–1995: Asian Journal of Psychology</p>
-                <p><em>Associate Editor</em></p>
-                <p>2016– : Asian Journal of Social Psychology</p>
-                <p>2010– : IIMB Management Review</p>
-                <p><em>Consulting Editor</em></p>
-                <p>2017- : Journal of Theoretical Social Psychology</p>
-                <p>2014-2016: Review of General Psychology</p>
-                <p>2011- : South Asian Journal of Management</p>
-                <p>2011-2013: Advances in Applied Psychology (AA Society)</p>
-                <p>2000–2015: Psychological Studies</p>
-                <p>1998–2015: Asian Journal of Social Psychology</p>
-                <p>1995– : The Social Engineer</p>
-                <p>1991–1997: Journal of Behavioral Decision Making</p>
-                <p>1991–1993: Singapore Psychologist</p>
-                <p>1989–2011: Psychology and Developing Societies</p>
-                <p>1989–1996: Indian Journal of Psychology</p>
-                <p>1986–1988: Vikalpa: The Journal of Decision Makers</p>
-                <p><em>Issue Consultant</em></p>
-                <p>2016: Journal of Pacific Rim Psychology</p>
-                <p>2014: Journal of Social and Personal Relationships</p>
-                <p>2014: Review of General Psychology</p>
-                <p>2013: Basic and Applied Social Psychology</p>
-                <p>2012: Australian Journal of Psychology</p>
                 <p>
-                  2011: Psicológica: International Journal of Methodology and
-                  Experimental Psychology
-                </p>
-                <p>2011: Journal of Cross Cultural Psychology</p>
-                <p>2010: British Journal of Developmental Psychology</p>
-                <p>2009: Social Psychological and Personality Science</p>
-                <p>2006: Developmental Psychology</p>
-                <p>2006: Journal of Social and Personal Relationships</p>
-                <p>1999: Research and Practice in Human Resource Management</p>
-                <p>1998: Personality and Social Psychology Bulletin</p>
-                <p>1996: British Journal of Social Psychology</p>
-                <p>1994: Journal of Experimental Social Psychology</p>
-                <p>1994: Journal of Personality and Social Psychology</p>
-                <p>1991: Psychological Bulletin</p>
-                <p>1980: European Journal of Social Psychology</p>
-                <hr />
-                <p>&nbsp;</p>
-                <p><strong>Administrative Positions</strong></p>
-                <p>
-                  1997–2000: Deputy Head, Department of Social Work &amp;
-                  Psychology, National University of Singapore (NUS)
+                  2022 <strong>KAKA Education Forever Award</strong>, the KAKA
+                  Community Learning Center, Balara, Sarlahi, Nepal:
+                  <a href="https://kakaclc.org.np/activities/" rel="nofollow"
+                    >https://kakaclc.org.np/activities/</a
+                  >
                 </p>
                 <p>
-                  1982–1984: Chairman, Organizational Behavior Area, Indian
-                  Institute of Management, Ahmedabad
+                  2022 <strong>Heritage Wall of Fame</strong>, the Society for
+                  Personality and Social Psychology, Washington, DC, USA:
+                  <a
+                    href="https://spsp.org/membership/awards/heritage-wall-of-fame/ramadhar-singh/"
+                    rel="nofollow"
+                    >https://spsp.org/membership/awards/heritage-wall-of-fame/ramadhar-singh/</a
+                  >
                 </p>
                 <p>
-                  1980–1982: Chairman, Research &amp; Publications, Indian
-                  Institute of Management, Ahmedabad
-                </p>
-                <hr />
-                <p>&nbsp;</p>
-                <p><strong>Services to Committees</strong></p>
-                <p>
-                  2015-2016: Member, Faculty Norms Committee, Indian Institute
-                  of Management Kozhikode
-                </p>
-                <p>2015- : Member, Kwok Leung Scholarship Committee, AASP</p>
-                <p>
-                  2005–2009: Member, Promotion and Tenure Committee, LKY School
-                  of Public Policy, National University of Singapore
+                  2022
+                  <strong
+                    >Distinguished Alumni Award in Psychological
+                    Sciences</strong
+                  >, College of Health and Human Sciences, Purdue University,
+                  West Lafayette, Indiana, USA:
+                  <a
+                    href="https://www.purdue.edu/hhs/news/2022/02/passion-for-research-drives-hhs-distinguished-alumni-award-recipient-to-excel-in-social-psychology-and-management"
+                    rel="nofollow"
+                    >https://www.purdue.edu/hhs/news/2022/02/passion-for-research-drives-hhs-distinguished-alumni-award-recipient-to-excel-in-social-psychology-and-management</a
+                  >
                 </p>
                 <p>
-                  2001–2009: Member, Promotion and Tenure Committee, School of
-                  Design &amp; Environment, National University of Singapore
+                  2022
+                  <strong
+                    >Prabha and Ramadhar Singh Distinguished Lecture in
+                    Psychology</strong
+                  >, an Annual Lecture Series at Indian Institute of Technology
+                  Kanpur:
+                  <em
+                    ><a
+                      href="https://iitk.ac.in/hss/prabha-and-ramadhar-singh-distinguished-lecture-in-psychology"
+                      rel="nofollow"
+                      >https://iitk.ac.in/hss/prabha-and-ramadhar-singh-distinguished-lecture-in-psychology</a
+                    ></em
+                  >
                 </p>
                 <p>
-                  2002–2010: Member, University Disciplinary Board, National
-                  University of Singapore
+                  2021 <strong>Guest of Honor</strong>: Doctoral Colloquium on
+                  Management &amp; Development, Institute of Rural Management
+                  Anand, India
                 </p>
                 <p>
-                  2007–2008: Chair, Department of Psychology Search Committee
-                  (Senior Hires), National University of Singapore
+                  2021
+                  <strong>Bharat Ratna Dr. Radhakrishnan Gold Medal</strong>,
+                  Global Economic Progress &amp; Research Association, New Delhi
                 </p>
                 <p>
-                  2005–2006: Chair, Department of Psychology Search Committee,
-                  National University of Singapore
+                  2021 <strong>Keynote Speaker</strong>, International Web
+                  Conference, Patna Women’s College
                 </p>
                 <p>
-                  2002–2003: Member, University Scholarship Committee, Arts and
-                  Social Sciences, National University of Singapore
+                  2021
+                  <strong
+                    >Lifetime Achievement Award for Excellence in
+                    Research</strong
+                  >, Indian Institute of Management Indore
+                  <em
+                    ><a
+                      href="https://www.iimidr.ac.in/news-events/iim-indore-presents-the-maiden-lifetime-achievement-award-for-excellence-in-research-to-ramadhar-singh/"
+                      rel="nofollow"
+                      >https://www.iimidr.ac.in/news-events/iim-indore-presents-the-maiden-lifetime-achievement-award-for-excellence-in-research-to-ramadhar-singh/</a
+                    ></em
+                  >
                 </p>
                 <p>
-                  2002–2003: Member, International Advisory Panel, School of
-                  Management, NUS
+                  2021 <strong>Resource Person</strong>: Refresher Program in
+                  Psychology, Ramjas College, Delhi University
                 </p>
                 <p>
-                  2000– 2006: Member, Research Review Panel: Humanities,
-                  Management, &amp; Architecture, National University of
-                  Singapore
+                  2020 <strong>Keynote Speaker</strong>, Doctoral Symposium, IIM
+                  Kozhikode
                 </p>
                 <p>
-                  1998–2001: Member, Board of Selection, National University of
-                  Singapore
+                  2020 <strong>Keynote Speaker</strong>, Induction of Doctoral
+                  Students, Symbiosis International University, Pune
                 </p>
                 <p>
-                  1998–2001: Member, Faculty Review Committee, Faculty of Arts
+                  2020 <strong>Expert</strong> on Faculty Selection Committee,
+                  IIM Kashipur
+                </p>
+                <p>
+                  2020 <strong>Chief Guest</strong>, 10<sup>th</sup>
+                  Inauguration of the EFPM at IIM Indore
+                </p>
+                <p>
+                  2019 <strong>Guest of Honor</strong>: 19<sup>th</sup> Global
+                  Conference on Flexible Systems Management, IIT Roorkee
+                </p>
+                <p>
+                  2019 <strong>Invited Speaker</strong>, International
+                  Conference of School Psychology, PDPU, Gandhinagar
+                </p>
+                <p>
+                  2018 <strong>Member</strong>, Mentor Award Committee,
+                  Association of Psychological Science (until 2022)
+                </p>
+                <p>
+                  <span style="font-size: revert; color: initial"
+                    >2018 <strong>Resource Person</strong>, Workshop on Science
+                    and Scientific Writing, NAoP, Delhi University</span
+                  >
+                </p>
+                <p>
+                  2018 <strong>Resource Person</strong>, Orientation Program for
+                  Younger Faculty, Nirma University, Ahmedabad
+                </p>
+                <p>
+                  2018 <strong>Keynote Speaker</strong>, Annual Conf. of the
+                  Indian Academy of Applied Psychology, Puducherry
+                </p>
+                <p>
+                  2017 <strong>Bharat Vikash Award</strong>, Institute of Self
+                  Reliance, Bhubaneswar, Odisha
+                </p>
+                <p>
+                  2017 <strong>Resource Person</strong>, Winter School for FPM
+                  Participants, IIM Ranchi Dec 1-5, 2017
+                </p>
+                <p>
+                  2017 <strong>Resource Person</strong>, Summer School for FPM
+                  Participants, IIM Ranchi
+                </p>
+                <p>
+                  2017 <strong>Resource Person</strong>,
+                  <em>Workshop on Science and Scientific Writing</em> at the
+                  Conference on Excellence in Research and Education (CERE), IIM
+                  Indore
+                </p>
+                <p>
+                  2016 <strong>Duraganand Sinha Memorial Lecture</strong>,
+                  26<sup>th</sup> Annual Conference of NAOP, IIT Madras
+                </p>
+                <p>
+                  2016 <strong>Resource Person</strong>, National Workshop on
+                  Research Methods, Ganpat University, Mehsana
+                </p>
+                <p>
+                  2016 <strong>Resource Person</strong>, Regional Workshop for
+                  VCs of the Central Universities of North East India
+                </p>
+                <p>
+                  2015 Featured in <em>Legends of HRD</em> in
+                  <em>Business Manager</em> (July 2015), 18, 40-43.
+                </p>
+                <p>
+                  2015 <strong>Keynote Speaker</strong>, Faculty Development
+                  Program, IFM Business School, Bangalore, India
+                </p>
+                <p>
+                  2014 <strong>Resource Person, </strong>Workshop on
+                  International Publications at the 2nd Pan-IIM World
+                  Conference, Kozhikode, India
+                </p>
+                <p>
+                  2014 <strong>Convocation Address</strong>, Myra School of
+                  Business, Mysore
+                </p>
+                <p>
+                  2014 <strong>Keynote Speaker</strong>, Conference on
+                  Excellence in Research and Education, Indian Institute of
+                  Management, Indore
+                </p>
+                <p>
+                  2014 <strong>Resource Person</strong>: Workshop for Students
+                  and Faculty, Universiti Teknologi Malaysia (UTM), Johor Bahru,
+                  Malaysia
+                </p>
+                <p>
+                  2014 <strong>Sir J C Bose Memorial Award</strong> from the
+                  <em>Indian Science Monitor</em>, Chennai
+                </p>
+                <p>
+                  2013 Faces and Minds of Psychological Science, Association for
+                  Psychological Science, Washington, DC, USA:
+                  <a
+                    href="http://www.psychologicalscience.org/index.php/faces-minds/inferring-missing-information.html"
+                    >http://www.psychologicalscience.org/index.php/faces-minds/inferring-missing-information.htm</a
+                  >
+                </p>
+                <p>
+                  2013 <strong>Resource Person</strong>, Doctoral Summer School,
+                  Indian Institute of Management, Lucknow
+                </p>
+                <p>
+                  2013 <strong>Resource Person</strong>, Doctoral Summer School,
+                  Indian Institute of Management, Kozhikode
+                </p>
+                <p>
+                  2012 <strong>Invited Speaker</strong>, 4rth IMR Doctoral
+                  Conference, Indian Institute of Management, Bangalore
+                </p>
+                <p>
+                  2011 <strong>Chair</strong>, Fellowship Committee, National
+                  Academy of Psychology (NAoP), India
+                </p>
+                <p>
+                  2011 <strong>Invited Speaker, </strong>21st Convention of
+                  National Academy of Psychology (NAoP), India, Anand,
+                </p>
+                <p>
+                  2011 <strong>Invited Speaker</strong>, 3rd IMR Doctoral
+                  Conference, Indian Institute of Management, Bangalore
+                </p>
+                <p>
+                  2011 <strong>Chair</strong>, Education &amp; Training, Asian
+                  Association of Social Psychology
+                </p>
+                <p>
+                  2011 <strong>Invited Speaker</strong>: Asian Association of
+                  Social Psychology, Kunming, China
+                </p>
+                <p>
+                  2011 <strong>Principal</strong>, 3rd Asian Summer School of
+                  Social Psychology, Kunming, China
+                </p>
+                <p>
+                  2010 <strong>Chair</strong>, Education &amp; Training, Asian
+                  Association of Social Psychology
+                </p>
+                <p>
+                  2009 <strong>Resource Person</strong>: 2nd Asian Winter School
+                  of Social Psychology, New Delhi, India
+                </p>
+                <p>
+                  2009 <strong>Inspiring Mentor Award</strong>, Office of Alumni
+                  Relations, National University of Singapore
+                </p>
+                <p>
+                  2009 <strong>Long Service Award</strong>, Faculty of Arts
                   &amp; Social Sciences, National University of Singapore
                 </p>
                 <p>
-                  1986–1988: Member, Expert Committee, Indira Gandhi National
-                  Open University, New Delhi
+                  2007 <strong>Special Lecture, </strong>17th Convention of
+                  National Academy of Psychology (NAoP), Kanpur
                 </p>
                 <p>
-                  1987–1988: Member, Task Force on Staff Motivation, Telecom
-                  Mission, Government of India, New Delhi
+                  2007 <strong>Resource Person, </strong>1st Asian Summer School
+                  of Social Psychology, Kota Kinabalu, Malaysia
                 </p>
                 <p>
-                  1985–1988: Member, UGC Standing Advisory Committee on Center
-                  of Advanced Study, Department under Special Assistance, and
-                  Departmental Research Support
-                </p>
-                <p>1983–1987: Member, Psychology Panel, UGC, New Delhi</p>
-                <p>
-                  1982–1988: Reviewer Panel, National Council of Educational
-                  Research and Training, New Delhi
+                  2007 <strong>Keynote Speaker, </strong>7th Conference of Asian
+                  Association of Social Psychology, Kota Kinabalu, Malaysia
                 </p>
                 <p>
-                  1980–1988: Reviewer Panel, Indian Council of Social Science
-                  Research, New Delhi
+                  2006 <strong>Plenary Speaker, </strong>16th Conference of
+                  National Academy of Psychology (NAoP), Mumbai
                 </p>
-                <div id="atatags-370373-656065de15cc2">
+                <p>
+                  2006 <strong>Invited Speaker, </strong>Asia’s Educational
+                  Miracle, Incheon, Korea
+                </p>
+                <p>
+                  2006 <strong>Keynote Speaker, </strong>26th International
+                  Congress of Applied Psychology, Athens, Greece
+                </p>
+                <p>
+                  2004 <strong>State–of–the–art Lecturer</strong>: 25
+                  International Congress of Psychology, Beijing, China
+                </p>
+                <p>
+                  2002 <strong>Co–Chair</strong>, Scientific Committee, 25th
+                  International Congress of Applied Psychology, Singapore
+                </p>
+                <p>
+                  1999 <strong>Member</strong>, Misumi Award Committee, Asian
+                  Association of Social Psychology (until 2001)
+                </p>
+                <p>
+                  1993 <strong>Resource Person</strong>, Workshop on
+                  Self-Development, First Asian Conference of Psychology in
+                  Singapore, Singapore Psychological Society
+                </p>
+                <p>
+                  1993 <strong>Psychology National Award for 1990</strong>: S.
+                  P. Psychology Trust of India
+                </p>
+                <p>
+                  1985 <strong>UGC National Lecturer in Psychology</strong>:
+                  Banaras Hindu University, Sri Venkateswara University, and
+                  University of Poona
+                </p>
+                <p>
+                  1970 <strong>Fulbright–Hays Scholar</strong>: US Department of
+                  State
+                </p>
+                <p>
+                  1969 <strong>Mahendra Vidya Bhushan Gold Medal</strong>: H. M.
+                  King M B B Shah of Nepal
+                </p>
+                <p>
+                  1965 <strong>Postgraduate Merit Scholar:</strong> Bihar
+                  University, Muzaffarpur
+                </p>
+                <p><strong>Interviews</strong></p>
+                <p>
+                  Sustaining impactful multidisciplinary contributions over five
+                  decades: An interview with Distinguished University Professor
+                  Ramadhar Singh by K. Balooni, <em>IIMB Management Review</em>,
+                  2017, <em>29</em>, 136-151.
+                  <a
+                    href="https://doi.org/10.1016/j.iimb.2017.03.009"
+                    rel="nofollow"
+                    >https://doi.org/10.1016/j.iimb.2017.03.009</a
+                  >
+                </p>
+                <p>
+                  World advertising (Chinese).
+                  <em>The Thinking Chinese&#8217;s Magazine</em>, 1992 February,
+                  <em>65</em>, 39–41.
+                </p>
+                <p>
+                  Advertising in Singapore (Japanese).
+                  <em>Bulletin of Nikkei Advertising Research Institute</em>,
+                  1990 December, <em>139</em>, 35–37.
+                </p>
+
+                <p></p>
+                <div id="atatags-370373-656069ececedc">
                   <script type="text/javascript">
                     __ATA.cmd.push(function () {
-                      __ATA.initVideoSlot("atatags-370373-656065de15cc2", {
+                      __ATA.initVideoSlot("atatags-370373-656069ececedc", {
                         sectionId: "370373",
                         format: "inread",
                       });
                     });
                   </script>
                 </div>
-                <div id="atatags-26942-656065de15d35"></div>
+                <div id="atatags-26942-656069ececf55"></div>
 
                 <script>
                   __ATA.cmd.push(function () {
                     __ATA.initDynamicSlot({
-                      id: "atatags-26942-656065de15d35",
+                      id: "atatags-26942-656069ececf55",
                       location: 120,
                       formFactor: "001",
                       label: {
@@ -1440,9 +1540,9 @@
                           <li class="share-twitter">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-twitter-49"
+                              data-shared="sharing-twitter-40"
                               class="share-twitter sd-button share-icon"
-                              href="/responsibilities.html?share=twitter"
+                              href="/recognition.html?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -1451,9 +1551,9 @@
                           <li class="share-facebook">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-facebook-49"
+                              data-shared="sharing-facebook-40"
                               class="share-facebook sd-button share-icon"
-                              href="/responsibilities.html?share=facebook"
+                              href="/recognition.html?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -1857,7 +1957,7 @@
 
     <script type="text/javascript">
       window.WPCOM_sharing_counts = {
-        "https:\/\/ramadharsingh.wordpress.com\/responsibilities\/": 49,
+        "https:\/\/ramadharsingh.wordpress.com\/recognition\/": 40,
       };
     </script>
     <script type="text/javascript" id="comment-like-js-extra">
@@ -1994,7 +2094,7 @@
       // ]]>
     </script>
     <iframe
-      src="https://widgets.wp.com/likes/master.html?ver=20230906#ver=20230906&amp;origin=https://ramadharsingh.com"
+      src="https://widgets.wp.com/likes/master.html?ver=20230906#ver=20230906&amp;origin=https://ramadharsingh.wordpress.com"
       scrolling="no"
       id="likes-master"
       name="likes-master"
@@ -2026,7 +2126,7 @@
           v: "wpcom",
           tz: "0",
           user_id: "0",
-          post: "49",
+          post: "40",
           subd: "ramadharsingh",
         },
       ]);
@@ -2034,10 +2134,10 @@
         "extra",
         {
           crypt:
-            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1W3Yldz9hfnd6X3wxb0Y3a2NwSFtGZTdkOT9SSk1jVm9BWEZGZnNyY3piSVFTRF9TcFRray1jSG9fajFzNHxpT19nWjclSHElQkZrUHpmLC5Wa2JvQ3hYeEFsXXhHdUtdVE45Mys4RnQwRVotN3AlLWMwaWNfU0lEU3hVOUI5SVgvK11ZeQ==",
+            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1RUZIZD1yQzk9QlNYNmY1ZlZFXSxTbUQvL1F6Y29nQVpiSltoWVVNMVNiaDlqd0hqLHB1Y1RWSW9fYjFxRWFmZmxFVW02UHQ9UEREa0lvbWMuMThoNkZkdGIzNEV+b1hhWHlPLVcmWCxEbnd+UlZXS2lVWmpNYUpIY2ZscjA/TXEyTjQx",
         },
       ]);
-      _stq.push(["clickTrackerInit", "115692407", "49"]);
+      _stq.push(["clickTrackerInit", "115692407", "40"]);
     </script>
     <noscript
       ><img

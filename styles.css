@@ -1,0 +1,39 @@
+.site-header{
+    height: 5em
+}
+
+.entry-title{
+    color: #050f59;
+    font-family: "PT Serif",Georgia,"Times New Roman",serif;
+    font-size:xx-large;
+}
+
+#prevEmployment{
+    width: 80vw;
+}
+
+#overviewMethods{
+    list-style: unset;
+    margin-left: 1.5em;
+}
+
+#overviewMethods li{
+    margin: 0.3em 0;
+}
+
+#overviewMethods > li > p{
+    margin-bottom: unset;
+}
+
+.main-navigation{
+    border-top: solid #c22004 3px!important;
+}
+
+#removeBorderTop{
+    border-top-color: unset;
+    border-top: unset;
+}
+
+#removeBorderTop:hover{
+    border-top-color: unset;
+}

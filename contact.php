@@ -1,3 +1,6 @@
+<?php 
+  require_once 'includes/main_view.inc.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,7 +12,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Recognition &#8211; Ramadhar Singh &#8211; Distinguished Professor
+      Contact &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -46,7 +49,7 @@
       rel="alternate"
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Feed"
-      href="/feed.xml/"
+      href="https://ramadharsingh.wordpress.com/feed/"
     />
     <link
       rel="alternate"
@@ -242,6 +245,12 @@
       type="text/css"
       media="all"
     />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
+      type="text/css"
+      media="all"
+    />
     <style id="wp-emoji-styles-inline-css">
       img.wp-smiley,
       img.emoji {
@@ -276,7 +285,7 @@
       crossorigin="anonymous"
       rel="stylesheet"
       id="all-css-4-1"
-      href="https://s0.wp.com/_static/??-eJyVjV0OwiAQBi8kEKrR+mA8C4UN2br8hAVNby8mprEvGh8n+82semSB0VJzwGpmFcChAYIAsW4gk1mgCAJv7CIDRmmZd+qb3m+fvJFsivW1ydQ8Rla+dZygeDFRsrceg5qNvYn+NrUqfEGnuC4E/yeKqRg9/9BtemuD1KPUgjFkAlHgLg/KIdd1IdbQNVz0cdTjfhjOp/kJMmh7kg==&cssminify=yes"
+      href="https://s0.wp.com/_static/??-eJyVjcEKwjAQRH/IdFstggfxW9LNsqTdpCGbIPl740l7ETw+Zt4MPJPxEaU6UlgVAjlvSShQLAdIYhtlI8QW2xB8HFD1BL/0nn3zQcI9lncnSWUfFbh2XCizWWTHrY9RSRY302/3Wgxn70BLE/p/ItviI+tHf4T7dJ0v53G8TfP6AjdwYUY=&cssminify=yes"
       type="text/css"
       media="all"
     />
@@ -773,7 +782,7 @@
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
         bridgeUrl:
           "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-videopress\/build\/lib\/token-bridge.js",
-        post_id: "40",
+        post_id: "3",
       };
       /* ]]> */
     </script>
@@ -781,17 +790,17 @@
       /* <![CDATA[ */
       var actionbardata = {
         siteID: "115692407",
-        postID: "40",
+        postID: "3",
         siteURL: "http:\/\/ramadharsingh.wordpress.com",
         xhrURL:
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
-        nonce: "5fca445859",
+        nonce: "e778250ba8",
         isLoggedIn: "",
         statusMessage: "",
         subsEmailDefault: "instantly",
         proxyScriptUrl:
           "https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021",
-        shortlink: "https:\/\/wp.me\/P7PqSz-E",
+        shortlink: "https:\/\/wp.me\/P7PqSz-3",
         i18n: {
           followedText:
             'New posts from this site will now appear in your <a href="https:\/\/wordpress.com\/read">Reader<\/a>',
@@ -816,24 +825,43 @@
       });
       /* ]]> */
     </script>
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      title="RSD"
+      href="https://ramadharsingh.wordpress.com/xmlrpc.php?rsd"
+    />
     <meta name="generator" content="WordPress.com" />
-    <link rel="canonical" href="/recognition.html" />
-    <link rel="shortlink" href="https://wp.me/P7PqSz-E" />
+    <link rel="canonical" href="https://ramadharsingh.wordpress.com/contact/" />
+    <link rel="shortlink" href="https://wp.me/P7PqSz-3" />
+    <link
+      rel="alternate"
+      type="application/json+oembed"
+      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fcontact%2F&amp;for=wpcom-auto-discovery"
+    />
+    <link
+      rel="alternate"
+      type="application/xml+oembed"
+      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fcontact%2F&amp;for=wpcom-auto-discovery"
+    />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Recognition" />
-    <meta property="og:url" content="/recognition.html" />
+    <meta property="og:title" content="Contact" />
+    <meta
+      property="og:url"
+      content="https://ramadharsingh.wordpress.com/contact/"
+    />
     <meta
       property="og:description"
-      content="2022 KAKA Education Forever Award, the KAKA Community Learning Center, Balara, Sarlahi, Nepal: 2022 Heritage Wall of Fame, the Society for Personality and Social Psychology, Washington, DC, USA: 20…"
+      content="This is just a short excerpt for the contact&nbsp;page."
     />
     <meta
       property="article:published_time"
-      content="2016-08-31T14:10:15+00:00"
+      content="2016-08-23T14:07:16+00:00"
     />
     <meta
       property="article:modified_time"
-      content="2022-10-20T07:02:36+00:00"
+      content="2022-10-17T07:47:03+00:00"
     />
     <meta
       property="og:site_name"
@@ -847,14 +875,14 @@
       property="article:publisher"
       content="https://www.facebook.com/WordPresscom"
     />
-    <meta name="twitter:text:title" content="Recognition" />
+    <meta name="twitter:text:title" content="Contact" />
     <meta name="twitter:card" content="summary" />
 
     <!-- End Jetpack Open Graph Tags -->
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="/icons/favicon.ico"
+      href="icons/favicon.ico"
       sizes="16x16 24x24 32x32 48x48"
     />
     <link
@@ -867,8 +895,14 @@
     <link
       rel="search"
       type="application/opensearchdescription+xml"
-      href="https://ramadharsingh.com/osd.xml"
+      href="https://ramadharsingh.wordpress.com/osd.xml"
       title="Ramadhar Singh - Distinguished Professor"
+    />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="https://s1.wp.com/opensearch.xml"
+      title="WordPress.com"
     />
     <meta
       name="application-name"
@@ -879,8 +913,24 @@
       content="width=device-width;height=device-height"
     />
     <meta
+      name="msapplication-task"
+      content="name=Subscribe;action-uri=https://ramadharsingh.wordpress.com/feed/;icon-uri=https://s0.wp.com/i/favicon.ico"
+    />
+    <meta
+      name="msapplication-task"
+      content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico"
+    />
+    <meta
+      name="msapplication-task"
+      content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"
+    />
+    <meta
+      name="msapplication-task"
+      content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"
+    />
+    <meta
       name="description"
-      content="2022 KAKA Education Forever Award, the KAKA Community Learning Center, Balara, Sarlahi, Nepal: https://kakaclc.org.np/activities/ 2022 Heritage Wall of Fame, the Society for Personality and Social Psychology, Washington, DC, USA: https://spsp.org/membership/awards/heritage-wall-of-fame/ramadhar-singh/ 2022  Distinguished Alumni Award in Psychological Sciences, College of Health and Human Sciences, Purdue University, West Lafayette, Indiana, USA: https://www.purdue.edu/hhs/news/2022/02/passion-for-research-drives-hhs-distinguished-alumni-award-recipient-to-excel-in-social-psychology-and-management 2022  Prabha and Ramadhar Singh&hellip;"
+      content="This is just a short excerpt for the contact&nbsp;page."
     />
     <style type="text/css" id="apostrophe-header-css"></style>
     <script type="text/javascript">
@@ -1054,7 +1104,7 @@
       var sas_fallback = sas_fallback || [];
       sas_fallback.push(
         {
-          tag: "&lt;div id=&quot;atatags-26942-656069ece9385&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-656069ece9385',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
+          tag: "&lt;div id=&quot;atatags-26942-6560a36cdc6e4&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-6560a36cdc6e4',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
           type: "belowpost",
         },
         {
@@ -1121,7 +1171,7 @@
   </head>
 
   <body
-    class="page-template-default page page-id-40 customizer-styles-applied apostrophe-no-sidebar"
+    class="page-template-default page page-id-3 customizer-styles-applied apostrophe-no-sidebar"
   >
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
@@ -1133,82 +1183,16 @@
             itemprop="url"
           ></a>
           <h1 class="site-title">
-            <a href="https://ramadharsingh.wordpress.com/" rel="home"
+            <a href="index.php" rel="home"
               >Ramadhar Singh &#8211; Distinguished Professor</a
             >
           </h1>
           <h2 class="site-description"></h2>
         </div>
 
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <a class="menu-toggle">Menu</a>
-          <a class="skip-link screen-reader-text" href="#content"
-            >Skip to content</a
-          >
-
-          <div class="menu-primary-container">
-            <ul id="menu-primary" class="apostrophe-navigation">
-              <li
-                id="menu-item-8"
-                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"
-              >
-                <a href="/">Home</a>
-              </li>
-              <li
-                id="menu-item-173"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173"
-              >
-                <a href="/overview.html">Overview</a>
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-54"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"
-                  >
-                    <a href="/responsibilities.html">Responsibilities</a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-17"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17"
-              >
-                <a href="/research.html">Research</a>
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-65"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"
-                  >
-                    <a href="/publications.html">Publications</a>
-                  </li>
-                  <li
-                    id="menu-item-39"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"
-                  >
-                    <a href="/doctoralStudents.html">Students supervised</a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-19"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
-              >
-                <a href="/conference.html">Colloquium &amp; Conference</a>
-              </li>
-              <li
-                id="menu-item-42"
-                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-40 current_page_item menu-item-42"
-              >
-                <a href="/recognition.html" aria-current="page">Recognition</a>
-              </li>
-              <li
-                id="menu-item-53"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"
-              >
-                <a href="/advisors.html">Advisors</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php 
+          getNavbar();
+        ?>
         <!-- #site-navigation -->
       </header>
       <!-- #masthead -->
@@ -1217,356 +1201,187 @@
         <section id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article
-              id="post-40"
-              class="post-40 page type-page status-publish hentry"
+              id="post-3"
+              class="post-3 page type-page status-publish hentry"
             >
               <header class="entry-header">
-                <h1 class="entry-title">Recognition</h1>
+                <h1 class="entry-title">Contact</h1>
               </header>
               <!-- .entry-header -->
 
               <div class="entry-content">
                 <p>
-                  2022 <strong>KAKA Education Forever Award</strong>, the KAKA
-                  Community Learning Center, Balara, Sarlahi, Nepal:
-                  <a href="https://kakaclc.org.np/activities/" rel="nofollow"
-                    >https://kakaclc.org.np/activities/</a
+                  <strong>Address</strong>:<br />
+                  B133, Goyal Park Row Houses,<br />
+                  Judges Bungalow Road<br />
+                  Ahmedabad, Gujarat, India -  380009
+                </p>
+                <p><strong>Email</strong>: profsingh1945@gmail.com</p>
+                <p><strong>Meeting hours</strong>: Prior appointment</p>
+                <p>Contact form</p>
+                <hr />
+                <div
+                  data-test="contact-form"
+                  id="contact-form-3"
+                  class="wp-block-jetpack-contact-form-container"
+                >
+                  <form
+                    action="/contact.html#contact-form-3"
+                    method="post"
+                    class="contact-form commentsblock"
                   >
-                </p>
-                <p>
-                  2022 <strong>Heritage Wall of Fame</strong>, the Society for
-                  Personality and Social Psychology, Washington, DC, USA:
-                  <a
-                    href="https://spsp.org/membership/awards/heritage-wall-of-fame/ramadhar-singh/"
-                    rel="nofollow"
-                    >https://spsp.org/membership/awards/heritage-wall-of-fame/ramadhar-singh/</a
-                  >
-                </p>
-                <p>
-                  2022
-                  <strong
-                    >Distinguished Alumni Award in Psychological
-                    Sciences</strong
-                  >, College of Health and Human Sciences, Purdue University,
-                  West Lafayette, Indiana, USA:
-                  <a
-                    href="https://www.purdue.edu/hhs/news/2022/02/passion-for-research-drives-hhs-distinguished-alumni-award-recipient-to-excel-in-social-psychology-and-management"
-                    rel="nofollow"
-                    >https://www.purdue.edu/hhs/news/2022/02/passion-for-research-drives-hhs-distinguished-alumni-award-recipient-to-excel-in-social-psychology-and-management</a
-                  >
-                </p>
-                <p>
-                  2022
-                  <strong
-                    >Prabha and Ramadhar Singh Distinguished Lecture in
-                    Psychology</strong
-                  >, an Annual Lecture Series at Indian Institute of Technology
-                  Kanpur:
-                  <em
-                    ><a
-                      href="https://iitk.ac.in/hss/prabha-and-ramadhar-singh-distinguished-lecture-in-psychology"
-                      rel="nofollow"
-                      >https://iitk.ac.in/hss/prabha-and-ramadhar-singh-distinguished-lecture-in-psychology</a
-                    ></em
-                  >
-                </p>
-                <p>
-                  2021 <strong>Guest of Honor</strong>: Doctoral Colloquium on
-                  Management &amp; Development, Institute of Rural Management
-                  Anand, India
-                </p>
-                <p>
-                  2021
-                  <strong>Bharat Ratna Dr. Radhakrishnan Gold Medal</strong>,
-                  Global Economic Progress &amp; Research Association, New Delhi
-                </p>
-                <p>
-                  2021 <strong>Keynote Speaker</strong>, International Web
-                  Conference, Patna Women’s College
-                </p>
-                <p>
-                  2021
-                  <strong
-                    >Lifetime Achievement Award for Excellence in
-                    Research</strong
-                  >, Indian Institute of Management Indore
-                  <em
-                    ><a
-                      href="https://www.iimidr.ac.in/news-events/iim-indore-presents-the-maiden-lifetime-achievement-award-for-excellence-in-research-to-ramadhar-singh/"
-                      rel="nofollow"
-                      >https://www.iimidr.ac.in/news-events/iim-indore-presents-the-maiden-lifetime-achievement-award-for-excellence-in-research-to-ramadhar-singh/</a
-                    ></em
-                  >
-                </p>
-                <p>
-                  2021 <strong>Resource Person</strong>: Refresher Program in
-                  Psychology, Ramjas College, Delhi University
-                </p>
-                <p>
-                  2020 <strong>Keynote Speaker</strong>, Doctoral Symposium, IIM
-                  Kozhikode
-                </p>
-                <p>
-                  2020 <strong>Keynote Speaker</strong>, Induction of Doctoral
-                  Students, Symbiosis International University, Pune
-                </p>
-                <p>
-                  2020 <strong>Expert</strong> on Faculty Selection Committee,
-                  IIM Kashipur
-                </p>
-                <p>
-                  2020 <strong>Chief Guest</strong>, 10<sup>th</sup>
-                  Inauguration of the EFPM at IIM Indore
-                </p>
-                <p>
-                  2019 <strong>Guest of Honor</strong>: 19<sup>th</sup> Global
-                  Conference on Flexible Systems Management, IIT Roorkee
-                </p>
-                <p>
-                  2019 <strong>Invited Speaker</strong>, International
-                  Conference of School Psychology, PDPU, Gandhinagar
-                </p>
-                <p>
-                  2018 <strong>Member</strong>, Mentor Award Committee,
-                  Association of Psychological Science (until 2022)
-                </p>
-                <p>
-                  <span style="font-size: revert; color: initial"
-                    >2018 <strong>Resource Person</strong>, Workshop on Science
-                    and Scientific Writing, NAoP, Delhi University</span
-                  >
-                </p>
-                <p>
-                  2018 <strong>Resource Person</strong>, Orientation Program for
-                  Younger Faculty, Nirma University, Ahmedabad
-                </p>
-                <p>
-                  2018 <strong>Keynote Speaker</strong>, Annual Conf. of the
-                  Indian Academy of Applied Psychology, Puducherry
-                </p>
-                <p>
-                  2017 <strong>Bharat Vikash Award</strong>, Institute of Self
-                  Reliance, Bhubaneswar, Odisha
-                </p>
-                <p>
-                  2017 <strong>Resource Person</strong>, Winter School for FPM
-                  Participants, IIM Ranchi Dec 1-5, 2017
-                </p>
-                <p>
-                  2017 <strong>Resource Person</strong>, Summer School for FPM
-                  Participants, IIM Ranchi
-                </p>
-                <p>
-                  2017 <strong>Resource Person</strong>,
-                  <em>Workshop on Science and Scientific Writing</em> at the
-                  Conference on Excellence in Research and Education (CERE), IIM
-                  Indore
-                </p>
-                <p>
-                  2016 <strong>Duraganand Sinha Memorial Lecture</strong>,
-                  26<sup>th</sup> Annual Conference of NAOP, IIT Madras
-                </p>
-                <p>
-                  2016 <strong>Resource Person</strong>, National Workshop on
-                  Research Methods, Ganpat University, Mehsana
-                </p>
-                <p>
-                  2016 <strong>Resource Person</strong>, Regional Workshop for
-                  VCs of the Central Universities of North East India
-                </p>
-                <p>
-                  2015 Featured in <em>Legends of HRD</em> in
-                  <em>Business Manager</em> (July 2015), 18, 40-43.
-                </p>
-                <p>
-                  2015 <strong>Keynote Speaker</strong>, Faculty Development
-                  Program, IFM Business School, Bangalore, India
-                </p>
-                <p>
-                  2014 <strong>Resource Person, </strong>Workshop on
-                  International Publications at the 2nd Pan-IIM World
-                  Conference, Kozhikode, India
-                </p>
-                <p>
-                  2014 <strong>Convocation Address</strong>, Myra School of
-                  Business, Mysore
-                </p>
-                <p>
-                  2014 <strong>Keynote Speaker</strong>, Conference on
-                  Excellence in Research and Education, Indian Institute of
-                  Management, Indore
-                </p>
-                <p>
-                  2014 <strong>Resource Person</strong>: Workshop for Students
-                  and Faculty, Universiti Teknologi Malaysia (UTM), Johor Bahru,
-                  Malaysia
-                </p>
-                <p>
-                  2014 <strong>Sir J C Bose Memorial Award</strong> from the
-                  <em>Indian Science Monitor</em>, Chennai
-                </p>
-                <p>
-                  2013 Faces and Minds of Psychological Science, Association for
-                  Psychological Science, Washington, DC, USA:
-                  <a
-                    href="http://www.psychologicalscience.org/index.php/faces-minds/inferring-missing-information.html"
-                    >http://www.psychologicalscience.org/index.php/faces-minds/inferring-missing-information.htm</a
-                  >
-                </p>
-                <p>
-                  2013 <strong>Resource Person</strong>, Doctoral Summer School,
-                  Indian Institute of Management, Lucknow
-                </p>
-                <p>
-                  2013 <strong>Resource Person</strong>, Doctoral Summer School,
-                  Indian Institute of Management, Kozhikode
-                </p>
-                <p>
-                  2012 <strong>Invited Speaker</strong>, 4rth IMR Doctoral
-                  Conference, Indian Institute of Management, Bangalore
-                </p>
-                <p>
-                  2011 <strong>Chair</strong>, Fellowship Committee, National
-                  Academy of Psychology (NAoP), India
-                </p>
-                <p>
-                  2011 <strong>Invited Speaker, </strong>21st Convention of
-                  National Academy of Psychology (NAoP), India, Anand,
-                </p>
-                <p>
-                  2011 <strong>Invited Speaker</strong>, 3rd IMR Doctoral
-                  Conference, Indian Institute of Management, Bangalore
-                </p>
-                <p>
-                  2011 <strong>Chair</strong>, Education &amp; Training, Asian
-                  Association of Social Psychology
-                </p>
-                <p>
-                  2011 <strong>Invited Speaker</strong>: Asian Association of
-                  Social Psychology, Kunming, China
-                </p>
-                <p>
-                  2011 <strong>Principal</strong>, 3rd Asian Summer School of
-                  Social Psychology, Kunming, China
-                </p>
-                <p>
-                  2010 <strong>Chair</strong>, Education &amp; Training, Asian
-                  Association of Social Psychology
-                </p>
-                <p>
-                  2009 <strong>Resource Person</strong>: 2nd Asian Winter School
-                  of Social Psychology, New Delhi, India
-                </p>
-                <p>
-                  2009 <strong>Inspiring Mentor Award</strong>, Office of Alumni
-                  Relations, National University of Singapore
-                </p>
-                <p>
-                  2009 <strong>Long Service Award</strong>, Faculty of Arts
-                  &amp; Social Sciences, National University of Singapore
-                </p>
-                <p>
-                  2007 <strong>Special Lecture, </strong>17th Convention of
-                  National Academy of Psychology (NAoP), Kanpur
-                </p>
-                <p>
-                  2007 <strong>Resource Person, </strong>1st Asian Summer School
-                  of Social Psychology, Kota Kinabalu, Malaysia
-                </p>
-                <p>
-                  2007 <strong>Keynote Speaker, </strong>7th Conference of Asian
-                  Association of Social Psychology, Kota Kinabalu, Malaysia
-                </p>
-                <p>
-                  2006 <strong>Plenary Speaker, </strong>16th Conference of
-                  National Academy of Psychology (NAoP), Mumbai
-                </p>
-                <p>
-                  2006 <strong>Invited Speaker, </strong>Asia’s Educational
-                  Miracle, Incheon, Korea
-                </p>
-                <p>
-                  2006 <strong>Keynote Speaker, </strong>26th International
-                  Congress of Applied Psychology, Athens, Greece
-                </p>
-                <p>
-                  2004 <strong>State–of–the–art Lecturer</strong>: 25
-                  International Congress of Psychology, Beijing, China
-                </p>
-                <p>
-                  2002 <strong>Co–Chair</strong>, Scientific Committee, 25th
-                  International Congress of Applied Psychology, Singapore
-                </p>
-                <p>
-                  1999 <strong>Member</strong>, Misumi Award Committee, Asian
-                  Association of Social Psychology (until 2001)
-                </p>
-                <p>
-                  1993 <strong>Resource Person</strong>, Workshop on
-                  Self-Development, First Asian Conference of Psychology in
-                  Singapore, Singapore Psychological Society
-                </p>
-                <p>
-                  1993 <strong>Psychology National Award for 1990</strong>: S.
-                  P. Psychology Trust of India
-                </p>
-                <p>
-                  1985 <strong>UGC National Lecturer in Psychology</strong>:
-                  Banaras Hindu University, Sri Venkateswara University, and
-                  University of Poona
-                </p>
-                <p>
-                  1970 <strong>Fulbright–Hays Scholar</strong>: US Department of
-                  State
-                </p>
-                <p>
-                  1969 <strong>Mahendra Vidya Bhushan Gold Medal</strong>: H. M.
-                  King M B B Shah of Nepal
-                </p>
-                <p>
-                  1965 <strong>Postgraduate Merit Scholar:</strong> Bihar
-                  University, Muzaffarpur
-                </p>
-                <p><em>Interviews</em></p>
-                <p>
-                  Sustaining impactful multidisciplinary contributions over five
-                  decades: An interview with Distinguished University Professor
-                  Ramadhar Singh by K. Balooni, <em>IIMB Management Review</em>,
-                  2017, <em>29</em>, 136-151.
-                  <a
-                    href="https://doi.org/10.1016/j.iimb.2017.03.009"
-                    rel="nofollow"
-                    >https://doi.org/10.1016/j.iimb.2017.03.009</a
-                  >
-                </p>
-                <p>
-                  World advertising (Chinese).
-                  <em>The Thinking Chinese&#8217;s Magazine</em>, 1992 February,
-                  <em>65</em>, 39–41.
-                </p>
-                <p>
-                  Advertising in Singapore (Japanese).
-                  <em>Bulletin of Nikkei Advertising Research Institute</em>,
-                  1990 December, <em>139</em>, 35–37.
-                </p>
+                    <script>
+                      (function () {
+                        const contact_forms =
+                          document.getElementsByClassName("contact-form");
 
-                <p></p>
-                <div id="atatags-370373-656069ececedc">
+                        for (const form of contact_forms) {
+                          form.onsubmit = function () {
+                            const buttons = form.getElementsByTagName("button");
+
+                            for (const button of buttons) {
+                              button.setAttribute("disabled", true);
+                            }
+                          };
+                        }
+                      })();
+                    </script>
+                    <div
+                      style=""
+                      class="grunion-field-name-wrap grunion-field-wrap"
+                    >
+                      <label for="g3-name" class="grunion-field-label name"
+                        >Name<span class="grunion-label-required"
+                          >(required)</span
+                        ></label
+                      >
+                      <input
+                        type="text"
+                        name="g3-name"
+                        id="g3-name"
+                        value=""
+                        class="name grunion-field"
+                        required
+                        aria-required="true"
+                      />
+                    </div>
+
+                    <div
+                      style=""
+                      class="grunion-field-email-wrap grunion-field-wrap"
+                    >
+                      <label for="g3-email" class="grunion-field-label email"
+                        >Email<span class="grunion-label-required"
+                          >(required)</span
+                        ></label
+                      >
+                      <input
+                        type="email"
+                        name="g3-email"
+                        id="g3-email"
+                        value=""
+                        class="email grunion-field"
+                        required
+                        aria-required="true"
+                      />
+                    </div>
+
+                    <div
+                      style=""
+                      class="grunion-field-url-wrap grunion-field-wrap"
+                    >
+                      <label for="g3-website" class="grunion-field-label url"
+                        >Website</label
+                      >
+                      <input
+                        type="text"
+                        name="g3-website"
+                        id="g3-website"
+                        value=""
+                        class="url grunion-field"
+                        title="Please enter a valid URL - https://www.example.com"
+                        oninvalid='setCustomValidity("Please enter a valid URL - https://www.example.com")'
+                        oninput='setCustomValidity("")'
+                        pattern="(([:\/a-zA-Z0-9_\-]+)?(\.[a-zA-Z0-9_\-\/]+)+)"
+                        data-type-override="url"
+                      />
+                    </div>
+
+                    <div
+                      style=""
+                      class="grunion-field-textarea-wrap grunion-field-wrap"
+                    >
+                      <label
+                        for="contact-form-comment-g3-comment"
+                        class="grunion-field-label textarea"
+                        >Comment<span class="grunion-label-required"
+                          >(required)</span
+                        ></label
+                      >
+                      <textarea
+                        style=""
+                        name="g3-comment"
+                        id="contact-form-comment-g3-comment"
+                        rows="20"
+                        class="textarea grunion-field"
+                        required
+                        aria-required="true"
+                      ></textarea>
+                    </div>
+                    <p class="contact-submit">
+                      <button type="submit" class="pushbutton-wide">
+                        Submit
+                      </button>
+                      <input type="hidden" name="contact-form-id" value="3" />
+                      <input
+                        type="hidden"
+                        name="action"
+                        value="grunion-contact-form"
+                      />
+                      <input
+                        type="hidden"
+                        name="contact-form-hash"
+                        value="76bb126e9fa6af7a7b0af75acc1e14cb5702d86d"
+                      />
+                    </p>
+                    <p style="display: none !important">
+                      <label
+                        >&#916;<textarea
+                          name="ak_hp_textarea"
+                          cols="45"
+                          rows="8"
+                          maxlength="100"
+                        ></textarea></label
+                      ><input
+                        type="hidden"
+                        id="ak_js_1"
+                        name="ak_js"
+                        value="14"
+                      />
+                      <script>
+                        document
+                          .getElementById("ak_js_1")
+                          .setAttribute("value", new Date().getTime());
+                      </script>
+                    </p>
+                  </form>
+                </div>
+                <div id="atatags-370373-6560a36ce134f">
                   <script type="text/javascript">
                     __ATA.cmd.push(function () {
-                      __ATA.initVideoSlot("atatags-370373-656069ececedc", {
+                      __ATA.initVideoSlot("atatags-370373-6560a36ce134f", {
                         sectionId: "370373",
                         format: "inread",
                       });
                     });
                   </script>
                 </div>
-                <div id="atatags-26942-656069ececf55"></div>
+                <div id="atatags-26942-6560a36ce223c"></div>
 
                 <script>
                   __ATA.cmd.push(function () {
                     __ATA.initDynamicSlot({
-                      id: "atatags-26942-656069ececf55",
+                      id: "atatags-26942-6560a36ce223c",
                       location: 120,
                       formFactor: "001",
                       label: {
@@ -1587,39 +1402,22 @@
                   id="jp-post-flair"
                   class="sharedaddy sd-like-enabled sd-sharing-enabled"
                 >
-                  <div class="sharedaddy sd-sharing-enabled">
+                  <div
+                    class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded"
+                    id="like-post-wrapper-115692407-3-6560a36ce252c"
+                    data-name="like-post-frame-115692407-3-6560a36ce252c"
+                    data-title="Like or Reblog"
+                  >
+                    <h3 class="sd-title">Like this:</h3>
                     <div
-                      class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"
+                      class="likes-widget-placeholder post-likes-widget-placeholder"
+                      style="height: 55px"
                     >
-                      <h3 class="sd-title">Share this:</h3>
-                      <div class="sd-content">
-                        <ul>
-                          <li class="share-twitter">
-                            <a
-                              rel="nofollow noopener noreferrer"
-                              data-shared="sharing-twitter-40"
-                              class="share-twitter sd-button share-icon"
-                              href="/recognition.html?share=twitter"
-                              target="_blank"
-                              title="Click to share on Twitter"
-                              ><span>Twitter</span></a
-                            >
-                          </li>
-                          <li class="share-facebook">
-                            <a
-                              rel="nofollow noopener noreferrer"
-                              data-shared="sharing-facebook-40"
-                              class="share-facebook sd-button share-icon"
-                              href="/recognition.html?share=facebook"
-                              target="_blank"
-                              title="Click to share on Facebook"
-                              ><span>Facebook</span></a
-                            >
-                          </li>
-                          <li class="share-end"></li>
-                        </ul>
-                      </div>
+                      <span class="button"><span>Like</span></span>
+                      <span class="loading">Loading...</span>
                     </div>
+                    <span class="sd-text-color"></span
+                    ><a class="sd-link-color"></a>
                   </div>
                 </div>
               </div>
@@ -1994,6 +1792,49 @@
         </form>
       </div>
     </div>
+    <div
+      id="actionbar"
+      style="display: none"
+      class="actnbr-pub-apostrophe actnbr-has-follow"
+    >
+      <ul>
+        <li class="actnbr-ellipsis actnbr-hidden">
+          <svg
+            class="gridicon gridicons-ellipsis"
+            height="24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+          >
+            <g>
+              <path
+                d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"
+              />
+            </g>
+          </svg>
+          <div class="actnbr-popover tip tip-top-left actnbr-more">
+            <div class="tip-arrow"></div>
+            <div class="tip-inner">
+              <ul>
+                <li class="actnbr-sitename">
+                  <a href="https://ramadharsingh.com">
+                    <img
+                      alt=""
+                      src="https://s0.wp.com/i/logo/wpcom-gray-white.png"
+                      srcset="https://s0.wp.com/i/logo/wpcom-gray-white.png 1x"
+                      class="avatar avatar-50"
+                      height="50"
+                      width="50"
+                    />
+                    Ramadhar Singh - Distinguished Professor
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
 
     <script>
       window.addEventListener("load", function (event) {
@@ -2012,11 +1853,14 @@
       });
     </script>
 
-    <script type="text/javascript">
-      window.WPCOM_sharing_counts = {
-        "https:\/\/ramadharsingh.wordpress.com\/recognition\/": 40,
-      };
-    </script>
+    <link
+      crossorigin="anonymous"
+      rel="stylesheet"
+      id="all-css-0-2"
+      href="https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/sun/jetpack_vendor/automattic/jetpack-forms/src/contact-form/css/grunion.css?m=1689611664i&cssminify=yes"
+      type="text/css"
+      media="all"
+    />
     <script type="text/javascript" id="comment-like-js-extra">
       /* <![CDATA[ */
       var comment_like_text = {
@@ -2034,104 +1878,11 @@
       };
       /* ]]> */
     </script>
-    <script type="text/javascript" id="sharing-js-js-extra">
-      /* <![CDATA[ */
-      var sharing_js_options = {
-        lang: "en",
-        counts: "1",
-        is_stats_active: "1",
-      };
-      /* ]]> */
-    </script>
     <script
       crossorigin="anonymous"
       type="text/javascript"
-      src="https://s0.wp.com/_static/??-eJyNj1FOAzEMRC9E6hakwg/iKMhN3F1vEidsbLa9fdOChLRCVf8843nWGJbqfBElUcjmarKBpcHCYSBtQNa3JTK5hAso5ZpQaeVvpvYE/99JHHv6y8hoRAmJ5jthX3LulvuBppWxBnWk3GPVDoC1NJ1LHelKtci1IxLdsXhr7sinh1nBbx5QucjDyJ+689pEWtHHXw3NBD5ZPByMU4A24kwBQzjfRpZhk/na4CO/716327fd/uV5P10A9iOgmg=="
+      src="https://s0.wp.com/_static/??-eJyNj9sOgjAMQH/IUZAEfTF+ipmjQNlV1omf79REE2IIjz09p0lhDkJ5x+gYbBLBpJ5chJnaHjkCprz1mlAYOQOjDUYyLngxxh38v2NIZ/uWMOEgXWtwWpGVtzYj8YnGBViGPKDNWkhXkMFHnnwY8FVFTSEnTovOqxRFR4/NrZN36iWTd5uT37TymtQULbKoixIu5NQXdNNbbnN7tqfqUJbHqqn3zfgEBy6YuQ=="
     ></script>
-    <script type="text/javascript" id="sharing-js-js-after">
-      /* <![CDATA[ */
-      var windowOpen;
-      (function () {
-        function matches(el, sel) {
-          return !!(
-            (el.matches && el.matches(sel)) ||
-            (el.msMatchesSelector && el.msMatchesSelector(sel))
-          );
-        }
-
-        document.body.addEventListener("click", function (event) {
-          if (!event.target) {
-            return;
-          }
-
-          var el;
-          if (matches(event.target, "a.share-twitter")) {
-            el = event.target;
-          } else if (
-            event.target.parentNode &&
-            matches(event.target.parentNode, "a.share-twitter")
-          ) {
-            el = event.target.parentNode;
-          }
-
-          if (el) {
-            event.preventDefault();
-
-            // If there's another sharing window open, close it.
-            if (typeof windowOpen !== "undefined") {
-              windowOpen.close();
-            }
-            windowOpen = window.open(
-              el.getAttribute("href"),
-              "wpcomtwitter",
-              "menubar=1,resizable=1,width=600,height=350"
-            );
-            return false;
-          }
-        });
-      })();
-      var windowOpen;
-      (function () {
-        function matches(el, sel) {
-          return !!(
-            (el.matches && el.matches(sel)) ||
-            (el.msMatchesSelector && el.msMatchesSelector(sel))
-          );
-        }
-
-        document.body.addEventListener("click", function (event) {
-          if (!event.target) {
-            return;
-          }
-
-          var el;
-          if (matches(event.target, "a.share-facebook")) {
-            el = event.target;
-          } else if (
-            event.target.parentNode &&
-            matches(event.target.parentNode, "a.share-facebook")
-          ) {
-            el = event.target.parentNode;
-          }
-
-          if (el) {
-            event.preventDefault();
-
-            // If there's another sharing window open, close it.
-            if (typeof windowOpen !== "undefined") {
-              windowOpen.close();
-            }
-            windowOpen = window.open(
-              el.getAttribute("href"),
-              "wpcomfacebook",
-              "menubar=1,resizable=1,width=600,height=400"
-            );
-            return false;
-          }
-        });
-      })();
-      /* ]]> */
-    </script>
     <script type="text/javascript">
       // <![CDATA[
       (function () {
@@ -2183,7 +1934,7 @@
           v: "wpcom",
           tz: "0",
           user_id: "0",
-          post: "40",
+          post: "3",
           subd: "ramadharsingh",
         },
       ]);
@@ -2191,10 +1942,10 @@
         "extra",
         {
           crypt:
-            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1RUZIZD1yQzk9QlNYNmY1ZlZFXSxTbUQvL1F6Y29nQVpiSltoWVVNMVNiaDlqd0hqLHB1Y1RWSW9fYjFxRWFmZmxFVW02UHQ9UEREa0lvbWMuMThoNkZkdGIzNEV+b1hhWHlPLVcmWCxEbnd+UlZXS2lVWmpNYUpIY2ZscjA/TXEyTjQx",
+            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1W3YrdmxuNjYmPz9ObXQrJUpGUD0uNW0/UUl8RW1Pdl1mbHVILDc9SFIxfGk5OVU3alo0JVpuUC0mcEcvPWxvNVVIU0J4dEk2U2NMRlJBcmE3eHpRSSx5W2tOVGZSV3l2bXxCflNmUEVMYXNzUVAzaWFbQjV5QlJWaSwmK10ydlVhcTJWUQ==",
         },
       ]);
-      _stq.push(["clickTrackerInit", "115692407", "40"]);
+      _stq.push(["clickTrackerInit", "115692407", "3"]);
     </script>
     <noscript
       ><img

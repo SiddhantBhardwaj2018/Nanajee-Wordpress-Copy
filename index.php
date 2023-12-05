@@ -1,3 +1,6 @@
+<?php
+  require_once 'includes/main_view.inc.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -228,6 +231,12 @@
       rel="stylesheet"
       id="all-css-0-1"
       href="https://s0.wp.com/_static/??/wp-content/blog-plugins/wordads/global.css,/wp-content/mu-plugins/widgets/eu-cookie-law/templates/style.css?m=1642463000j&cssminify=yes"
+      type="text/css"
+      media="all"
+    />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
       type="text/css"
       media="all"
     />
@@ -854,7 +863,7 @@
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="/icons/favicon.ico"
+      href="icons/favicon.ico"
       sizes="16x16 24x24 32x32 48x48"
     />
     <link
@@ -1146,75 +1155,9 @@
           <h2 class="site-description"></h2>
         </div>
 
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <a class="menu-toggle">Menu</a>
-          <a class="skip-link screen-reader-text" href="#content"
-            >Skip to content</a
-          >
-
-          <div class="menu-primary-container">
-            <ul id="menu-primary" class="apostrophe-navigation">
-              <li
-                id="menu-item-8"
-                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-8"
-              >
-                <a href="/" aria-current="page">Home</a>
-              </li>
-              <li
-                id="menu-item-173"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173"
-              >
-                <a href="/overview.html">Overview</a>
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-54"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"
-                  >
-                    <a href="/responsibilities.html">Responsibilities</a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-17"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17"
-              >
-                <a href="/research.html">Research</a>
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-65"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"
-                  >
-                    <a href="/publications.html">Publications</a>
-                  </li>
-                  <li
-                    id="menu-item-39"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"
-                  >
-                    <a href="/doctoralStudents.html">Students supervised</a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-19"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
-              >
-                <a href="/conference.html">Colloquium &amp; Conference</a>
-              </li>
-              <li
-                id="menu-item-42"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"
-              >
-                <a href="/recognition.html">Recognition</a>
-              </li>
-              <li
-                id="menu-item-53"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"
-              >
-                <a href="/advisors.html">Advisors</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php
+          getNavbar();
+        ?>
         <!-- #site-navigation -->
       </header>
       <!-- #masthead -->
@@ -1227,7 +1170,7 @@
               class="post-2 page type-page status-publish hentry"
             >
               <header class="entry-header">
-                <h1 class="entry-title">Ramadhar Singh</h1>
+                <h1 class="entry-title">Prof. Ramadhar Singh</h1>
               </header>
               <!-- .entry-header -->
 
@@ -1254,7 +1197,7 @@
                   Mody School of Management<br />Ahmedabad University,
                   Ahmedabad, 380009, Gujarat, India
                 </p>
-                <p>[<a href="/contact.html">Contact details&nbsp;</a>]</p>
+                <p>[<a href="contact.php">Contact details&nbsp;</a>]</p>
                 <hr />
                 <p style="text-align: justify"></p>
 
@@ -1268,7 +1211,8 @@
                   of Purdue University, West Lafayette, Indiana, USA, has been a
                   <strong>Distinguished University Professor</strong> at
                   Ahmedabad University, Ahmedabad, Gujarat, India since July 7,
-                  2016. He had earlier served as a
+                  2016.</p>
+                  <p> He had earlier served as a
                   <strong>Lecturer in Psychology</strong> at Patna University
                   (1968-1973), an
                   <strong>Assistant Professor of Psychology</strong> at the
@@ -1280,7 +1224,9 @@
                   University of Singapore (NUS) in 2010. He spent his 2003-04
                   sabbatical at the University of Rochester, New York, USA, and
                   the University of Oxford, UK, and his 2008 sabbatical at
-                  Purdue University. He is the first <strong>Fellow</strong> of
+                  Purdue University.</p> 
+                  
+                  <p>He is the first <strong>Fellow</strong> of
                   the Singapore Psychological Society (1992) and the first
                   <strong>Professor of Psychology</strong> (1997) in Singapore.
                   During 2010-16, he was the first
@@ -1299,45 +1245,70 @@
                   >), and the <strong>society</strong> (<em
                     >cross-cultural differences, distributive fairness,
                     intuitive prosecution, prediction of donation</em
-                  >) since 1970. His articles have appeared in prime
-                  international journals of<em> </em><strong>psychology</strong
+                  >) since 1970.</p>
+                  
+                  <strong><p> His articles have appeared in prime
+                  international journals of<em> </em>psychology</strong
                   ><em>
-                    (e.g., Asian Journal of Social Psychology, Basic and Applied
-                    Social Psychology, British Journal of Social Psychology,
-                    Child Development, Cognitive Development, Developmental
-                    Psychology, European Journal of Social Psychology, Journal
-                    of Experimental Child Psychology, Journal of Genetic
-                    Psychology, Journal of Experimental Social Psychology,
-                    Journal of Personality and Social Psychology, Journal of
-                    Research in Personality, Journal of Social and Personal
-                    Relationships, Journal of Theoretical Social Psychology,
-                    Personal Relationships, Personality and Social Psychology
-                    Bulletin, Personality and Social Psychology Compass, etc.) </em
-                  >and <strong>management</strong
+                    (e.g., 
+                    
+                    <ul>
+                    <li>Asian Journal of Social Psychology</li>
+                      <li>Basic and Applied Social Psychology</li>
+                      <li>British Journal of Social Psychology</li>
+                      <li>Child Development</li>
+                      <li>Cognitive Development</li>
+                      <li>Developmental Psychology</li>
+                      <li>European Journal of Social Psychology</li>
+                      <li>Journal of Experimental Child Psychology</li>
+                      <li>Journal of Genetic Psychology</li>
+                      <li>Journal of Experimental Social Psychology</li>
+                      <li>Journal of Personality and Social Psychology</li>
+                      <li>Journal of Research in Personality</li>
+                      <li>Journal of Social and Personal Relationships</li>
+                      <li>Journal of Theoretical Social Psychology</li>
+                      <li>Personal Relationships</li>
+                      <li>Personality and Social Psychology Bulletin</li>
+                      <li>Personality and Social Psychology Compass</li>
+                    </ul>
+                    </em
+                  ><strong>and management</strong
                   ><em>
-                    (e.g., Applied Psychology: An International Review, Journal
-                    of Applied Psychology, Omega: The International Journal of
-                    Management Science, Organizational Behavior and Human
-                    Performance, Organizational Behavior and Human Decision
-                    Processes, etc.).</em
+                    (e.g.,
+                    <ul>
+                      <li> Applied Psychology: An International Review</li> 
+                      <li>  Journal of Applied Psychology</li> 
+                      <li>  Omega: The International Journal of Management Science</li> 
+                      <li>  Organizational Behavior and Human Performance</li> 
+                      <li>  Organizational Behavior and Human Decision Processes</li> 
+                    </em
                   >
                 </p>
 
                 <p>
-                  Ramadhar Singh is a <strong>Fellow</strong> of the
-                  <em>British Psychological Society</em> (1992), the
-                  <em>Society for Personality and Social Psychology</em> (1992),
-                  the <em>American Psychological Association</em> (1993), the
-                  <em>Association for Psychological Science</em> (1993), and the
-                  <em>National Academy of Psychology (NAoP) India</em> (2008).
-                  He served as a Consulting Editor of the
-                  <em
+                <strong>Ramadhar Singh is a Fellow of the</strong>
+                  <ul>
+                    <li><em>British Psychological Society</em> (1992)</li>  
+                    <li><em>Society for Personality and Social Psychology</em> (1992)</li> 
+                    <li><em>American Psychological Association</em> (1993)</li> 
+                    <li><em>Association for Psychological Science</em> (1993)</li> 
+                    <li><em>National Academy of Psychology (NAoP) India</em> (2008)</li> 
+                </ul>
+                  <strong>He served as a Consulting Editor of the</strong>
+                  <ul>
+                    <li><em
                     >Asian Journal of Social Psychology, Journal of Behavioral
                     Decision Making, Journal of Theoretical Social Psychology, </em
-                  >and<em> Review of General Psychology, </em>and as an
-                  Associate Editor of<em>
+                  ></li>
+                  <li><em> Review of General Psychology </em></li>
+                  </ul>
+                   <strong>and as an Associate Editor of</strong>
+                  <ul>
+                  <li><em>
                     the Asian Journal of Social Psychology </em
-                  >(2016-18) and the <em>IIMB Management Review</em> (2010-2022)
+                  >(2016-18) </li>
+                  <li><em>IIMB Management Review</em> (2010-2022)</li>
+                </ul>
                 </p>
 
                 <p>
@@ -1349,16 +1320,9 @@
                   listed only him from India among the
                   <em>Faces and Minds of Psychological Science</em> for
                   improving the understanding of how people make inferences
-                  about missing information from information available. In 2022,
-                  the
-                  <strong
-                    >Society for Personality and Social Psychology, Washington
-                    DC, USA</strong
-                  >
-                  inducted him into the <em>Heritage Wall of Fame</em> for his
-                  &#8220;invaluable contributions to the field of personality
-                  and social psychology&#8221; and for his &#8220;passions and
-                  commitment&#8221; to psychological sciences. In 2021, the
+                  about missing information from information available. </p>
+                  
+                  <p> In 2021, the
                   <strong>Indian Institute of Management Indore</strong> gave
                   him its first-ever
                   <strong
@@ -1366,7 +1330,9 @@
                     Research</strong
                   >
                   to “… celebrate his commitment to and a quest for knowledge of
-                  human behavior in organization and society.” In 2022, the
+                  human behavior in organization and society.”</p>
+                  
+                  <p> In 2022, the
                   <strong>Department of Humanities &amp; Social Sciences</strong
                   >,<strong> Indian Institute of Technology Kanpur</strong>
                   established an annual
@@ -1376,13 +1342,24 @@
                   >
                   to celebrate their &#8220;sustained contributions to the
                   advancement of Psychology and Management as a Science in
-                  Asia.&#8221; For making formal education easily accessible to
+                  Asia.&#8221; </p>
+                  
+                  <p>For making formal education easily accessible to
                   rural children of his native village in Balara, the KAKA
                   Community Learning Center of Nepal honored Ramadhar Singh with
                   the <strong>KAKA 2022 Education Forever Award</strong>.
                 </p>
 
-                <p></p>
+                <p>In 2022,
+                  the
+                  <strong
+                    >Society for Personality and Social Psychology, Washington
+                    DC, USA</strong
+                  >
+                  inducted him into the <em>Heritage Wall of Fame</em> for his
+                  &#8220;invaluable contributions to the field of personality
+                  and social psychology&#8221; and for his &#8220;passions and
+                  commitment&#8221; to psychological sciences.</p>
                 <div id="atatags-370373-656063417f8ff">
                   <script type="text/javascript">
                     __ATA.cmd.push(function () {

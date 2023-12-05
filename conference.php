@@ -1,3 +1,6 @@
+<?php 
+    require_once 'includes/main_view.inc.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,7 +12,8 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Contact &#8211; Ramadhar Singh &#8211; Distinguished Professor
+      Colloquium &amp; Conference &#8211; Ramadhar Singh &#8211; Distinguished
+      Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -46,13 +50,7 @@
       rel="alternate"
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Feed"
-      href="https://ramadharsingh.wordpress.com/feed/"
-    />
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title="Ramadhar Singh - Distinguished Professor &raquo; Comments Feed"
-      href="https://ramadharsingh.wordpress.com/comments/feed/"
+      href="/feed.xml/"
     />
     <script type="text/javascript">
       /* <![CDATA[ */
@@ -239,6 +237,12 @@
       rel="stylesheet"
       id="all-css-0-1"
       href="https://s0.wp.com/_static/??-eJx9zEEOAiEMheELiY0ZM44L41k60BCGQoktId7e0Y2uXL78Xx6M5rxUo2qwskTXuMdUFYY8AgaFyLIiH73qAX5s6V+ZQiRToL5XyYkc4wCj0hiNFNSeTP8OOOWdbWQNfXaf9eb3cjvNy7RcL+dp3l5DtT5p&cssminify=yes"
+      type="text/css"
+      media="all"
+    />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
       type="text/css"
       media="all"
     />
@@ -770,10 +774,10 @@
       /* <![CDATA[ */
       var videopressAjax = {
         ajaxUrl:
-          "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
+          "https:\/\/ramadharsingh.ramadharsingh.com.com\/wp-admin\/admin-ajax.php",
         bridgeUrl:
           "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-videopress\/build\/lib\/token-bridge.js",
-        post_id: "3",
+        post_id: "88",
       };
       /* ]]> */
     </script>
@@ -781,17 +785,17 @@
       /* <![CDATA[ */
       var actionbardata = {
         siteID: "115692407",
-        postID: "3",
+        postID: "88",
         siteURL: "http:\/\/ramadharsingh.wordpress.com",
         xhrURL:
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
-        nonce: "e778250ba8",
+        nonce: "5fca445859",
         isLoggedIn: "",
         statusMessage: "",
         subsEmailDefault: "instantly",
         proxyScriptUrl:
           "https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021",
-        shortlink: "https:\/\/wp.me\/P7PqSz-3",
+        shortlink: "https:\/\/wp.me\/P7PqSz-1q",
         i18n: {
           followedText:
             'New posts from this site will now appear in your <a href="https:\/\/wordpress.com\/read">Reader<\/a>',
@@ -823,36 +827,39 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php?rsd"
     />
     <meta name="generator" content="WordPress.com" />
-    <link rel="canonical" href="https://ramadharsingh.wordpress.com/contact/" />
-    <link rel="shortlink" href="https://wp.me/P7PqSz-3" />
+    <link
+      rel="canonical"
+      href="/conference.html/"
+    />
+    <link rel="shortlink" href="https://wp.me/P7PqSz-1q" />
     <link
       rel="alternate"
       type="application/json+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fcontact%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fconference%2F&amp;for=wpcom-auto-discovery"
     />
     <link
       rel="alternate"
       type="application/xml+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fcontact%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fconference%2F&amp;for=wpcom-auto-discovery"
     />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Contact" />
+    <meta property="og:title" content="Colloquium &amp; Conference" />
     <meta
       property="og:url"
-      content="https://ramadharsingh.wordpress.com/contact/"
+      content="/conference.html/"
     />
     <meta
       property="og:description"
-      content="This is just a short excerpt for the contact&nbsp;page."
+      content="Invited Colloquia Invited Colloquia 2021: Indian Institute of Management Ranchi 2021: Ahmedabad University, Ahmedabad 2021: MICA – The School of Ideas, Ahmedabad 2017: National Institute of Advance…"
     />
     <meta
       property="article:published_time"
-      content="2016-08-23T14:07:16+00:00"
+      content="2016-09-19T15:10:50+00:00"
     />
     <meta
       property="article:modified_time"
-      content="2022-10-17T07:47:03+00:00"
+      content="2022-10-20T07:01:01+00:00"
     />
     <meta
       property="og:site_name"
@@ -866,14 +873,14 @@
       property="article:publisher"
       content="https://www.facebook.com/WordPresscom"
     />
-    <meta name="twitter:text:title" content="Contact" />
+    <meta name="twitter:text:title" content="Colloquium &amp; Conference" />
     <meta name="twitter:card" content="summary" />
 
     <!-- End Jetpack Open Graph Tags -->
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="/icons/favicon.ico"
+      href="icons/favicon.ico"
       sizes="16x16 24x24 32x32 48x48"
     />
     <link
@@ -886,42 +893,16 @@
     <link
       rel="search"
       type="application/opensearchdescription+xml"
-      href="https://ramadharsingh.wordpress.com/osd.xml"
+      href="https://ramadharsingh.com/osd.xml"
       title="Ramadhar Singh - Distinguished Professor"
-    />
-    <link
-      rel="search"
-      type="application/opensearchdescription+xml"
-      href="https://s1.wp.com/opensearch.xml"
-      title="WordPress.com"
     />
     <meta
       name="application-name"
       content="Ramadhar Singh - Distinguished Professor"
     />
     <meta
-      name="msapplication-window"
-      content="width=device-width;height=device-height"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=Subscribe;action-uri=https://ramadharsingh.wordpress.com/feed/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
       name="description"
-      content="This is just a short excerpt for the contact&nbsp;page."
+      content="Invited Colloquia Invited Colloquia 2021: Indian Institute of Management Ranchi 2021: Ahmedabad University, Ahmedabad 2021: MICA – The School of Ideas, Ahmedabad 2017: National Institute of Advanced Study, Bangalore 2017: Indian Institute of Technology, Bombay 2016: Mudra Institute of Communications, Ahmedabad 2016: Indian Institute of Management, Indore 2015: University of Allahabad, Allahabad 2015: Indian Institute of Technology,&hellip;"
     />
     <style type="text/css" id="apostrophe-header-css"></style>
     <script type="text/javascript">
@@ -1095,7 +1076,7 @@
       var sas_fallback = sas_fallback || [];
       sas_fallback.push(
         {
-          tag: "&lt;div id=&quot;atatags-26942-6560a36cdc6e4&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-6560a36cdc6e4',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
+          tag: "&lt;div id=&quot;atatags-26942-6560691f2d92c&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-6560691f2d92c',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
           type: "belowpost",
         },
         {
@@ -1162,94 +1143,27 @@
   </head>
 
   <body
-    class="page-template-default page page-id-3 customizer-styles-applied apostrophe-no-sidebar"
+    class="page-template-default page page-id-88 customizer-styles-applied apostrophe-no-sidebar"
   >
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
         <div class="site-branding">
           <a
-            href="https://ramadharsingh.wordpress.com/"
+            href="https://ramadharsingh.com/"
             class="site-logo-link"
             rel="home"
             itemprop="url"
           ></a>
           <h1 class="site-title">
-            <a href="https://ramadharsingh.wordpress.com/" rel="home"
+            <a href="https://ramadharsingh.com/" rel="home"
               >Ramadhar Singh &#8211; Distinguished Professor</a
             >
           </h1>
           <h2 class="site-description"></h2>
         </div>
-
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <a class="menu-toggle">Menu</a>
-          <a class="skip-link screen-reader-text" href="#content"
-            >Skip to content</a
-          >
-
-          <div class="menu-primary-container">
-            <ul id="menu-primary" class="apostrophe-navigation">
-              <li
-                id="menu-item-8"
-                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-8"
-              >
-                <a href="/" aria-current="page">Home</a>
-              </li>
-              <li
-                id="menu-item-173"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173"
-              >
-                <a href="/overview.html">Overview</a>
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-54"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"
-                  >
-                    <a href="/responsibilities.html">Responsibilities</a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-17"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17"
-              >
-                <a href="/research.html">Research</a>
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-65"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"
-                  >
-                    <a href="/publications.html">Publications</a>
-                  </li>
-                  <li
-                    id="menu-item-39"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"
-                  >
-                    <a href="/doctoralStudents.html">Students supervised</a>
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-19"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
-              >
-                <a href="/conference.html">Colloquium &amp; Conference</a>
-              </li>
-              <li
-                id="menu-item-42"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"
-              >
-                <a href="/recognition.html">Recognition</a>
-              </li>
-              <li
-                id="menu-item-53"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"
-              >
-                <a href="/advisors.html">Advisors</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php 
+          getNavbar();
+        ?>
         <!-- #site-navigation -->
       </header>
       <!-- #masthead -->
@@ -1258,190 +1172,345 @@
         <section id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article
-              id="post-3"
-              class="post-3 page type-page status-publish hentry"
+              id="post-88"
+              class="post-88 page type-page status-publish hentry"
             >
               <header class="entry-header">
-                <h1 class="entry-title">Contact</h1>
+                <h1 class="entry-title">Colloquium &amp; Conference</h1>
               </header>
               <!-- .entry-header -->
 
-              <div class="entry-content">
-                <p>Indian Institute of Management Indore</p>
+              <div class="entry-content" id="prevEmployment">
+                <h4><strong>Invited Colloquia</strong></h4>
+                <p>2021: Indian Institute of Management Ranchi</p>
+                <p>2021: Ahmedabad University, Ahmedabad</p>
+                <p>2021: MICA – The School of Ideas, Ahmedabad</p>
+                <p>2017: National Institute of Advanced Study, Bangalore</p>
+                <p>2017: Indian Institute of Technology, Bombay</p>
+                <p>2016: Mudra Institute of Communications, Ahmedabad</p>
+                <p>2016: Indian Institute of Management, Indore</p>
+                <p>2015: University of Allahabad, Allahabad</p>
+                <p>2015: Indian Institute of Technology, Bombay</p>
+                <p>2014: Indian Institute of Technology, Guwahati</p>
                 <p>
-                  <strong>Address</strong>:<br />
-                  Office No 111, Amrut Mody School of Management<br />
-                  Ahmedabad University, GICT Building, Central Campus<br />
-                  Navrangpura, Ahmedabad 380009, Gujarat, India
+                  2014: GLS Centre for Research &amp; Development, Ahmedabad
                 </p>
-                <p><strong>Phone</strong>: +9179 61911001/2/3 (ext. 338)</p>
-                <p>Mobile: +91 7490002156</p>
-                <p><strong>Email</strong>: singhr@ahduni.edu.in</p>
-                <p><strong>Meeting hours</strong>: Prior appointment</p>
-                <p>Contact form</p>
-                <hr />
-                <div
-                  data-test="contact-form"
-                  id="contact-form-3"
-                  class="wp-block-jetpack-contact-form-container"
-                >
-                  <form
-                    action="/contact.html#contact-form-3"
-                    method="post"
-                    class="contact-form commentsblock"
-                  >
-                    <script>
-                      (function () {
-                        const contact_forms =
-                          document.getElementsByClassName("contact-form");
-
-                        for (const form of contact_forms) {
-                          form.onsubmit = function () {
-                            const buttons = form.getElementsByTagName("button");
-
-                            for (const button of buttons) {
-                              button.setAttribute("disabled", true);
-                            }
-                          };
-                        }
-                      })();
-                    </script>
-                    <div
-                      style=""
-                      class="grunion-field-name-wrap grunion-field-wrap"
-                    >
-                      <label for="g3-name" class="grunion-field-label name"
-                        >Name<span class="grunion-label-required"
-                          >(required)</span
-                        ></label
-                      >
-                      <input
-                        type="text"
-                        name="g3-name"
-                        id="g3-name"
-                        value=""
-                        class="name grunion-field"
-                        required
-                        aria-required="true"
-                      />
-                    </div>
-
-                    <div
-                      style=""
-                      class="grunion-field-email-wrap grunion-field-wrap"
-                    >
-                      <label for="g3-email" class="grunion-field-label email"
-                        >Email<span class="grunion-label-required"
-                          >(required)</span
-                        ></label
-                      >
-                      <input
-                        type="email"
-                        name="g3-email"
-                        id="g3-email"
-                        value=""
-                        class="email grunion-field"
-                        required
-                        aria-required="true"
-                      />
-                    </div>
-
-                    <div
-                      style=""
-                      class="grunion-field-url-wrap grunion-field-wrap"
-                    >
-                      <label for="g3-website" class="grunion-field-label url"
-                        >Website</label
-                      >
-                      <input
-                        type="text"
-                        name="g3-website"
-                        id="g3-website"
-                        value=""
-                        class="url grunion-field"
-                        title="Please enter a valid URL - https://www.example.com"
-                        oninvalid='setCustomValidity("Please enter a valid URL - https://www.example.com")'
-                        oninput='setCustomValidity("")'
-                        pattern="(([:\/a-zA-Z0-9_\-]+)?(\.[a-zA-Z0-9_\-\/]+)+)"
-                        data-type-override="url"
-                      />
-                    </div>
-
-                    <div
-                      style=""
-                      class="grunion-field-textarea-wrap grunion-field-wrap"
-                    >
-                      <label
-                        for="contact-form-comment-g3-comment"
-                        class="grunion-field-label textarea"
-                        >Comment<span class="grunion-label-required"
-                          >(required)</span
-                        ></label
-                      >
-                      <textarea
-                        style=""
-                        name="g3-comment"
-                        id="contact-form-comment-g3-comment"
-                        rows="20"
-                        class="textarea grunion-field"
-                        required
-                        aria-required="true"
-                      ></textarea>
-                    </div>
-                    <p class="contact-submit">
-                      <button type="submit" class="pushbutton-wide">
-                        Submit
-                      </button>
-                      <input type="hidden" name="contact-form-id" value="3" />
-                      <input
-                        type="hidden"
-                        name="action"
-                        value="grunion-contact-form"
-                      />
-                      <input
-                        type="hidden"
-                        name="contact-form-hash"
-                        value="76bb126e9fa6af7a7b0af75acc1e14cb5702d86d"
-                      />
-                    </p>
-                    <p style="display: none !important">
-                      <label
-                        >&#916;<textarea
-                          name="ak_hp_textarea"
-                          cols="45"
-                          rows="8"
-                          maxlength="100"
-                        ></textarea></label
-                      ><input
-                        type="hidden"
-                        id="ak_js_1"
-                        name="ak_js"
-                        value="14"
-                      />
-                      <script>
-                        document
-                          .getElementById("ak_js_1")
-                          .setAttribute("value", new Date().getTime());
-                      </script>
-                    </p>
-                  </form>
-                </div>
-                <div id="atatags-370373-6560a36ce134f">
+                <p>2013: Indian Institute of Technology, Bombay</p>
+                <p>2013: Indian Institute of Technology, Kanpur</p>
+                <p>
+                  2013: Narsee Monjee Institute of Management Studies, Mumbai
+                </p>
+                <p>2012: Indian Institute of Management Lucknow</p>
+                <p>2012: Indian Institute of Management Kozhikode</p>
+                <p>2012: Xavier Institute of Management Bhubaneswar</p>
+                <p>2012: Central University of Bihar, Patna</p>
+                <p>2012: Defense Institute of Psychological Research, Delhi</p>
+                <p>2011: Christ University, Bangalore, India</p>
+                <p>2009: Indian Institute of Management Bangalore</p>
+                <p>
+                  2009: A.E.S. Post Graduate Institute of Business Management,
+                  Ahmedabad
+                </p>
+                <p>2009: Indian Institute of Management Lucknow</p>
+                <p>2008: Indian Institute of Management Lucknow</p>
+                <p>
+                  2008: A.E.S. Post Graduate Institute of Business Management,
+                  Ahmedabad
+                </p>
+                <p>2008: Purdue University, West Lafayette, Indiana, USA</p>
+                <p>2008: Indiana University, Bloomington, Indiana, USA</p>
+                <p>2008: The Ohio State University, Columbus, Ohio, USA</p>
+                <p>
+                  2007: A.E.S. Post Graduate Institute of Business Management,
+                  Ahmedabad
+                </p>
+                <p>2007: Indian Institute of Management Lucknow</p>
+                <p>2006: Indian Institute of Management Lucknow</p>
+                <p>2006: LKY School of Public Policy, Singapore</p>
+                <p>2005: Islamic University of Malaysia, Kuala Lumpur</p>
+                <p>2005: Mudra Institute of Communications Ahmedabad</p>
+                <p>2005: Indian Institute of Management Lucknow</p>
+                <p>2005: University of Allahabad, Allahabad</p>
+                <p>
+                  2005: Nirma University of Science and Technology, Ahmedabad
+                </p>
+                <p>2004: University of Illinois, Urbana, Illinois, USA</p>
+                <p>2004: University of Wisconsin, Madison, Wisconsin, USA</p>
+                <p>2004: University of Rochester, Rochester, New York, USA</p>
+                <p>2004: University of Kent, Canterbury, U.K.</p>
+                <p>2004: University of Oxford, Oxford, England, U.K.</p>
+                <p>2004: Catholic University of Leuven, Leuven, Belgium</p>
+                <p>2004: University of Birmingham, Birmingham, England, U.K.</p>
+                <p>
+                  2004: Colorado State University, Fort Collins, Colorado, USA
+                </p>
+                <p>
+                  2004: Massachusetts College of Liberal Arts, North Adams,
+                  Massachusetts, USA
+                </p>
+                <p>
+                  2003: Kathmandu University School of Management, Kathmandu,
+                  Nepal
+                </p>
+                <p>
+                  2003: Faculty of Psychology, Chulalongkorn University,
+                  Bangkok, Thailand
+                </p>
+                <p>2003: University of Rochester, Rochester, New York, USA</p>
+                <p>2003: University of Western Ontario, London, Canada</p>
+                <p>2003: University of Connecticut, Storrs, Connecticut, USA</p>
+                <p>2002: University of Rochester, Rochester, New York, USA</p>
+                <p>
+                  2002: Massachusetts College of Liberal Arts, North Adams,
+                  Massachusetts, USA
+                </p>
+                <p>2002: University of Tokyo, Tokyo, Japan</p>
+                <p>2002: University of Allahabad, Allahabad</p>
+                <p>2001: Indian Institute of Management Indore</p>
+                <p>2001: University of Allahabad, Allahabad</p>
+                <p>2001: Indian Institute of Management Bangalore</p>
+                <p>
+                  1999: Institute of Psychology, Center of Human and Social
+                  Sciences, Hanoi, Vietnam
+                </p>
+                <p>
+                  1999: Faculty of Psychology, University of Indonesia, Depok,
+                  Indonesia
+                </p>
+                <p>
+                  1998: Institute of Psychology, Chinese Academy of Sciences,
+                  Beijing, PRC
+                </p>
+                <p>1998: Beijing Normal University, Beijing, PRC</p>
+                <p>1998: Peking University, Beijing, PRC</p>
+                <p>1998: University of Delhi, Delhi</p>
+                <p>1997: Inha University, Inchon, Korea</p>
+                <p>1997: University of Tokyo, Tokyo, Japan</p>
+                <p>1996: The Chinese University of Hong Kong, Hong Kong</p>
+                <p>1996: Ball State University, Muncie, Indiana, USA</p>
+                <p>1996: Purdue University, West Lafayette, Indiana, USA</p>
+                <p>1995: Nanyang Technological University, Singapore</p>
+                <p>
+                  <strong> </strong>1994:<strong> </strong>Indian Institute of
+                  Management, Ahmedabad
+                </p>
+                <p>
+                  1993: Nepal Administrative Staff College, Kathmandu, Nepal
+                </p>
+                <p>1993: A. N. S. Institute of Social Studies, Patna</p>
+                <p>1993: California State University at Fullerton, USA</p>
+                <p>1993: The University of Michigan, Ann Arbor, USA</p>
+                <p>1993: Northern Illinois University, De Kalb, USA</p>
+                <p>1989: National University of Singapore, Singapore</p>
+                <p>1989: Singapore Institute of Management, Singapore</p>
+                <p>1988: Birla Institute of Technology, Mesra</p>
+                <p>1988: National University of Singapore, Singapore</p>
+                <p>1987: M. S. University of Baroda, Vadodara</p>
+                <p>1987: University of Allahabad, Allahabad</p>
+                <p>
+                  1987: Rajasthan Institute of Public Administration, Jaipur
+                </p>
+                <p>1986: S. V. University, Tirupati</p>
+                <p>
+                  1986: L. N. Mishra Institute of Economic Development and
+                  Social Change, Patna
+                </p>
+                <p>1986: University of Delhi, Delhi</p>
+                <p>1985: Punjab University, Chandigarh</p>
+                <p>1985: Banaras Hindu University, Varanasi</p>
+                <p>1985: Osmania University, Hyderabad</p>
+                <p>1984: A. N. S. Institute of Social Studies, Patna</p>
+                <p>1984: Birla Institute of Technology, Mesra</p>
+                <p>1984: Indian Institute of Business Management, Patna</p>
+                <p>1984: Saurashtra University, Rajkot</p>
+                <p>1984: State University of New York at Albany, USA</p>
+                <p>1984: University of Bombay, Bombay</p>
+                <p>1984: University of Connecticut, Storrs, USA</p>
+                <p>1983: A. N. S. Institute of Social Studies, Patna</p>
+                <p>1983: Birla Institute of Technology, Mesra</p>
+                <p>
+                  1983: L. N. Mishra Institute of Economic Development and
+                  Social Change, Patna
+                </p>
+                <p>1983: M. S. University of Baroda, Vadodara</p>
+                <p>1983: Sardar Patel University, Vallabh Vidyanagar</p>
+                <p>
+                  1983: Sardar Patel Institute of Public Administration,
+                  Ahmedabad
+                </p>
+                <p>1983: University of Delhi, Delhi</p>
+                <p>1983: University of Jodhpur, Jodhpur</p>
+                <p>1982: University of Allahabad, Allahabad</p>
+                <p>1981: Gujarat University, Ahmedabad</p>
+                <p>1980: University of Bombay, Bombay</p>
+                <p>1980: Sardar Patel University, Vallabh Vidyanagar</p>
+                <p>1979: A. N. S. Institute of Social Studies, Patna</p>
+                <p>1979: University of Allahabad, Allahabad</p>
+                <p>1979: University of Rajasthan, Jaipur</p>
+                <p>1979: Utkal University, Bhubneswar</p>
+                <p>1978: Indian Institute of Management Ahmedabad</p>
+                <p>1978: Meerut University, Meerut, India</p>
+                <p>1976: University of Allahabad, Allahabad</p>
+                <p>1973: A. N. S. Institute of Social Studies, Patna</p>
+                <h4><strong>Convention Participation and Presentations</strong></h4>
+                <p>2014: Academy of Management, Philadelphia, USA</p>
+                <p>
+                  2012: International Congress of Psychology, Cape Town, South
+                  Africa
+                </p>
+                <p>
+                  2012: National Academy of Psychology (NAoP) India, Bangalore
+                </p>
+                <p>
+                  2011: 21<sup>st</sup> convention of the National Academy of
+                  Psychology (NAOP), Anand
+                </p>
+                <p>
+                  2010: Excellence in Management Research, Indian Institute of
+                  Management Indore
+                </p>
+                <p>
+                  2010: International Conference on Demography, Culture, and
+                  Marketing, Xavier Institute of Management, Bhubneshwar
+                </p>
+                <p>
+                  2010: IMRDC Doctoral Conference, Indian Institute of
+                  Management Bangalore
+                </p>
+                <p>2009: European Congress of Psychology, Oslo, Norway</p>
+                <p>2009: American Psychological Association, Toronto, Canada</p>
+                <p>2009: Asian Association of Social Psychology, New Delhi</p>
+                <p>
+                  2009: IMRDC Doctoral Conference, Indian Institute of
+                  Management Bangalore
+                </p>
+                <p>
+                  2008: International Congress of Psychology, Berlin, Germany
+                </p>
+                <p>2007: American Psychological Society, Washington, DC, USA</p>
+                <p>
+                  2006: Japanese Association of Group Dynamics, Tokyo, Japan
+                </p>
+                <p>
+                  2002: Affect, Attraction, and Their Conceptual Children,
+                  University of Connecticut, USA
+                </p>
+                <p>
+                  2002: International Congress of Applied Psychology, Singapore
+                </p>
+                <p>
+                  2000: International Congress of Psychology, Stockholm, Sweden
+                </p>
+                <p>
+                  2000: International Association of Cross-cultural Psychology,
+                  Pultusk, Poland
+                </p>
+                <p>
+                  2000: International Congress of Psychology, Stockholm, Sweden
+                </p>
+                <p>
+                  2000: International Association of Cross-cultural Psychology,
+                  Pultusk, Poland
+                </p>
+                <p>
+                  1999: Indonesian Psychological Association, Depok, Indonesia
+                </p>
+                <p>1999: European Congress of Psychology, Rome, Italy</p>
+                <p>
+                  1999: Asian Association of Social Psychology, Taiwan, Republic
+                  of China
+                </p>
+                <p>
+                  1998: Afro-Asian Psychological Association and the
+                  Psychological Association of the
+                </p>
+                <p>Philippines, Diliman, Quezon City, The Philippines</p>
+                <p>
+                  1997: Asian Association of Social Psychology, Kyoto, Japan
+                </p>
+                <p>1996: Psychonomic Society, Chicago, USA</p>
+                <p>
+                  1996: Society for Judgment and Decision Making, Chicago, USA
+                </p>
+                <p>
+                  <strong> </strong>1993: Psychonomic Society, Washington, D.C.,
+                  USA
+                </p>
+                <p>
+                  1993: Society for Judgment and Decision Making, Washington,
+                  D.C., USA
+                </p>
+                <p>1993: National Academy of Psychology (India), Delhi</p>
+                <p>
+                  1992: Association of the Management Development Institutions
+                  of South Asia, Kathmandu, Nepal
+                </p>
+                <p>1992: First Asian Conference in Psychology, Singapore</p>
+                <p>
+                  1991: International Academic Symposium on Psychological
+                  Measurement, Nanjing, People&#8217;s Republic of China.
+                </p>
+                <p>
+                  1990: International Congress of Applied Psychology, Kyoto,
+                  Japan
+                </p>
+                <p>
+                  1990: Japan Advertising Academy and Osaka Advertising
+                  Association, Osaka, Japan
+                </p>
+                <p>
+                  1990: Joint National Meeting of the Institute of Management
+                  Science and the
+                </p>
+                <p>Operations Research Society of America, Philadelphia, USA</p>
+                <p>1990: World Communication Forum, Kobe, Japan</p>
+                <p>1986: Indian Science Congress Association, New Delhi</p>
+                <p>
+                  1984: International Congress of Psychology, Acapulco, Mexico
+                </p>
+                <p>
+                  1982: Indian Science Congress Association, Mysore, Karnataka
+                </p>
+                <p>1981: Indian Science Congress Association, Varanasi</p>
+                <p>
+                  1980: International Conference on Transportation, New Delhi
+                </p>
+                <p>1979: Indian Science Congress Association, Hyderabad</p>
+                <p>1978: U. P. Psychological Association, Lucknow</p>
+                <p>1978: Indian Psychological Association, Tirupati</p>
+                <p>1977: Indian Science Congress Association, Bhubaneswar</p>
+                <p>1976: International Symposium on Cognition, New Delhi</p>
+                <p>1975: Indian Science Congress Association, New Delhi</p>
+                <p>
+                  1973: Midwestern Psychological Association, Chicago, Illinois,
+                  USA
+                </p>
+                <p>
+                  1993: Conference of Graduate Students of Social Psychology,
+                  Ann Arbor, USA.
+                </p>
+                <p>
+                  1972: Midwestern Psychological Association, Cleveland, Ohio,
+                  USA
+                </p>
+                <p>1971: Psychonomic Society, St. Louis, Missouri, USA</p>
+                <p>1969: Bihar Psychological Association, Gaya, Bihar</p>
+                <div id="atatags-370373-6560691f33705">
                   <script type="text/javascript">
                     __ATA.cmd.push(function () {
-                      __ATA.initVideoSlot("atatags-370373-6560a36ce134f", {
+                      __ATA.initVideoSlot("atatags-370373-6560691f33705", {
                         sectionId: "370373",
                         format: "inread",
                       });
                     });
                   </script>
                 </div>
-                <div id="atatags-26942-6560a36ce223c"></div>
+                <div id="atatags-26942-6560691f3376c"></div>
 
                 <script>
                   __ATA.cmd.push(function () {
                     __ATA.initDynamicSlot({
-                      id: "atatags-26942-6560a36ce223c",
+                      id: "atatags-26942-6560691f3376c",
                       location: 120,
                       formFactor: "001",
                       label: {
@@ -1462,22 +1531,39 @@
                   id="jp-post-flair"
                   class="sharedaddy sd-like-enabled sd-sharing-enabled"
                 >
-                  <div
-                    class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded"
-                    id="like-post-wrapper-115692407-3-6560a36ce252c"
-                    data-name="like-post-frame-115692407-3-6560a36ce252c"
-                    data-title="Like or Reblog"
-                  >
-                    <h3 class="sd-title">Like this:</h3>
+                  <div class="sharedaddy sd-sharing-enabled">
                     <div
-                      class="likes-widget-placeholder post-likes-widget-placeholder"
-                      style="height: 55px"
+                      class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"
                     >
-                      <span class="button"><span>Like</span></span>
-                      <span class="loading">Loading...</span>
+                      <h3 class="sd-title">Share this:</h3>
+                      <div class="sd-content">
+                        <ul>
+                          <li class="share-twitter">
+                            <a
+                              rel="nofollow noopener noreferrer"
+                              data-shared="sharing-twitter-88"
+                              class="share-twitter sd-button share-icon"
+                              href="/conference.html/?share=twitter"
+                              target="_blank"
+                              title="Click to share on Twitter"
+                              ><span>Twitter</span></a
+                            >
+                          </li>
+                          <li class="share-facebook">
+                            <a
+                              rel="nofollow noopener noreferrer"
+                              data-shared="sharing-facebook-88"
+                              class="share-facebook sd-button share-icon"
+                              href="/conference.html/?share=facebook"
+                              target="_blank"
+                              title="Click to share on Facebook"
+                              ><span>Facebook</span></a
+                            >
+                          </li>
+                          <li class="share-end"></li>
+                        </ul>
+                      </div>
                     </div>
-                    <span class="sd-text-color"></span
-                    ><a class="sd-link-color"></a>
                   </div>
                 </div>
               </div>
@@ -1496,7 +1582,7 @@
 
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
-          <a target="_blank" href="https://webclass.in/" rel="nofollow"
+          <a target="_blank"  href="https://webclass.in/" rel="nofollow"
             >Designed & Developed By WebClass.in</a
           >
         </div>
@@ -1852,49 +1938,7 @@
         </form>
       </div>
     </div>
-    <div
-      id="actionbar"
-      style="display: none"
-      class="actnbr-pub-apostrophe actnbr-has-follow"
-    >
-      <ul>
-        <li class="actnbr-ellipsis actnbr-hidden">
-          <svg
-            class="gridicon gridicons-ellipsis"
-            height="24"
-            width="24"
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-          >
-            <g>
-              <path
-                d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"
-              />
-            </g>
-          </svg>
-          <div class="actnbr-popover tip tip-top-left actnbr-more">
-            <div class="tip-arrow"></div>
-            <div class="tip-inner">
-              <ul>
-                <li class="actnbr-sitename">
-                  <a href="https://ramadharsingh.com">
-                    <img
-                      alt=""
-                      src="https://s0.wp.com/i/logo/wpcom-gray-white.png"
-                      srcset="https://s0.wp.com/i/logo/wpcom-gray-white.png 1x"
-                      class="avatar avatar-50"
-                      height="50"
-                      width="50"
-                    />
-                    Ramadhar Singh - Distinguished Professor
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </div>
+    
 
     <script>
       window.addEventListener("load", function (event) {
@@ -1913,14 +1957,11 @@
       });
     </script>
 
-    <link
-      crossorigin="anonymous"
-      rel="stylesheet"
-      id="all-css-0-2"
-      href="https://s0.wp.com/wp-content/mu-plugins/jetpack-plugin/sun/jetpack_vendor/automattic/jetpack-forms/src/contact-form/css/grunion.css?m=1689611664i&cssminify=yes"
-      type="text/css"
-      media="all"
-    />
+    <script type="text/javascript">
+      window.WPCOM_sharing_counts = {
+        "https:\/\/ramadharsingh.wordpress.com\/conference\/": 88,
+      };
+    </script>
     <script type="text/javascript" id="comment-like-js-extra">
       /* <![CDATA[ */
       var comment_like_text = {
@@ -1938,11 +1979,104 @@
       };
       /* ]]> */
     </script>
+    <script type="text/javascript" id="sharing-js-js-extra">
+      /* <![CDATA[ */
+      var sharing_js_options = {
+        lang: "en",
+        counts: "1",
+        is_stats_active: "1",
+      };
+      /* ]]> */
+    </script>
     <script
       crossorigin="anonymous"
       type="text/javascript"
-      src="https://s0.wp.com/_static/??-eJyNj9sOgjAMQH/IUZAEfTF+ipmjQNlV1omf79REE2IIjz09p0lhDkJ5x+gYbBLBpJ5chJnaHjkCprz1mlAYOQOjDUYyLngxxh38v2NIZ/uWMOEgXWtwWpGVtzYj8YnGBViGPKDNWkhXkMFHnnwY8FVFTSEnTovOqxRFR4/NrZN36iWTd5uT37TymtQULbKoixIu5NQXdNNbbnN7tqfqUJbHqqn3zfgEBy6YuQ=="
+      src="https://s0.wp.com/_static/??-eJyNj1FOAzEMRC9E6hakwg/iKMhN3F1vEidsbLa9fdOChLRCVf8843nWGJbqfBElUcjmarKBpcHCYSBtQNa3JTK5hAso5ZpQaeVvpvYE/99JHHv6y8hoRAmJ5jthX3LulvuBppWxBnWk3GPVDoC1NJ1LHelKtci1IxLdsXhr7sinh1nBbx5QucjDyJ+689pEWtHHXw3NBD5ZPByMU4A24kwBQzjfRpZhk/na4CO/716327fd/uV5P10A9iOgmg=="
     ></script>
+    <script type="text/javascript" id="sharing-js-js-after">
+      /* <![CDATA[ */
+      var windowOpen;
+      (function () {
+        function matches(el, sel) {
+          return !!(
+            (el.matches && el.matches(sel)) ||
+            (el.msMatchesSelector && el.msMatchesSelector(sel))
+          );
+        }
+
+        document.body.addEventListener("click", function (event) {
+          if (!event.target) {
+            return;
+          }
+
+          var el;
+          if (matches(event.target, "a.share-twitter")) {
+            el = event.target;
+          } else if (
+            event.target.parentNode &&
+            matches(event.target.parentNode, "a.share-twitter")
+          ) {
+            el = event.target.parentNode;
+          }
+
+          if (el) {
+            event.preventDefault();
+
+            // If there's another sharing window open, close it.
+            if (typeof windowOpen !== "undefined") {
+              windowOpen.close();
+            }
+            windowOpen = window.open(
+              el.getAttribute("href"),
+              "wpcomtwitter",
+              "menubar=1,resizable=1,width=600,height=350"
+            );
+            return false;
+          }
+        });
+      })();
+      var windowOpen;
+      (function () {
+        function matches(el, sel) {
+          return !!(
+            (el.matches && el.matches(sel)) ||
+            (el.msMatchesSelector && el.msMatchesSelector(sel))
+          );
+        }
+
+        document.body.addEventListener("click", function (event) {
+          if (!event.target) {
+            return;
+          }
+
+          var el;
+          if (matches(event.target, "a.share-facebook")) {
+            el = event.target;
+          } else if (
+            event.target.parentNode &&
+            matches(event.target.parentNode, "a.share-facebook")
+          ) {
+            el = event.target.parentNode;
+          }
+
+          if (el) {
+            event.preventDefault();
+
+            // If there's another sharing window open, close it.
+            if (typeof windowOpen !== "undefined") {
+              windowOpen.close();
+            }
+            windowOpen = window.open(
+              el.getAttribute("href"),
+              "wpcomfacebook",
+              "menubar=1,resizable=1,width=600,height=400"
+            );
+            return false;
+          }
+        });
+      })();
+      /* ]]> */
+    </script>
     <script type="text/javascript">
       // <![CDATA[
       (function () {
@@ -1994,7 +2128,7 @@
           v: "wpcom",
           tz: "0",
           user_id: "0",
-          post: "3",
+          post: "88",
           subd: "ramadharsingh",
         },
       ]);
@@ -2002,10 +2136,10 @@
         "extra",
         {
           crypt:
-            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1W3YrdmxuNjYmPz9ObXQrJUpGUD0uNW0/UUl8RW1Pdl1mbHVILDc9SFIxfGk5OVU3alo0JVpuUC0mcEcvPWxvNVVIU0J4dEk2U2NMRlJBcmE3eHpRSSx5W2tOVGZSV3l2bXxCflNmUEVMYXNzUVAzaWFbQjV5QlJWaSwmK10ydlVhcTJWUQ==",
+            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1eThaUHJmZDc0XUQmODh1MFNXQltCRFZCRC1HSmlZM21kLjgwSEdzcTdxPTdXPWpjTFdXYUJzcUQ/ek5fcHU9NE5KX1FbZTVmRVM5MHltN2U1bH5bOC5JRjFMZllBQj9ITmxIWi5kZDRCcCw2TjduMS95aUovLk9QLjgmLnBPZi1mT3E4",
         },
       ]);
-      _stq.push(["clickTrackerInit", "115692407", "3"]);
+      _stq.push(["clickTrackerInit", "115692407", "88"]);
     </script>
     <noscript
       ><img

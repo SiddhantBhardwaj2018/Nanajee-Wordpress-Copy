@@ -1,3 +1,7 @@
+
+<?php 
+  require_once 'includes/main_view.inc.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,7 +13,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Doctoral Students &#8211; Ramadhar Singh &#8211; Distinguished Professor
+      Responsibilities &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -47,12 +51,6 @@
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Feed"
       href="/feed.xml/"
-    />
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title="Ramadhar Singh - Distinguished Professor &raquo; Comments Feed"
-      href="https://ramadharsingh.wordpress.com/comments/feed/"
     />
     <script type="text/javascript">
       /* <![CDATA[ */
@@ -239,6 +237,12 @@
       rel="stylesheet"
       id="all-css-0-1"
       href="https://s0.wp.com/_static/??-eJx9zEEOAiEMheELiY0ZM44L41k60BCGQoktId7e0Y2uXL78Xx6M5rxUo2qwskTXuMdUFYY8AgaFyLIiH73qAX5s6V+ZQiRToL5XyYkc4wCj0hiNFNSeTP8OOOWdbWQNfXaf9eb3cjvNy7RcL+dp3l5DtT5p&cssminify=yes"
+      type="text/css"
+      media="all"
+    />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
       type="text/css"
       media="all"
     />
@@ -773,7 +777,7 @@
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
         bridgeUrl:
           "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-videopress\/build\/lib\/token-bridge.js",
-        post_id: "34",
+        post_id: "49",
       };
       /* ]]> */
     </script>
@@ -781,7 +785,7 @@
       /* <![CDATA[ */
       var actionbardata = {
         siteID: "115692407",
-        postID: "34",
+        postID: "49",
         siteURL: "http:\/\/ramadharsingh.wordpress.com",
         xhrURL:
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
@@ -791,7 +795,7 @@
         subsEmailDefault: "instantly",
         proxyScriptUrl:
           "https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021",
-        shortlink: "https:\/\/wp.me\/P7PqSz-y",
+        shortlink: "https:\/\/wp.me\/P7PqSz-N",
         i18n: {
           followedText:
             'New posts from this site will now appear in your <a href="https:\/\/wordpress.com\/read">Reader<\/a>',
@@ -816,29 +820,46 @@
       });
       /* ]]> */
     </script>
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      title="RSD"
+      href="https://ramadharsingh.wordpress.com/xmlrpc.php?rsd"
+    />
     <meta name="generator" content="WordPress.com" />
-    <link rel="canonical" href="/doctoralStudents.html" />
-    <link rel="shortlink" href="https://wp.me/P7PqSz-y" />
+    <link
+      rel="canonical"
+      href="/responsibilities.html"
+    />
+    <link rel="shortlink" href="https://wp.me/P7PqSz-N" />
     <link
       rel="alternate"
       type="application/json+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fdoctoral-students%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fresponsibilities%2F&amp;for=wpcom-auto-discovery"
+    />
+    <link
+      rel="alternate"
+      type="application/xml+oembed"
+      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fresponsibilities%2F&amp;for=wpcom-auto-discovery"
     />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Doctoral Students" />
-    <meta property="og:url" content="/doctoralStudents.html" />
+    <meta property="og:title" content="Responsibilities" />
+    <meta
+      property="og:url"
+      content="/responsibilities.html"
+    />
     <meta
       property="og:description"
-      content="Indian Institute of Technology, Kanpur 1. Ajit Kumar Dalal, PhD, 1978: Expected Job Attractiveness and Satisfaction as Information Integration. (Retired Professor of Psychology, University of Allah…"
+      content="Journal Editorships Editor 1994–1995:   Asian Journal of Psychology Associate Editor 2016–    :          Asian Journal of Social Psychology 2010– :          IIMB Management Review Consulting Editor…"
     />
     <meta
       property="article:published_time"
-      content="2016-08-31T13:51:17+00:00"
+      content="2016-08-31T14:37:26+00:00"
     />
     <meta
       property="article:modified_time"
-      content="2016-09-26T03:28:21+00:00"
+      content="2017-05-19T15:05:07+00:00"
     />
     <meta
       property="og:site_name"
@@ -848,14 +869,18 @@
     <meta property="og:image:alt" content="" />
     <meta property="og:locale" content="en_US" />
     <meta property="fb:app_id" content="249643311490" />
-    <meta name="twitter:text:title" content="Doctoral Students" />
+    <meta
+      property="article:publisher"
+      content="https://www.facebook.com/WordPresscom"
+    />
+    <meta name="twitter:text:title" content="Responsibilities" />
     <meta name="twitter:card" content="summary" />
 
     <!-- End Jetpack Open Graph Tags -->
     <link
       rel="shortcut icon"
       type="image/x-icon"
-      href="/icons/favicon.ico"
+      href="icons/favicon.ico"
       sizes="16x16 24x24 32x32 48x48"
     />
     <link
@@ -868,7 +893,7 @@
     <link
       rel="search"
       type="application/opensearchdescription+xml"
-      href="https://ramadharsingh.com/osd.xml"
+      href="https://ramadharsingh.wordpress.com/osd.xml"
       title="Ramadhar Singh - Distinguished Professor"
     />
     <link
@@ -886,12 +911,8 @@
       content="width=device-width;height=device-height"
     />
     <meta
-      name="msapplication-task"
-      content="name=Subscribe;action-uri=/feed.xml/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
       name="description"
-      content="Indian Institute of Technology, Kanpur 1. Ajit Kumar Dalal, PhD, 1978: Expected Job Attractiveness and Satisfaction as Information Integration. (Retired Professor of Psychology, University of Allahabad) 2. Meenakshi Gupta, PhD, 1978: An Information Integration Analysis of Developmental Trends in Attribution of Scholastic Performance. (Professor of Psychology, Indian Institute of Technology, Bombay) 3. N. R. Mrinal,&hellip;"
+      content="Journal Editorships Editor 1994–1995:   Asian Journal of Psychology Associate Editor 2016–    :          Asian Journal of Social Psychology 2010– :          IIMB Management Review Consulting Editor 2017-     :      Journal of Theoretical Social Psychology 2014-2016:   Review of General Psychology 2011-    :        South Asian Journal of Management 2011-2013:    &hellip;"
     />
     <style type="text/css" id="apostrophe-header-css"></style>
     <script type="text/javascript">
@@ -1065,7 +1086,7 @@
       var sas_fallback = sas_fallback || [];
       sas_fallback.push(
         {
-          tag: "&lt;div id=&quot;atatags-26942-656068be8185f&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-656068be8185f',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
+          tag: "&lt;div id=&quot;atatags-26942-656065de12462&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-656065de12462',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
           type: "belowpost",
         },
         {
@@ -1132,105 +1153,28 @@
   </head>
 
   <body
-    class="page-template-default page page-id-34 customizer-styles-applied apostrophe-no-sidebar"
+    class="page-template-default page page-id-49 customizer-styles-applied apostrophe-no-sidebar"
   >
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
         <div class="site-branding">
           <a
-            href="https://ramadharsingh.com/"
+            href="https://ramadharsingh.wordpress.com/"
             class="site-logo-link"
             rel="home"
             itemprop="url"
           ></a>
           <h1 class="site-title">
-            <a href="https://ramadharsingh.com/" rel="home"
+            <a href="https://ramadharsingh.wordpress.com/" rel="home"
               >Ramadhar Singh &#8211; Distinguished Professor</a
             >
           </h1>
           <h2 class="site-description"></h2>
         </div>
 
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <a class="menu-toggle">Menu</a>
-          <a class="skip-link screen-reader-text" href="#content"
-            >Skip to content</a
-          >
-
-          <div class="menu-primary-container">
-            <ul id="menu-primary" class="apostrophe-navigation">
-              <li
-                id="menu-item-8"
-                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"
-              >
-                <a href="/">Home</a>
-              </li>
-              <li
-                id="menu-item-173"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173"
-              >
-                <a href="/overview.html"
-                  >Overview</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-54"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"
-                  >
-                    <a
-                      href="/responsibilities.html"
-                      >Responsibilities</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-17"
-                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-17"
-              >
-                <a href="/research.html"
-                  >Research</a
-                >
-                <ul class="sub-menu">
-                  <li
-                    id="menu-item-65"
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"
-                  >
-                    <a href="/publications.html"
-                      >Publications</a
-                    >
-                  </li>
-                  <li
-                    id="menu-item-39"
-                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-34 current_page_item menu-item-39"
-                  >
-                    <a href="/doctoralStudents.html" aria-current="page"
-                      >Students supervised</a
-                    >
-                  </li>
-                </ul>
-              </li>
-              <li
-                id="menu-item-19"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
-              >
-                <a href="/conference.html">Colloquium &amp; Conference</a>
-              </li>
-              <li
-                id="menu-item-42"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"
-              >
-                <a href="/recognition.html">Recognition</a>
-              </li>
-              <li
-                id="menu-item-53"
-                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"
-              >
-                <a href="/advisors.html">Advisors</a>
-              </li>
-            </ul>
-          </div>
-        </nav>
+        <?php 
+          getNavbar();
+        ?>
         <!-- #site-navigation -->
       </header>
       <!-- #masthead -->
@@ -1239,138 +1183,158 @@
         <section id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article
-              id="post-34"
-              class="post-34 page type-page status-publish hentry"
+              id="post-49"
+              class="post-49 page type-page status-publish hentry"
             >
               <header class="entry-header">
-                <h1 class="entry-title">Doctoral Students</h1>
+                <h1 class="entry-title">Responsibilities</h1>
               </header>
               <!-- .entry-header -->
 
-              <div class="entry-content">
-                <p><strong>Indian Institute of Technology, Kanpur</strong></p>
-                <table width="967">
-                  <tbody>
-                    <tr>
-                      <td width="957">
-                        1. Ajit Kumar Dalal, PhD, 1978: Expected Job
-                        Attractiveness and Satisfaction as Information
-                        Integration. (Retired Professor of Psychology,
-                        University of Allahabad)
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="957">
-                        2. Meenakshi Gupta, PhD, 1978: An Information
-                        Integration Analysis of Developmental Trends in
-                        Attribution of Scholastic Performance. (Professor of
-                        Psychology, Indian Institute of Technology, Bombay)
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="957">
-                        3. N. R. Mrinal, PhD, 1980, Enhancement of Trying
-                        through Vicarious Learning: A Developmental
-                        Investigation. (Retired Professor of Psychology,
-                        University of Nagpur)
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-                <p><strong>Gujarat University, Ahmedabad</strong></p>
-                <table width="967">
-                  <tbody>
-                    <tr>
-                      <td width="963">
-                        4. Shivganesh Bhargava, PhD, 1983: Developmental Trends
-                        in Prediction of Life Performance. (Professor and Head,
-                        Shailesh J. Mehta School of Management, Indian Institute
-                        of Technology, Bombay)
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="963">
-                        5. Sneh Shobha, PhD, 1985: Achievement Judgments by
-                        School Teachers: An Information Integration Analysis
-                        (Retired Principal, Degree College, Malikpura, Ghazipur)
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="963">
-                        6. Shushil K Upadhyaya, Ph. D., 1985: Managerial
-                        Information Processing: The Case of Prediction of Job
-                        Performance (Retired Research Officer, Indian Institute
-                        of Foreign Trade, New Delhi)
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="963">
-                        7. Mridula Mehta, Ph. D., 1986: Prediction and
-                        Evaluation of Son&#8217;s Exam Performance: An
-                        Attribution “Integration Theoretical Analysis&#8221;
-                        (Retired Reader in Psychology, S. L. U. College for Arts
-                        and Commerce, Ahmedabad)
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
+              <div class="entry-content" id="prevEmployment">
+                <p><strong>Journal Editorships</strong></p>
+                <p><strong>Editor</strong></p>
+                <p>1994–1995: Asian Journal of Psychology</p>
+                <p><strong>Associate Editor</strong></p>
+                <p>2016– : Asian Journal of Social Psychology</p>
+                <p>2010– : IIMB Management Review</p>
+                <p><strong>Consulting Editor</strong></p>
+                <p>2017- : Journal of Theoretical Social Psychology</p>
+                <p>2014-2016: Review of General Psychology</p>
+                <p>2011- : South Asian Journal of Management</p>
+                <p>2011-2013: Advances in Applied Psychology (AA Society)</p>
+                <p>2000–2015: Psychological Studies</p>
+                <p>1998–2015: Asian Journal of Social Psychology</p>
+                <p>1995– : The Social Engineer</p>
+                <p>1991–1997: Journal of Behavioral Decision Making</p>
+                <p>1991–1993: Singapore Psychologist</p>
+                <p>1989–2011: Psychology and Developing Societies</p>
+                <p>1989–1996: Indian Journal of Psychology</p>
+                <p>1986–1988: Vikalpa: The Journal of Decision Makers</p>
+                <p><strong>Issue Consultant</strong></p>
+                <p>2016: Journal of Pacific Rim Psychology</p>
+                <p>2014: Journal of Social and Personal Relationships</p>
+                <p>2014: Review of General Psychology</p>
+                <p>2013: Basic and Applied Social Psychology</p>
+                <p>2012: Australian Journal of Psychology</p>
                 <p>
-                  <strong>Indian Institute of Management, Ahmedabad</strong>
+                  2011: Psicológica: International Journal of Methodology and
+                  Experimental Psychology
                 </p>
-                <table width="1066">
-                  <tbody>
-                    <tr>
-                      <td width="1058">
-                        8. Mithileshwar Jha, Fellow, 1984: An Attribution
-                        Theoretical Analysis of Consumers&#8217; Satisfaction
-                        and Dissatisfaction with Products ( Pro Vice Chancellor,
-                        Jain University, Bangalore)
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="1058">
-                        9. P.B. Nagananda Kumar, Fellow, 1986: Identification
-                        and Measurement of Work Dedication (Former Director,
-                        Myra School of Business, Mysore)
-                      </td>
-                    </tr>
-                    <tr>
-                      <td width="1058">
-                        10. C.M. Ramesh, Fellow, 1988: Do Stress and Personality
-                        Determine Health of the Indian Executives?&#8221;
-                        (Professor, Goa Institute of Management)
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-                <p><strong>National University of Singapore</strong></p>
-                <table width="966">
-                  <tbody>
-                    <tr>
-                      <td width="956">
-                        11. Smita Singh, PhD, Abstract Construal of Top Leaders:
-                        Respect as a Mediator (Senior Lecturer, School of
-                        Psychology, James Cook University Australia)
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-                <div id="atatags-370373-656068be843f0">
+                <p>2011: Journal of Cross Cultural Psychology</p>
+                <p>2010: British Journal of Developmental Psychology</p>
+                <p>2009: Social Psychological and Personality Science</p>
+                <p>2006: Developmental Psychology</p>
+                <p>2006: Journal of Social and Personal Relationships</p>
+                <p>1999: Research and Practice in Human Resource Management</p>
+                <p>1998: Personality and Social Psychology Bulletin</p>
+                <p>1996: British Journal of Social Psychology</p>
+                <p>1994: Journal of Experimental Social Psychology</p>
+                <p>1994: Journal of Personality and Social Psychology</p>
+                <p>1991: Psychological Bulletin</p>
+                <p>1980: European Journal of Social Psychology</p>
+                <hr />
+                <p>&nbsp;</p>
+                <p><strong>Administrative Positions</strong></p>
+                <p>
+                  1997–2000: Deputy Head, Department of Social Work &amp;
+                  Psychology, National University of Singapore (NUS)
+                </p>
+                <p>
+                  1982–1984: Chairman, Organizational Behavior Area, Indian
+                  Institute of Management, Ahmedabad
+                </p>
+                <p>
+                  1980–1982: Chairman, Research &amp; Publications, Indian
+                  Institute of Management, Ahmedabad
+                </p>
+                <hr />
+                <p>&nbsp;</p>
+                <p><strong>Services to Committees</strong></p>
+                <p>
+                  2015-2016: Member, Faculty Norms Committee, Indian Institute
+                  of Management Kozhikode
+                </p>
+                <p>2015- : Member, Kwok Leung Scholarship Committee, AASP</p>
+                <p>
+                  2005–2009: Member, Promotion and Tenure Committee, LKY School
+                  of Public Policy, National University of Singapore
+                </p>
+                <p>
+                  2001–2009: Member, Promotion and Tenure Committee, School of
+                  Design &amp; Environment, National University of Singapore
+                </p>
+                <p>
+                  2002–2010: Member, University Disciplinary Board, National
+                  University of Singapore
+                </p>
+                <p>
+                  2007–2008: Chair, Department of Psychology Search Committee
+                  (Senior Hires), National University of Singapore
+                </p>
+                <p>
+                  2005–2006: Chair, Department of Psychology Search Committee,
+                  National University of Singapore
+                </p>
+                <p>
+                  2002–2003: Member, University Scholarship Committee, Arts and
+                  Social Sciences, National University of Singapore
+                </p>
+                <p>
+                  2002–2003: Member, International Advisory Panel, School of
+                  Management, NUS
+                </p>
+                <p>
+                  2000– 2006: Member, Research Review Panel: Humanities,
+                  Management, &amp; Architecture, National University of
+                  Singapore
+                </p>
+                <p>
+                  1998–2001: Member, Board of Selection, National University of
+                  Singapore
+                </p>
+                <p>
+                  1998–2001: Member, Faculty Review Committee, Faculty of Arts
+                  &amp; Social Sciences, National University of Singapore
+                </p>
+                <p>
+                  1986–1988: Member, Expert Committee, Indira Gandhi National
+                  Open University, New Delhi
+                </p>
+                <p>
+                  1987–1988: Member, Task Force on Staff Motivation, Telecom
+                  Mission, Government of India, New Delhi
+                </p>
+                <p>
+                  1985–1988: Member, UGC Standing Advisory Committee on Center
+                  of Advanced Study, Department under Special Assistance, and
+                  Departmental Research Support
+                </p>
+                <p>1983–1987: Member, Psychology Panel, UGC, New Delhi</p>
+                <p>
+                  1982–1988: Reviewer Panel, National Council of Educational
+                  Research and Training, New Delhi
+                </p>
+                <p>
+                  1980–1988: Reviewer Panel, Indian Council of Social Science
+                  Research, New Delhi
+                </p>
+                <div id="atatags-370373-656065de15cc2">
                   <script type="text/javascript">
                     __ATA.cmd.push(function () {
-                      __ATA.initVideoSlot("atatags-370373-656068be843f0", {
+                      __ATA.initVideoSlot("atatags-370373-656065de15cc2", {
                         sectionId: "370373",
                         format: "inread",
                       });
                     });
                   </script>
                 </div>
-                <div id="atatags-26942-656068be8442c"></div>
+                <div id="atatags-26942-656065de15d35"></div>
 
                 <script>
                   __ATA.cmd.push(function () {
                     __ATA.initDynamicSlot({
-                      id: "atatags-26942-656068be8442c",
+                      id: "atatags-26942-656065de15d35",
                       location: 120,
                       formFactor: "001",
                       label: {
@@ -1401,9 +1365,9 @@
                           <li class="share-twitter">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-twitter-34"
+                              data-shared="sharing-twitter-49"
                               class="share-twitter sd-button share-icon"
-                              href="/doctoralStudents.html?share=twitter"
+                              href="/responsibilities.html?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -1412,9 +1376,9 @@
                           <li class="share-facebook">
                             <a
                               rel="nofollow noopener noreferrer"
-                              data-shared="sharing-facebook-34"
+                              data-shared="sharing-facebook-49"
                               class="share-facebook sd-button share-icon"
-                              href="/doctoralStudents.html?share=facebook"
+                              href="/responsibilities.html?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -1424,24 +1388,6 @@
                         </ul>
                       </div>
                     </div>
-                  </div>
-                  <div
-                    class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded"
-                    id="like-post-wrapper-115692407-34-656068be84852"
-                    data-src="//widgets.wp.com/likes/index.html?ver=20230906#blog_id=115692407&amp;post_id=34&amp;origin=ramadharsingh.wordpress.com&amp;obj_id=115692407-34-656068be84852"
-                    data-name="like-post-frame-115692407-34-656068be84852"
-                    data-title="Like or Reblog"
-                  >
-                    <h3 class="sd-title">Like this:</h3>
-                    <div
-                      class="likes-widget-placeholder post-likes-widget-placeholder"
-                      style="height: 55px"
-                    >
-                      <span class="button"><span>Like</span></span>
-                      <span class="loading">Loading...</span>
-                    </div>
-                    <span class="sd-text-color"></span
-                    ><a class="sd-link-color"></a>
                   </div>
                 </div>
               </div>
@@ -1836,7 +1782,7 @@
 
     <script type="text/javascript">
       window.WPCOM_sharing_counts = {
-        "https:\/\/ramadharsingh.wordpress.com\/doctoral-students\/": 34,
+        "https:\/\/ramadharsingh.wordpress.com\/responsibilities\/": 49,
       };
     </script>
     <script type="text/javascript" id="comment-like-js-extra">
@@ -1973,7 +1919,7 @@
       // ]]>
     </script>
     <iframe
-      src="https://widgets.wp.com/likes/master.html?ver=20230906#ver=20230906&amp;origin=https://ramadharsingh.wordpress.com"
+      src="https://widgets.wp.com/likes/master.html?ver=20230906#ver=20230906&amp;origin=https://ramadharsingh.com"
       scrolling="no"
       id="likes-master"
       name="likes-master"
@@ -2005,7 +1951,7 @@
           v: "wpcom",
           tz: "0",
           user_id: "0",
-          post: "34",
+          post: "49",
           subd: "ramadharsingh",
         },
       ]);
@@ -2013,10 +1959,10 @@
         "extra",
         {
           crypt:
-            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1W05JW2RQZnhsQ2Q/dlctQVBlZTJQUCtVTXlLcEJILU0sVXBheDlmdXx5Py9vbSZaRUIyQW1qZVFSLmJWW1JtRiZ0VDlrdVVbUVlbZ3w9MmcvLHw5PyUxPUx6K0E/ZT9RRGJEeFY9NTU4anYrc3VMVmVoUW58K1VCUSVkXVpxbnAldTZmWQ==",
+            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1W3Yldz9hfnd6X3wxb0Y3a2NwSFtGZTdkOT9SSk1jVm9BWEZGZnNyY3piSVFTRF9TcFRray1jSG9fajFzNHxpT19nWjclSHElQkZrUHpmLC5Wa2JvQ3hYeEFsXXhHdUtdVE45Mys4RnQwRVotN3AlLWMwaWNfU0lEU3hVOUI5SVgvK11ZeQ==",
         },
       ]);
-      _stq.push(["clickTrackerInit", "115692407", "34"]);
+      _stq.push(["clickTrackerInit", "115692407", "49"]);
     </script>
     <noscript
       ><img
