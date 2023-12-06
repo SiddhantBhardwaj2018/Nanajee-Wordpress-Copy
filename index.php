@@ -1142,13 +1142,13 @@
       <header id="masthead" class="site-header" role="banner">
         <div class="site-branding">
           <a
-            href="/index.html"
+            href="index.php"
             class="site-logo-link"
             rel="home"
             itemprop="url"
           ></a>
           <h1 class="site-title">
-            <a href="/index.html" rel="home"
+            <a href="index.php" rel="home"
               >Ramadhar Singh &#8211; Distinguished Professor</a
             >
           </h1>
@@ -1162,7 +1162,7 @@
       </header>
       <!-- #masthead -->
 
-      <div id="content" class="site-content">
+      <div id="content" class=" make-mobile-responsive site-content">
         <section id="primary" class="content-area">
           <main id="main" class="site-main" role="main">
             <article
