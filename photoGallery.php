@@ -12,7 +12,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Advisors &#8211; Ramadhar Singh &#8211; Distinguished Professor
+      Photos &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -1195,6 +1195,14 @@
             <img src="icons/iima.jpeg" alt="youngPhoto" />
         </div>
       </div>
+      <footer id="colophon" class="site-footer" role="contentinfo">
+        <div class="site-info">
+          <a target="_blank"  href="https://webclass.in/" rel="nofollow"
+            ><strong>Designed & Developed by Siddhant Bhardwaj @ WebClass.in</strong></a
+          >
+        </div>
+        <!-- .site-info -->
+      </footer>
       <script>
       window.addEventListener("load", function (event) {
         var link = document.createElement("link");

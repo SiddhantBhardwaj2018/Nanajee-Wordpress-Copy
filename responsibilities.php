@@ -829,7 +829,7 @@
     <meta name="generator" content="WordPress.com" />
     <link
       rel="canonical"
-      href="/responsibilities.html"
+      href="responsibilities.php"
     />
     <link rel="shortlink" href="https://wp.me/P7PqSz-N" />
     <link
@@ -847,7 +847,7 @@
     <meta property="og:title" content="Responsibilities" />
     <meta
       property="og:url"
-      content="/responsibilities.html"
+      content="responsibilities.php"
     />
     <meta
       property="og:description"
@@ -1367,7 +1367,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-twitter-49"
                               class="share-twitter sd-button share-icon"
-                              href="/responsibilities.html?share=twitter"
+                              href="responsibilities.php?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -1378,7 +1378,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-facebook-49"
                               class="share-facebook sd-button share-icon"
-                              href="/responsibilities.html?share=facebook"
+                              href="responsibilities.php?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -1407,7 +1407,7 @@
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
           <a target="_blank" href="https://webclass.in/" rel="nofollow"
-            >Designed & Developed By WebClass.in</a
+            ><strong>Designed & Developed By Siddhant Bhardwaj @ WebClass.in</strong></a
           >
         </div>
         <!-- .site-info -->

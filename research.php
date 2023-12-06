@@ -852,7 +852,7 @@
     <meta property="og:title" content="Research" />
     <meta
       property="og:url"
-      content="https://ramadharsingh.com/research.html/"
+      content="https://ramadharsingh.com/research.php/"
     />
     <meta
       property="og:description"
@@ -1391,7 +1391,7 @@
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
           <a target="_blank" href="https://webclass.in/" rel="nofollow"
-            >Designed & Developed By WebClass.in</a
+            ><strong>Designed & Developed By Siddhant Bhardwaj @ WebClass.in<strong></a
           >
         </div>
         <!-- .site-info -->

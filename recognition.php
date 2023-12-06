@@ -826,12 +826,12 @@
       /* ]]> */
     </script>
     <meta name="generator" content="WordPress.com" />
-    <link rel="canonical" href="/recognition.html" />
+    <link rel="canonical" href="recognition.php" />
     <link rel="shortlink" href="https://wp.me/P7PqSz-E" />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Recognition" />
-    <meta property="og:url" content="/recognition.html" />
+    <meta property="og:url" content="recognition.php" />
     <meta
       property="og:description"
       content="2022 KAKA Education Forever Award, the KAKA Community Learning Center, Balara, Sarlahi, Nepal: 2022 Heritage Wall of Fame, the Society for Personality and Social Psychology, Washington, DC, USA: 20…"
@@ -1542,7 +1542,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-twitter-40"
                               class="share-twitter sd-button share-icon"
-                              href="/recognition.html?share=twitter"
+                              href="recognition.php?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -1553,7 +1553,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-facebook-40"
                               class="share-facebook sd-button share-icon"
-                              href="/recognition.html?share=facebook"
+                              href="recognition.php?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -1582,7 +1582,7 @@
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
           <a target="_blank" href="https://webclass.in/" rel="nofollow"
-            >Designed & Developed By WebClass.in</a
+            ><strong>Designed & Developed By Siddhant Bhardwaj @ WebClass.in<strong></a
           >
         </div>
         <!-- .site-info -->

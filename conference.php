@@ -829,7 +829,7 @@
     <meta name="generator" content="WordPress.com" />
     <link
       rel="canonical"
-      href="/conference.html/"
+      href="conference.php"
     />
     <link rel="shortlink" href="https://wp.me/P7PqSz-1q" />
     <link
@@ -847,7 +847,7 @@
     <meta property="og:title" content="Colloquium &amp; Conference" />
     <meta
       property="og:url"
-      content="/conference.html/"
+      content="conference.php"
     />
     <meta
       property="og:description"
@@ -1543,7 +1543,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-twitter-88"
                               class="share-twitter sd-button share-icon"
-                              href="/conference.html/?share=twitter"
+                              href="conference.php?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -1554,7 +1554,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-facebook-88"
                               class="share-facebook sd-button share-icon"
-                              href="/conference.html/?share=facebook"
+                              href="conference.php?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -1583,7 +1583,7 @@
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
           <a target="_blank"  href="https://webclass.in/" rel="nofollow"
-            >Designed & Developed By WebClass.in</a
+            ><strong>Designed & Developed By Siddhant Bhardwaj @ WebClass.in</strong></a
           >
         </div>
         <!-- .site-info -->

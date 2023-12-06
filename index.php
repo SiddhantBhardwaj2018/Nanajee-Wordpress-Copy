@@ -1412,7 +1412,7 @@
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
           <a target="_blank"  href="https://webclass.in/" rel="nofollow"
-            >Designed & Developed by WebClass.in</a
+            ><strong>Designed & Developed by Siddhant Bhardwaj @ WebClass.in</strong></a
           >
         </div>
         <!-- .site-info -->

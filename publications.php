@@ -834,7 +834,7 @@
     <meta name="generator" content="WordPress.com" />
     <link
       rel="canonical"
-      href="/publications.html"
+      href="publications.php"
     />
     <link rel="shortlink" href="https://wp.me/P7PqSz-1h" />
     <link
@@ -852,7 +852,7 @@
     <meta property="og:title" content="Publications" />
     <meta
       property="og:url"
-      content="/publications.html"
+      content="publications.php"
     />
     <meta
       property="og:description"
@@ -2073,7 +2073,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-twitter-79"
                               class="share-twitter sd-button share-icon"
-                              href="/publications.html?share=twitter"
+                              href="publications.php?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -2084,7 +2084,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-facebook-79"
                               class="share-facebook sd-button share-icon"
-                              href="/publications.html?share=facebook"
+                              href="publications.php?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -2111,7 +2111,7 @@
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
           <a target="_blank" href="https://webclass.in" rel="nofollow"
-            >Designed & Developed By WebClass.in</a
+            >Designed & Developed By Siddhant Bhardwaj @ WebClass.in</a
           >
         </div>
         <!-- .site-info -->

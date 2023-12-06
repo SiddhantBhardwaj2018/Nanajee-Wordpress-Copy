@@ -12,7 +12,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Advisors &#8211; Ramadhar Singh &#8211; Distinguished Professor
+      Tribute To Donn Byrne &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -834,7 +834,7 @@
     <meta name="generator" content="WordPress.com" />
     <link
       rel="canonical"
-      href="/advisors.html"
+      href="tribute.php"
     />
     <link rel="shortlink" href="https://wp.me/P7PqSz-P" />
     <link
@@ -852,7 +852,7 @@
     <meta property="og:title" content="Advisors" />
     <meta
       property="og:url"
-      content="/advisors.html"
+      content="tribute.php"
     />
     <meta
       property="og:description"
@@ -1245,6 +1245,14 @@
         </p>
         <br />
         <br />
+        <footer id="colophon" class="site-footer" role="contentinfo">
+        <div class="site-info">
+          <a target="_blank"  href="https://webclass.in/" rel="nofollow"
+            ><strong>Designed & Developed by Siddhant Bhardwaj @ WebClass.in<strong></a
+          >
+        </div>
+        <!-- .site-info -->
+      </footer>
          <script>
       window.addEventListener("load", function (event) {
         var link = document.createElement("link");

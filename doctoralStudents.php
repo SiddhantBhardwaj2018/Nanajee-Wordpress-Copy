@@ -826,7 +826,7 @@
       /* ]]> */
     </script>
     <meta name="generator" content="WordPress.com" />
-    <link rel="canonical" href="/doctoralStudents.html" />
+    <link rel="canonical" href="doctoralStudents.php" />
     <link rel="shortlink" href="https://wp.me/P7PqSz-y" />
     <link
       rel="alternate"
@@ -836,7 +836,7 @@
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Doctoral Students" />
-    <meta property="og:url" content="/doctoralStudents.html" />
+    <meta property="og:url" content="doctoralStudents.php" />
     <meta
       property="og:description"
       content="Indian Institute of Technology, Kanpur 1. Ajit Kumar Dalal, PhD, 1978: Expected Job Attractiveness and Satisfaction as Information Integration. (Retired Professor of Psychology, University of Allah…"
@@ -1335,7 +1335,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-twitter-34"
                               class="share-twitter sd-button share-icon"
-                              href="/doctoralStudents.html?share=twitter"
+                              href="doctoralStudents.php?share=twitter"
                               target="_blank"
                               title="Click to share on Twitter"
                               ><span>Twitter</span></a
@@ -1346,7 +1346,7 @@
                               rel="nofollow noopener noreferrer"
                               data-shared="sharing-facebook-34"
                               class="share-facebook sd-button share-icon"
-                              href="/doctoralStudents.html?share=facebook"
+                              href="doctoralStudents.php?share=facebook"
                               target="_blank"
                               title="Click to share on Facebook"
                               ><span>Facebook</span></a
@@ -1392,7 +1392,7 @@
       <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
           <a target="_blank" href="https://webclass.in/" rel="nofollow"
-            >Designed & Developed By WebClass.in</a
+            ><strong>Designed & Developed By Siddhant Bhardwaj @ WebClass.in</strong></a
           >
         </div>
         <!-- .site-info -->
