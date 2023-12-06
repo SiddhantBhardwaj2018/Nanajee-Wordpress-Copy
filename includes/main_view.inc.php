@@ -9,12 +9,12 @@ function getNavbar(){
 
     <div class=\"menu-primary-container\">
       <ul id=\"menu-primary\" class=\"apostrophe-navigation\">
-        <li
-          id=\"menu-item-8\"
-          class=\"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-8\"
-        >
-          <a  href=\"index.php\" aria-current=\"page\">Home</a>
-        </li>
+      <li
+      id=\"menu-item-53\"
+      class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-53\"
+    >
+      <a href=\"index.php\">Home</a>
+    </li>
         <li
           id=\"menu-item-173\"
           class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-173\"
@@ -68,17 +68,18 @@ function getNavbar(){
           <a href=\"advisors.php\">Advisors</a>
         </li>
         <li
-          id=\"menu-item-17\"
-          class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17\"
-        >
-          <a href=\"photoGallery.php\">Photos</a>
-        </li>  
-        <li
-        id=\"menu-item-17\"
-        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17\"
+        id=\"menu-item-53\"
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-53\"
+      >
+        <a href=\"photoGallery.php\">Photos</a>
+      </li>
+      <li
+        id=\"menu-item-53\"
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-53\"
       >
         <a href=\"videoGallery.php\">Videos</a>
-      </li>  
+      </li>
+       
       </ul>
     </div>
   </nav>";

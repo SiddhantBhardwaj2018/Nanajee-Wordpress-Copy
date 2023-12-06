@@ -54,6 +54,14 @@
     width: 310px;
     height: 225px;
 }
+
+.donnByrne{
+    display:flex; 
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+
 @media screen and (max-width: 767px){
 
     .site-header{
@@ -71,4 +79,10 @@
         text-align: center;
     }
 
+}
+
+@media screen and (max-width:500px){
+    .donnByrne{
+        flex-direction: column;
+    }
 }

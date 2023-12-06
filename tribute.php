@@ -12,8 +12,7 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php"
     />
     <title>
-      Ramadhar_Singh_Website &#8211; Ramadhar Singh &#8211; Distinguished
-      Professor
+      Advisors &#8211; Ramadhar Singh &#8211; Distinguished Professor
     </title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="//s0.wp.com" />
@@ -50,19 +49,13 @@
       rel="alternate"
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Feed"
-      href="https://ramadharsingh.wordpress.com/feed/"
+      href="/feed.xml/"
     />
     <link
       rel="alternate"
       type="application/rss+xml"
       title="Ramadhar Singh - Distinguished Professor &raquo; Comments Feed"
       href="https://ramadharsingh.wordpress.com/comments/feed/"
-    />
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title="Ramadhar Singh - Distinguished Professor &raquo; Ramadhar_Singh_Website Comments Feed"
-      href="https://ramadharsingh.wordpress.com/about/ramadhar_singh_website/feed/"
     />
     <script type="text/javascript">
       /* <![CDATA[ */
@@ -252,6 +245,12 @@
       type="text/css"
       media="all"
     />
+    <link 
+      rel="stylesheet"
+      href="styles.css"
+      type="text/css"
+      media="all"
+    />
     <style id="wp-emoji-styles-inline-css">
       img.wp-smiley,
       img.emoji {
@@ -311,7 +310,7 @@
       crossorigin="anonymous"
       rel="stylesheet"
       id="all-css-6-1"
-      href="https://s0.wp.com/_static/??-eJx9y0EOwjAMRNELYVyEULpBnKVJLDCqUyt2KMfH7BGbWYz+w12hbM2pOcoAXcedm2HZOsUvujhGIVR5oZUksmMxO+BvtmsYyFk7mUGs8BDwR0D7517U8xCsbI7cKr2/8U2upzRN6ZLm+fz8AE3SPos=&cssminify=yes"
+      href="https://s0.wp.com/_static/??/wp-content/mu-plugins/core-compat/wp-mediaelement.css,/wp-content/mu-plugins/wpcom-bbpress-premium-themes.css?m=1432920480j&cssminify=yes"
       type="text/css"
       media="all"
     />
@@ -772,7 +771,7 @@
       crossorigin="anonymous"
       rel="stylesheet"
       id="all-css-14-1"
-      href="https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423i&cssminify=yes"
+      href="https://s0.wp.com/_static/??-eJyNjcsKAjEMRX/IGgbGyizET5HYhrZjmhTTIv69D9yIG3f3wOUcuDUXVDpJhzpc45GKGKzUG4bLh8GGQNU4mAws45Uixnh/zyJpG8w28LfoVCSAaSjIjjWpfcGPrGeqz2yeIbGekV+HYz1Mftn73bxMfn0AuUhIbg==&cssminify=yes"
       type="text/css"
       media="all"
     />
@@ -783,7 +782,7 @@
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
         bridgeUrl:
           "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-videopress\/build\/lib\/token-bridge.js",
-        post_id: "24",
+        post_id: "51",
       };
       /* ]]> */
     </script>
@@ -791,17 +790,17 @@
       /* <![CDATA[ */
       var actionbardata = {
         siteID: "115692407",
-        postID: "24",
+        postID: "51",
         siteURL: "http:\/\/ramadharsingh.wordpress.com",
         xhrURL:
           "https:\/\/ramadharsingh.wordpress.com\/wp-admin\/admin-ajax.php",
-        nonce: "e778250ba8",
+        nonce: "5fca445859",
         isLoggedIn: "",
         statusMessage: "",
         subsEmailDefault: "instantly",
         proxyScriptUrl:
           "https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021",
-        shortlink: "https:\/\/wp.me\/a7PqSz-o",
+        shortlink: "https:\/\/wp.me\/P7PqSz-P",
         i18n: {
           followedText:
             'New posts from this site will now appear in your <a href="https:\/\/wordpress.com\/read">Reader<\/a>',
@@ -833,41 +832,45 @@
       href="https://ramadharsingh.wordpress.com/xmlrpc.php?rsd"
     />
     <meta name="generator" content="WordPress.com" />
-    <link rel="shortlink" href="https://wp.me/a7PqSz-o" />
+    <link
+      rel="canonical"
+      href="/advisors.html"
+    />
+    <link rel="shortlink" href="https://wp.me/P7PqSz-P" />
     <link
       rel="alternate"
       type="application/json+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fabout%2Framadhar_singh_website%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fadvisors%2F&amp;for=wpcom-auto-discovery"
     />
     <link
       rel="alternate"
       type="application/xml+oembed"
-      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fabout%2Framadhar_singh_website%2F&amp;for=wpcom-auto-discovery"
+      href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Framadharsingh.wordpress.com%2Fadvisors%2F&amp;for=wpcom-auto-discovery"
     />
     <!-- Jetpack Open Graph Tags -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="Ramadhar_Singh_Website" />
+    <meta property="og:title" content="Advisors" />
     <meta
       property="og:url"
-      content="https://ramadharsingh.wordpress.com/about/ramadhar_singh_website/"
+      content="/advisors.html"
     />
-    <meta property="og:description" content="Visit the post for more." />
+    <meta
+      property="og:description"
+      content="2022-            Member, Expert Committee on Behavioral and Psychological Sciences, IIM Bangalore 2022-            Distinguished Advisor, Faculty of Behavioral Sciences, SGTU, Gurugram, Haryana 201…"
+    />
     <meta
       property="article:published_time"
-      content="2016-08-23T14:50:55+00:00"
+      content="2016-08-31T14:38:50+00:00"
     />
     <meta
       property="article:modified_time"
-      content="2016-08-23T14:50:55+00:00"
+      content="2022-10-20T06:57:10+00:00"
     />
     <meta
       property="og:site_name"
       content="Ramadhar Singh - Distinguished Professor"
     />
-    <meta
-      property="og:image"
-      content="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg"
-    />
+    <meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
     <meta property="og:image:alt" content="" />
     <meta property="og:locale" content="en_US" />
     <meta property="fb:app_id" content="249643311490" />
@@ -875,32 +878,27 @@
       property="article:publisher"
       content="https://www.facebook.com/WordPresscom"
     />
-    <meta name="twitter:text:title" content="Ramadhar_Singh_Website" />
-    <meta
-      name="twitter:image"
-      content="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=144"
-    />
+    <meta name="twitter:text:title" content="Advisors" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Visit the post for more." />
 
     <!-- End Jetpack Open Graph Tags -->
     <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="https://s0.wp.com/i/favicon.ico"
-      sizes="16x16 24x24 32x32 48x48"
-    />
-    <link
-      rel="icon"
-      type="image/x-icon"
-      href="https://s0.wp.com/i/favicon.ico"
-      sizes="16x16 24x24 32x32 48x48"
-    />
-    <link rel="apple-touch-icon" href="https://s0.wp.com/i/webclip.png" />
+    rel="shortcut icon"
+    type="image/x-icon"
+    href="icons/favicon.ico"
+    sizes="16x16 24x24 32x32 48x48"
+  />
+  <link
+    rel="icon"
+    type="image/x-icon"
+    href="/icons/favicon.ico"
+    sizes="16x16 24x24 32x32 48x48"
+  />
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
     <link
       rel="search"
       type="application/opensearchdescription+xml"
-      href="https://ramadharsingh.wordpress.com/osd.xml"
+      href="https://ramadharsingh.com/osd.xml"
       title="Ramadhar Singh - Distinguished Professor"
     />
     <link
@@ -910,28 +908,8 @@
       title="WordPress.com"
     />
     <meta
-      name="application-name"
-      content="Ramadhar Singh - Distinguished Professor"
-    />
-    <meta
-      name="msapplication-window"
-      content="width=device-width;height=device-height"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=Subscribe;action-uri=https://ramadharsingh.wordpress.com/feed/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"
-    />
-    <meta
-      name="msapplication-task"
-      content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s0.wp.com/i/favicon.ico"
+      name="description"
+      content="2022-            Member, Expert Committee on Behavioral and Psychological Sciences, IIM Bangalore 2022-            Distinguished Advisor, Faculty of Behavioral Sciences, SGTU, Gurugram, Haryana 2019-            Member, Academic Advisory Council, Goa Institute of Management, Goa 2015-2018    Member, Kwok Leung Scholarship Fund, Asian Association of Social Psychology 2014-2016    Member, Advisory Board, Southeast Asia CEO Association, Indonesia 2012-2014   &hellip;"
     />
     <style type="text/css" id="apostrophe-header-css"></style>
     <script type="text/javascript">
@@ -1105,7 +1083,7 @@
       var sas_fallback = sas_fallback || [];
       sas_fallback.push(
         {
-          tag: "&lt;div id=&quot;atatags-26942-6560a1541ce52&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-6560a1541ce52',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
+          tag: "&lt;div id=&quot;atatags-26942-65606a3520e7b&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: 'atatags-26942-65606a3520e7b',location: 120,formFactor: '001',label: {text: 'Advertisements',},creative: {reportAd: {text: 'Report this ad',},privacySettings: {text: 'Privacy',}}});});&lt;/script&gt;",
           type: "belowpost",
         },
         {
@@ -1170,46 +1148,20 @@
       })();
     </script>
   </head>
-
   <body
-    class="attachment attachment-template-default attachmentid-24 attachment-jpeg customizer-styles-applied apostrophe-no-sidebar"
+    class="page-template-default page page-id-51 customizer-styles-applied apostrophe-no-sidebar"
   >
     <div id="page" class="hfeed site">
       <header id="masthead" class="site-header" role="banner">
         <div class="site-branding">
           <a
-            href="https://ramadharsingh.wordpress.com/"
+            href="https://ramadharsingh.com/"
             class="site-logo-link"
             rel="home"
             itemprop="url"
-            ><img
-              width="200"
-              height="271"
-              src="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=200"
-              class="site-logo attachment-apostrophe-logo"
-              alt=""
-              decoding="async"
-              data-size="apostrophe-logo"
-              itemprop="logo"
-              srcset="
-                https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg       200w,
-                https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=111 111w
-              "
-              sizes="(max-width: 200px) 100vw, 200px"
-              data-attachment-id="24"
-              data-permalink="https://ramadharsingh.wordpress.com/about/ramadhar_singh_website/"
-              data-orig-file="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg"
-              data-orig-size="200,271"
-              data-comments-opened="1"
-              data-image-meta='{"aperture":"4","credit":"","camera":"Canon EOS 5D Mark III","caption":"","created_timestamp":"1454943014","copyright":"","focal_length":"115","iso":"125","shutter_speed":"0.005","title":"","orientation":"1"}'
-              data-image-title="Ramadhar_Singh_Website"
-              data-image-description=""
-              data-image-caption=""
-              data-medium-file="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=200"
-              data-large-file="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=200"
-          /></a>
+          ></a>
           <h1 class="site-title">
-            <a href="https://ramadharsingh.wordpress.com/" rel="home"
+            <a href="https://ramadharsingh.com/" rel="home"
               >Ramadhar Singh &#8211; Distinguished Professor</a
             >
           </h1>
@@ -1219,652 +1171,81 @@
         <?php 
           getNavbar();
         ?>
-        <!-- #site-navigation -->
-      </header>
-      <!-- #masthead -->
-
-      <div id="content" class="site-content">
-        <section id="primary" class="content-area">
-          <main id="main" class="site-main" role="main">
-            <article
-              id="post-24"
-              class="post-24 attachment type-attachment status-inherit hentry"
-            >
-              <div class="entry-meta">
-                <a
-                  class="entry-date published"
-                  href="https://ramadharsingh.wordpress.com/about/ramadhar_singh_website/"
-                  >August 23, 2016</a
-                ><time class="updated" datetime="2016-08-23T14:50:55+00:00"
-                  >August 23, 2016</time
-                ><span class="byline vcard"
-                  ><a
-                    class="url fn n"
-                    href="https://ramadharsingh.wordpress.com/author/freecognitive/"
-                    >freecognitive</a
-                  ></span
-                >
-              </div>
-              <h1 class="entry-title">Ramadhar_Singh_Website</h1>
-
-              <div class="entry-content">
-                <div class="entry-attachment">
+         <div class="donnByrne" >
+                <div style="display:block;">
                   <img
-                    width="200"
-                    height="271"
-                    src="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=200"
-                    class="attachment-large size-large"
-                    alt=""
-                    decoding="async"
-                    loading="lazy"
-                    srcset="
-                      https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg       200w,
-                      https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=111 111w
-                    "
-                    sizes="(max-width: 200px) 100vw, 200px"
-                    data-attachment-id="24"
-                    data-permalink="https://ramadharsingh.wordpress.com/about/ramadhar_singh_website/"
-                    data-orig-file="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg"
-                    data-orig-size="200,271"
+                    data-attachment-id="285"
+                    data-orig-size="1919,2878"
                     data-comments-opened="1"
-                    data-image-meta='{"aperture":"4","credit":"","camera":"Canon EOS 5D Mark III","caption":"","created_timestamp":"1454943014","copyright":"","focal_length":"115","iso":"125","shutter_speed":"0.005","title":"","orientation":"1"}'
-                    data-image-title="Ramadhar_Singh_Website"
+                    data-image-meta='{"aperture":"3.2","credit":"","camera":"NIKON Z 6","caption":"","created_timestamp":"1659725700","copyright":"","focal_length":"85","iso":"2000","shutter_speed":"0.008","title":"","orientation":"0"}'
+                    data-image-title="R Singh Aug 5 2022 Looking straight"
                     data-image-description=""
                     data-image-caption=""
-                    data-medium-file="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=200"
-                    data-large-file="https://ramadharsingh.files.wordpress.com/2016/08/ramadhar_singh_website.jpg?w=200"
+                    class="alignnone wp-image-285"
+                    src="icons/donnByrne.jpg?w=200"
+                    alt=""
+                    width="228"
+                    height="340"
+                    sizes="(max-width: 228px) 100vw, 228px"
                   />
+                  Donn Byrne
                 </div>
-                <!-- .entry-attachment -->
-
-                <div
-                  id="jp-post-flair"
-                  class="sharedaddy sd-like-enabled sd-sharing-enabled"
-                >
-                  <div
-                    class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded"
-                    id="like-post-wrapper-115692407-24-6560a1542058e"
-                    data-src="//widgets.wp.com/likes/index.html?ver=20230906#blog_id=115692407&amp;post_id=24&amp;origin=ramadharsingh.wordpress.com&amp;obj_id=115692407-24-6560a1542058e"
-                    data-name="like-post-frame-115692407-24-6560a1542058e"
-                    data-title="Like or Reblog"
-                  >
-                    <h3 class="sd-title">Like this:</h3>
-                    <div
-                      class="likes-widget-placeholder post-likes-widget-placeholder"
-                      style="height: 55px"
-                    >
-                      <span class="button"><span>Like</span></span>
-                      <span class="loading">Loading...</span>
-                    </div>
-                    <span class="sd-text-color"></span
-                    ><a class="sd-link-color"></a>
-                  </div>
-                </div>
-              </div>
-              <!-- .entry-content -->
-
-              <footer class="entry-footer">
-                <nav id="image-navigation" class="navigation image-navigation">
-                  <div class="nav-previous"></div>
-                  <div class="nav-next">
-                    <a
-                      href="https://ramadharsingh.wordpress.com/about/screen-shot-2016-10-22-at-10-23-04-pm/"
-                      >Next Image &raquo;</a
-                    >
-                  </div>
-                </nav>
-                <!-- .image-navigation -->
-
-                <nav class="navigation post-navigation" aria-label="Posts">
-                  <h2 class="screen-reader-text">Post navigation</h2>
-                  <div class="nav-links">
-                    <div class="nav-previous">
-                      <a href="https://ramadharsingh.wordpress.com/" rel="prev"
-                        ><span class="meta-nav">Published in</span
-                        ><span class="post-title">Ramadhar Singh</span></a
-                      >
-                    </div>
-                  </div>
-                </nav>
-              </footer>
-              <!-- .entry-footer -->
-            </article>
-            <!-- #post-## -->
-
-            <div id="comments" class="comments-area">
-              <div id="respond" class="comment-respond">
-                <h3 id="reply-title" class="comment-reply-title">
-                  Leave a Reply
-                  <small
-                    ><a
-                      rel="nofollow"
-                      id="cancel-comment-reply-link"
-                      href="/about/ramadhar_singh_website/#respond"
-                      style="display: none"
-                      >Cancel reply</a
-                    ></small
-                  >
-                </h3>
-                <form
-                  action="https://ramadharsingh.wordpress.com/wp-comments-post.php"
-                  method="post"
-                  id="commentform"
-                  class="comment-form"
-                  novalidate
-                >
-                  <div id="comment-form__verbum" class="transparent"></div>
-                  <div class="verbum-form-meta">
-                    <input
-                      type="hidden"
-                      name="comment_post_ID"
-                      value="24"
-                      id="comment_post_ID"
-                    />
-                    <input
-                      type="hidden"
-                      name="comment_parent"
-                      id="comment_parent"
-                      value="0"
-                    />
-
-                    <input
-                      type="hidden"
-                      name="highlander_comment_nonce"
-                      id="highlander_comment_nonce"
-                      value="5ad4f1eaa1"
-                    />
-                  </div>
-                  <p style="display: none">
-                    <input
-                      type="hidden"
-                      id="akismet_comment_nonce"
-                      name="akismet_comment_nonce"
-                      value="cfbbd9cd84"
-                    />
-                  </p>
-                  <p style="display: none !important">
-                    <label
-                      >&#916;<textarea
-                        name="ak_hp_textarea"
-                        cols="45"
-                        rows="8"
-                        maxlength="100"
-                      ></textarea></label
-                    ><input
-                      type="hidden"
-                      id="ak_js_1"
-                      name="ak_js"
-                      value="139"
-                    />
-                    <script>
-                      document
-                        .getElementById("ak_js_1")
-                        .setAttribute("value", new Date().getTime());
-                    </script>
-                  </p>
-                </form>
-              </div>
-              <!-- #respond -->
-            </div>
-            <!-- #comments -->
-          </main>
-          <!-- #main -->
-        </section>
-        <!-- #primary -->
-
-        <div id="secondary" class="widget-area" role="complementary"></div>
-        <!-- #secondary -->
-      </div>
-      <!-- #content -->
-
-      <footer id="colophon" class="site-footer" role="contentinfo">
-        <div class="site-info">
-          <a href="https://wordpress.com/?ref=footer_website" rel="nofollow"
-            >Create a free website or blog at WordPress.com.</a
-          >
-        </div>
-        <!-- .site-info -->
-      </footer>
-      <!-- #colophon -->
+                <div>   
+                  <img
+                    data-attachment-id="285"
+                    data-orig-size="1919,2878"
+                    data-comments-opened="1"
+                    data-image-meta='{"aperture":"3.2","credit":"","camera":"NIKON Z 6","caption":"","created_timestamp":"1659725700","copyright":"","focal_length":"85","iso":"2000","shutter_speed":"0.008","title":"","orientation":"0"}'
+                    data-image-title="R Singh Aug 5 2022 Looking straight"
+                    data-image-description=""
+                    data-image-caption=""
+                    class="alignnone wp-image-285"
+                    src="icons/ramadhar.png?w=200"
+                    alt=""
+                    width="228"
+                    height="340"
+                    sizes="(max-width: 228px) 100vw, 228px"
+                  />
+                  Ramadhar Singh
+                     </div> 
     </div>
-    <!-- #page -->
-
-    <!--  -->
-    <script
-      type="text/javascript"
-      src="//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202347aeb24331352c11f5446dd670d75325a3c4e3b8a6bd7f92ee1c88f8b8636d4d9c"
-      id="grofiles-cards-js"
-    ></script>
-    <script type="text/javascript" id="wpgroho-js-extra">
-      /* <![CDATA[ */
-      var WPGroHo = { my_hash: "" };
-      /* ]]> */
-    </script>
-    <script
-      crossorigin="anonymous"
-      type="text/javascript"
-      src="https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i"
-    ></script>
-
-    <script>
-      // Initialize and attach hovercards to all gravatars
-      (function () {
-        function init() {
-          if (typeof Gravatar === "undefined") {
-            return;
-          }
-
-          if (typeof Gravatar.init !== "function") {
-            return;
-          }
-
-          Gravatar.profile_cb = function (hash, id) {
-            WPGroHo.syncProfileData(hash, id);
-          };
-
-          Gravatar.my_hash = WPGroHo.my_hash;
-          Gravatar.init("body", "#wp-admin-bar-my-account", {
-            i18n: {
-              "Edit your profile": "Edit your profile",
-              "View profile": "View profile",
-              "Sorry, we are unable to load this Gravatar profile.":
-                "Sorry, we are unable to load this Gravatar profile.",
-              "Sorry, we are unable to load this Gravatar profile. Please check your internet connection.":
-                "Sorry, we are unable to load this Gravatar profile. Please check your internet connection.",
-            },
-          });
-        }
-
-        if (document.readyState !== "loading") {
-          init();
-        } else {
-          document.addEventListener("DOMContentLoaded", init);
-        }
-      })();
-    </script>
-
-    <div style="display: none"></div>
-    <script type="text/javascript">
-      (function () {
-        function init() {
-          document.body.addEventListener("is.post-load", function () {
-            if (typeof __ATA.insertInlineAds === "function") {
-              __ATA.insertInlineAds();
-            }
-          });
-        }
-
-        if (document.readyState !== "loading") {
-          init();
-        } else {
-          document.addEventListener("DOMContentLoaded", init);
-        }
-      })();
-    </script>
-    <!-- CCPA [start] -->
-    <script type="text/javascript">
-      (function () {
-        var setupPrivacy = function () {
-          // Minimal Mozilla Cookie library
-          // https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
-          var cookieLib = (window.cookieLib = {
-            getItem: function (e) {
-              return (
-                (e &&
-                  decodeURIComponent(
-                    document.cookie.replace(
-                      new RegExp(
-                        "(?:(?:^|.*;)\\s*" +
-                          encodeURIComponent(e).replace(/[\-\.\+\*]/g, "\\$&") +
-                          "\\s*\\=\\s*([^;]*).*$)|^.*$"
-                      ),
-                      "$1"
-                    )
-                  )) ||
-                null
-              );
-            },
-            setItem: function (e, o, n, t, r, i) {
-              if (!e || /^(?:expires|max\-age|path|domain|secure)$/i.test(e))
-                return !1;
-              var c = "";
-              if (n)
-                switch (n.constructor) {
-                  case Number:
-                    c =
-                      n === 1 / 0
-                        ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT"
-                        : "; max-age=" + n;
-                    break;
-                  case String:
-                    c = "; expires=" + n;
-                    break;
-                  case Date:
-                    c = "; expires=" + n.toUTCString();
-                }
-              return (
-                ("rootDomain" !== r && ".rootDomain" !== r) ||
-                  (r =
-                    (".rootDomain" === r ? "." : "") +
-                    document.location.hostname.split(".").slice(-2).join(".")),
-                (document.cookie =
-                  encodeURIComponent(e) +
-                  "=" +
-                  encodeURIComponent(o) +
-                  c +
-                  (r ? "; domain=" + r : "") +
-                  (t ? "; path=" + t : "") +
-                  (i ? "; secure" : "")),
-                !0
-              );
-            },
-          });
-
-          // Implement IAB USP API.
-          window.__uspapi = function (command, version, callback) {
-            // Validate callback.
-            if (typeof callback !== "function") {
-              return;
-            }
-
-            // Validate the given command.
-            if (command !== "getUSPData" || version !== 1) {
-              callback(null, false);
-              return;
-            }
-
-            // Check for GPC. If set, override any stored cookie.
-            if (navigator.globalPrivacyControl) {
-              callback({ version: 1, uspString: "1YYN" }, true);
-              return;
-            }
-
-            // Check for cookie.
-            var consent = cookieLib.getItem("usprivacy");
-
-            // Invalid cookie.
-            if (null === consent) {
-              callback(null, false);
-              return;
-            }
-
-            // Everything checks out. Fire the provided callback with the consent data.
-            callback({ version: 1, uspString: consent }, true);
-          };
-
-          // Initialization.
-          document.addEventListener("DOMContentLoaded", function () {
-            // Internal functions.
-            var setDefaultOptInCookie = function () {
-              var value = "1YNN";
-              var domain =
-                ".wordpress.com" === location.hostname.slice(-14)
-                  ? ".rootDomain"
-                  : location.hostname;
-              cookieLib.setItem(
-                "usprivacy",
-                value,
-                365 * 24 * 60 * 60,
-                "/",
-                domain
-              );
-            };
-
-            var setDefaultOptOutCookie = function () {
-              var value = "1YYN";
-              var domain =
-                ".wordpress.com" === location.hostname.slice(-14)
-                  ? ".rootDomain"
-                  : location.hostname;
-              cookieLib.setItem("usprivacy", value, 24 * 60 * 60, "/", domain);
-            };
-
-            var setDefaultNotApplicableCookie = function () {
-              var value = "1---";
-              var domain =
-                ".wordpress.com" === location.hostname.slice(-14)
-                  ? ".rootDomain"
-                  : location.hostname;
-              cookieLib.setItem("usprivacy", value, 24 * 60 * 60, "/", domain);
-            };
-
-            var setCcpaAppliesCookie = function (applies) {
-              var domain =
-                ".wordpress.com" === location.hostname.slice(-14)
-                  ? ".rootDomain"
-                  : location.hostname;
-              cookieLib.setItem(
-                "ccpa_applies",
-                applies,
-                24 * 60 * 60,
-                "/",
-                domain
-              );
-            };
-
-            var maybeCallDoNotSellCallback = function () {
-              if ("function" === typeof window.doNotSellCallback) {
-                return window.doNotSellCallback();
-              }
-
-              return false;
-            };
-
-            // Look for usprivacy cookie first.
-            var usprivacyCookie = cookieLib.getItem("usprivacy");
-
-            // Found a usprivacy cookie.
-            if (null !== usprivacyCookie) {
-              // If the cookie indicates that CCPA does not apply, then bail.
-              if ("1---" === usprivacyCookie) {
-                return;
-              }
-
-              // CCPA applies, so call our callback to add Do Not Sell link to the page.
-              maybeCallDoNotSellCallback();
-
-              // We're all done, no more processing needed.
-              return;
-            }
-
-            // We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
-            var ccpaCookie = cookieLib.getItem("ccpa_applies");
-
-            // No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
-            // This needs to happen client side because we do not have region geo data in our $SERVER headers,
-            // only country data -- therefore we can't vary cache on the region.
-            if (null === ccpaCookie) {
-              var request = new XMLHttpRequest();
-              request.open(
-                "GET",
-                "https://public-api.wordpress.com/geo/",
-                true
-              );
-
-              request.onreadystatechange = function () {
-                if (4 === this.readyState) {
-                  if (200 === this.status) {
-                    // Got a geo response. Parse out the region data.
-                    var data = JSON.parse(this.response);
-                    var region = data.region ? data.region.toLowerCase() : "";
-                    var ccpa_applies =
-                      [
-                        "california",
-                        "colorado",
-                        "connecticut",
-                        "utah",
-                        "virginia",
-                      ].indexOf(region) > -1;
-                    // Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
-                    setCcpaAppliesCookie(ccpa_applies);
-
-                    // Check if CCPA applies to set the proper usprivacy cookie.
-                    if (ccpa_applies) {
-                      if (maybeCallDoNotSellCallback()) {
-                        // Do Not Sell link added, so set default opt-in.
-                        setDefaultOptInCookie();
-                      } else {
-                        // Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
-                        setDefaultOptOutCookie();
-                      }
-                    } else {
-                      // CCPA does not apply.
-                      setDefaultNotApplicableCookie();
-                    }
-                  } else {
-                    // Could not geo, so let's assume for now that CCPA applies to be safe.
-                    setCcpaAppliesCookie(true);
-                    if (maybeCallDoNotSellCallback()) {
-                      // Do Not Sell link added, so set default opt-in.
-                      setDefaultOptInCookie();
-                    } else {
-                      // Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
-                      setDefaultOptOutCookie();
-                    }
-                  }
-                }
-              };
-
-              // Send the geo request.
-              request.send();
-            } else {
-              // We found a CCPA applies cookie.
-              if (ccpaCookie === "true") {
-                if (maybeCallDoNotSellCallback()) {
-                  // Do Not Sell link added, so set default opt-in.
-                  setDefaultOptInCookie();
-                } else {
-                  // Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
-                  setDefaultOptOutCookie();
-                }
-              } else {
-                // CCPA does not apply.
-                setDefaultNotApplicableCookie();
-              }
-            }
-          });
-        };
-
-        // Kickoff initialization.
-        if (window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020) {
-          defQueue.items.push(setupPrivacy);
-        } else {
-          setupPrivacy();
-        }
-      })();
-    </script>
-
-    <!-- CCPA [end] -->
-    <div class="widget widget_eu_cookie_law_widget">
-      <div
-        class="hide-on-button ads-active"
-        data-hide-timeout="30"
-        data-consent-expiration="180"
-        id="eu-cookie-law"
-        style="display: none"
-      >
-        <form method="post">
-          <input type="submit" value="Close and accept" class="accept" />
-
-          Privacy &amp; Cookies: This site uses cookies. By continuing to use
-          this website, you agree to their use. <br />
-          To find out more, including how to control cookies, see here:
-          <a href="https://automattic.com/cookies/" rel="nofollow">
-            Cookie Policy
-          </a>
-        </form>
-      </div>
-    </div>
-    <div
-      id="actionbar"
-      style="display: none"
-      class="actnbr-pub-apostrophe actnbr-has-follow"
-    >
-      <ul>
-        <li class="actnbr-ellipsis actnbr-hidden">
-          <svg
-            class="gridicon gridicons-ellipsis"
-            height="24"
-            width="24"
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-          >
-            <g>
-              <path
-                d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"
-              />
-            </g>
-          </svg>
-          <div class="actnbr-popover tip tip-top-left actnbr-more">
-            <div class="tip-arrow"></div>
-            <div class="tip-inner">
-              <ul>
-                <li class="actnbr-sitename">
-                  <a href="https://ramadharsingh.wordpress.com">
-                    <img
-                      alt=""
-                      src="https://s0.wp.com/i/logo/wpcom-gray-white.png"
-                      srcset="https://s0.wp.com/i/logo/wpcom-gray-white.png 1x"
-                      class="avatar avatar-50"
-                      height="50"
-                      width="50"
-                    />
-                    Ramadhar Singh - Distinguished Professor
-                  </a>
-                </li>
-                <li class="actnbr-folded-customize">
-                  <a
-                    href="https://ramadharsingh.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Framadharsingh.wordpress.com%2Fabout%2Framadhar_singh_website%2F"
-                  >
-                    <svg
-                      class="gridicon gridicons-customize"
-                      height="20"
-                      width="20"
-                      xmlns="http://www.w3.org/2000/svg"
-                      viewBox="0 0 24 24"
-                    >
-                      <g>
-                        <path
-                          d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"
-                        />
-                      </g>
-                    </svg>
-                    <span>Customize</span>
-                  </a>
-                </li>
-                <li class="actnbr-signup">
-                  <a href="https://wordpress.com/start/">Sign up</a>
-                </li>
-                <li class="actnbr-login">
-                  <a
-                    href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Framadharsingh.wordpress.com%2Fabout%2Framadhar_singh_website%2F&#038;signup_flow=account"
-                    >Log in</a
-                  >
-                </li>
-                <li class="actnbr-shortlink">
-                  <a href="https://wp.me/a7PqSz-o">Copy shortlink</a>
-                </li>
-                <li class="flb-report">
-                  <a
-                    href="http://en.wordpress.com/abuse/?report_url=https://ramadharsingh.wordpress.com/about/ramadhar_singh_website/"
-                    target="_blank"
-                  >
-                    Report this content
-                  </a>
-                </li>
-                <li class="actnbr-subs">
-                  <a href="https://subscribe.wordpress.com/"
-                    >Manage subscriptions</a
-                  >
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </div>
-
-    <script>
+        <p>
+        Kabir (1440–1518), the Indian mystic, asked, “Given both Guru [teacher] 
+        and Govind [God] standing in front of you, whom should you bow to first?” Kabir counselled,
+        “All the glory should go to your Guru for showing the right way to Govind.” 
+        I then wholeheartedly bow to my esteemed Guru, 
+        Donn Byrne, a renowned personality and social psychologist.
+        In 1970, I had just come to the United States for my doctoral degree from
+        Ball State University. From my Fulbright orientation program in Tucson, Arizona, 
+        I wrote a letter to Donn, requesting that he train me. 
+        Swiftly cutting through all administrative hassles, he ensured my transfer 
+        from Ball State to Purdue University. For that intervention, I am grateful and blessed.
+        I got to know Donn as a teacher, a scholar, and, eventually, a life-long well-wisher.
+        </p>
+        <p>
+        During his more than 4-decade academic career at the University of Texas (1959–1969), Purdue University (1969–1979), and the University at Albany–SUNY (1979–2001), Donn chaired the doctoral committees of 53 students. Back in the early 1970s, I was his 21st student. He advised me to “make only one difference between two experiments of an article.” While writing my doctoral dissertation, he told me, “Write it in less than 30 pages.” When I was leaving Purdue, Donn further advised, “Never put your name in print unless you have read the document twice;” “Do not write an article that can allow others to say that you are a sloppy researcher;” and “If someone questions your work, do give a fitting reply.” To this day, I have tried to follow all three maxims.
+        </p>
+        <p>
+        Donn wanted his mentees not only to get a job but also to contribute responsibly to the organization where they worked and to the country in which they lived. He wanted me to start my career at a research-intensive institution in India. Therefore, in 1972, a year before I received my degree, he contacted Kamta Prasad, who at that time was head of the Department of Humanities and Social Sciences at the Indian Institute of Technology, Kanpur, and recommended that he hire me as an assistant professor. That I was offered the job without any interview suggests how supportive Donn was of my appointment!
+        </p>
+        <p>
+        Of his numerous scholarly contributions to social psychology, personality, and human sexuality, Donn is perhaps most renowned for his classic similarity–attraction research. People had long suggested that “birds of a feather flock together,” but it was Donn who translated this adage into a testable hypothesis: The greater the similarity between the attitudes of two persons, he demonstrated, the greater the attraction between them. He was so attached to this “Law of Attraction” (Y = 5.44X + 6.62, where Y is attraction on a scale of 2 to 14, X is the proportion of similar attitudes, and 5.44 and 6.62 are empirical coefficients for the respective slope and intercept of the regression line) that he always queried me as to how well his equation fit each new set of data my students or I collected!
+        </p>
+        <p>
+        The foci of his monograph, The Attraction Paradigm (1971), were on “the way in which [social psychological] research is conducted and … the way in which both theoretical and applied may be seen to grow out of a base relationship [i.e., the law of attraction]” (p. 414). He noted, “… the attraction paradigm represents a continuing research program which may constitute a useful model for other research, and, if it has anything to offer, should continue to grow and to change” (p. 415). His 1961 Journal of Abnormal and Social Psychology article and the 1971 monograph have been cited widely. The mechanisms underlying the attitude similarity–attraction link are still debatable topics of research in social psychology. Interestingly, his similarity–attraction hypothesis has been one of the theoretical approaches to diversity research in management.
+        </p>
+        <p>
+        Donn wrote around 30 textbooks in psychology. Among them, An Introduction to Personality: A Research Approach (1966), which is now in its third edition, effectively replaced the traditional contents of grand theories in personality courses with a more empirical approach to the assessment, antecedents, correlates, dynamics, and change of a dimension of individual differences (e.g., authoritarianism, intelligence, self-concept, etc.). His Social Psychology: Understanding Human Interaction (1974), now in its 12th edition, has been very popular and has been translated into several languages.
+        </p>
+        <p>
+        When Donn was hospitalized in 2013, he desired to meet me. When I visited him on July 18, 2014, Donn laughed, remembering the night in 1970 when I had called his house and his wife told me he had retired. I misunderstood her and was taken aback at the news that he had expired!  Donn talked about his love for simple but good research, music, painting, reading, writing, and Indian food. When I was to leave, he cheerfully put his right hand on my head, wishing further success and happiness. Sadly, little did I realize that that was going to be my last meeting with him.
+        </p>
+        <p>
+        The motto of my present institution is Tejasvi naavadhitamastu, which, translated from Sanskrit into English, means, Let our (the teacher and the taught) learning be radiant. For me, Donn shall always be this Guru nonpareil who has made my learning very enriched and fulfilling, and thus radiant. As a mark of our respect for Donn, my coauthors and I dedicated our forthcoming article on attitude similarity, trust, and attraction to him. I am privileged that I got to know Donn and be mentored by him. I am equally privileged to welcome another Guru, Robert A. Baron, and nine academic siblings who have joined me in remembering Donn Byrne, a great man who positively influenced our personal and professional lives. We will miss him dearly.
+        </p>
+        <br />
+        <br />
+         <script>
       window.addEventListener("load", function (event) {
         var link = document.createElement("link");
         link.href =
@@ -1881,6 +1262,11 @@
       });
     </script>
 
+    <script type="text/javascript">
+      window.WPCOM_sharing_counts = {
+        "https:\/\/ramadharsingh.wordpress.com\/advisors\/": 51,
+      };
+    </script>
     <script type="text/javascript" id="comment-like-js-extra">
       /* <![CDATA[ */
       var comment_like_text = {
@@ -1898,81 +1284,104 @@
       };
       /* ]]> */
     </script>
-    <script type="text/javascript" id="verbum-settings-js-before">
+    <script type="text/javascript" id="sharing-js-js-extra">
       /* <![CDATA[ */
-      window.VerbumComments = {
-        "Log in or provide your name and email to leave a reply.":
-          "Log in or provide your name and email to leave a reply.",
-        "Receive web and mobile notifications for posts on this site.":
-          "Receive web and mobile notifications for posts on this site.",
-        Name: "Name",
-        "Email (address never made public)":
-          "Email (address never made public)",
-        "Website (optional)": "Website (optional)",
-        "Leave a reply. (log in optional)": "Leave a reply. (log in optional)",
-        "Log in to leave a reply.": "Log in to leave a reply.",
-        "Logged in via %s": "Logged in via %s",
-        "Log out": "Log out",
-        Email: "Email",
-        "(Address never made public)": "(Address never made public)",
-        Instantly: "Instantly",
-        Daily: "Daily",
-        Reply: "Reply",
-        WordPress: "WordPress",
-        Weekly: "Weekly",
-        "Notify me of new posts": "Notify me of new posts",
-        "Email me new posts": "Email me new posts",
-        "Email me new comments": "Email me new comments",
-        Cancel: "Cancel",
-        "Write a comment...": "Write a Comment...",
-        Website: "Website",
-        Optional: "Optional",
-        "We'll keep you in the loop!": "We'll keep you in the loop!",
-        "Loading your comment...": "Loading your comment...",
-        "Never miss a beat!": "Never miss a beat!",
-        "Interested in getting blog post updates? Simply click the button below to stay in the loop!":
-          "Interested in getting blog post updates? Simply click the button below to stay in the loop!",
-        "Enter your email address": "Enter your email address",
-        Subscribe: "Subscribe",
-        siteId: 115692407,
-        postId: 24,
-        mustLogIn: false,
-        requireNameEmail: true,
-        commentRegistration: false,
-        connectURL:
-          "https:\/\/ramadharsingh.wordpress.com\/public.api\/connect\/?action=request",
-        logoutURL:
-          "https:\/\/ramadharsingh.wordpress.com\/wp-login.php?action=logout&_wpnonce=edf8bb4595",
-        homeURL: "https:\/\/ramadharsingh.wordpress.com\/",
-        subscribeToBlog: true,
-        subscribeToComment: true,
-        isJetpackCommentsLoggedIn: false,
-        jetpackUsername: "",
-        jetpackUserId: 0,
-        jetpackSignature: "",
-        jetpackAvatar:
-          "https:\/\/0.gravatar.com\/avatar\/?s=96&amp;d=identicon&amp;r=G",
-        enableBlocks: false,
-        enableSubscriptionModal: true,
-        isJetpackComments: false,
-        allowedBlocks: [
-          "core\/paragraph",
-          "core\/list",
-          "core\/code",
-          "core\/list-item",
-          "core\/quote",
-          "core\/image",
-          "core\/quote",
-          "core\/code",
-        ],
+      var sharing_js_options = {
+        lang: "en",
+        counts: "1",
+        is_stats_active: "1",
       };
       /* ]]> */
     </script>
     <script
       crossorigin="anonymous"
       type="text/javascript"
-      src="https://s0.wp.com/_static/??-eJyNj11OwzAQhC+E45RKhRfEUdDW3iQbe9fGP017e1xQCwRU9XFn55vR6CUqE6SgFM1VRV9HkqwXsiOWrLG2b3CEysOiC3L0UHCld3N+0P/neHLN/V6x4gRiPaYb5gOmfWUNOZ+r7UmAySgfwN7ETGBukvrqmlfCGiwTcrPFutcQQy4pxAnPVHYUGyJODcHUrAY63s0KHGiEQkHuRr6vC0JifLW/JySM/tQx/cn9sR8cZcaitl2v31rIVRjSp9k29pVfNk99/7zZbR938wcovrty"
+      src="https://s0.wp.com/_static/??-eJyNj1FOAzEMRC9E6hakwg/iKMhN3F1vEidsbLa9fdOChLRCVf8843nWGJbqfBElUcjmarKBpcHCYSBtQNa3JTK5hAso5ZpQaeVvpvYE/99JHHv6y8hoRAmJ5jthX3LulvuBppWxBnWk3GPVDoC1NJ1LHelKtci1IxLdsXhr7sinh1nBbx5QucjDyJ+689pEWtHHXw3NBD5ZPByMU4A24kwBQzjfRpZhk/na4CO/716327fd/uV5P10A9iOgmg=="
     ></script>
+    <script type="text/javascript" id="sharing-js-js-after">
+      /* <![CDATA[ */
+      var windowOpen;
+      (function () {
+        function matches(el, sel) {
+          return !!(
+            (el.matches && el.matches(sel)) ||
+            (el.msMatchesSelector && el.msMatchesSelector(sel))
+          );
+        }
+
+        document.body.addEventListener("click", function (event) {
+          if (!event.target) {
+            return;
+          }
+
+          var el;
+          if (matches(event.target, "a.share-twitter")) {
+            el = event.target;
+          } else if (
+            event.target.parentNode &&
+            matches(event.target.parentNode, "a.share-twitter")
+          ) {
+            el = event.target.parentNode;
+          }
+
+          if (el) {
+            event.preventDefault();
+
+            // If there's another sharing window open, close it.
+            if (typeof windowOpen !== "undefined") {
+              windowOpen.close();
+            }
+            windowOpen = window.open(
+              el.getAttribute("href"),
+              "wpcomtwitter",
+              "menubar=1,resizable=1,width=600,height=350"
+            );
+            return false;
+          }
+        });
+      })();
+      var windowOpen;
+      (function () {
+        function matches(el, sel) {
+          return !!(
+            (el.matches && el.matches(sel)) ||
+            (el.msMatchesSelector && el.msMatchesSelector(sel))
+          );
+        }
+
+        document.body.addEventListener("click", function (event) {
+          if (!event.target) {
+            return;
+          }
+
+          var el;
+          if (matches(event.target, "a.share-facebook")) {
+            el = event.target;
+          } else if (
+            event.target.parentNode &&
+            matches(event.target.parentNode, "a.share-facebook")
+          ) {
+            el = event.target.parentNode;
+          }
+
+          if (el) {
+            event.preventDefault();
+
+            // If there's another sharing window open, close it.
+            if (typeof windowOpen !== "undefined") {
+              windowOpen.close();
+            }
+            windowOpen = window.open(
+              el.getAttribute("href"),
+              "wpcomfacebook",
+              "menubar=1,resizable=1,width=600,height=400"
+            );
+            return false;
+          }
+        });
+      })();
+      /* ]]> */
+    </script>
     <script type="text/javascript">
       // <![CDATA[
       (function () {
@@ -2024,7 +1433,7 @@
           v: "wpcom",
           tz: "0",
           user_id: "0",
-          post: "24",
+          post: "51",
           subd: "ramadharsingh",
         },
       ]);
@@ -2032,10 +1441,10 @@
         "extra",
         {
           crypt:
-            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1d3R+ZTZ3X1Q4K1Zsd1tPNkRnb34vL1NWVG1OdS9Ka0JVcH54blIrZDlsd1RuWzVXMkZFLjlNMU1HUl9HLmclTENhWC1MV0osZV12QVhTRE9oMW9ILiwsbStLSXFONXBlMEhwWWN6K2hiLDIuRUJdTklkbHFWeS9pP0IwK2FOSXJPP0YzcXZPYy5h",
+            "UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRU1I2fH5telcxaTdGUldPLzh+flZJcVdJWExFNmtaZS5VXyxNSjFqdk1bKzJfYVdWazZDMixNX2FZXUp5NzhGTzVOMXd1PU90JVErOVE4Njh4aWJHcy5RMm5Yc2ZzWU1LSkozeHUyN3U0RWJTdWpxLUxHK01pWz8tQ0w9Qk5rUGJDPUVnMWJLJk01MFt2OG1bJXc1d2lKP2ZMUlpbTWlOcj1jWy9lWmhRVnYrUTdLT21PZm9DTyUlRk5pJi9Sa1phTGMud2NIblZaVTliMVVYWU94M0dwJlR3Yy5+WUIvPXw3K2pjTjM9cm4xV1V4aGclTTFXS3FZQnVHeUE3dHIwbE1ITkJLdkZtZ2FXZT18T2FjLjE4UDl3",
         },
       ]);
-      _stq.push(["clickTrackerInit", "115692407", "24"]);
+      _stq.push(["clickTrackerInit", "115692407", "51"]);
     </script>
     <noscript
       ><img
@@ -2080,102 +1489,6 @@
             Math.random();
         }
       }
-    </script>
-    <script>
-      (function () {
-        "use strict";
-
-        const fetches = {};
-        const promises = {};
-        const urls = {
-          verbum:
-            "https://s0.wp.com/wp-content/mu-plugins/verbum/dist/index.js?m=1700822136i&ver=1700822136",
-        };
-        const loaders = {
-          verbum: () => {
-            fetchExternalScript("verbum");
-            promises["verbum"] = promises["verbum"] || loadWPScript("verbum");
-            return promises["verbum"];
-          },
-        };
-        const scriptExtras = {};
-
-        window.WP_Enqueue_Dynamic_Script = {
-          loadScript: (handle) => {
-            if (!loaders[handle]) {
-              console.error(
-                "WP_Enqueue_Dynamic_Script: unregistered script `" +
-                  handle +
-                  "`."
-              );
-            }
-            return loaders[handle]();
-          },
-        };
-
-        function fetchExternalScript(handle) {
-          if (!urls[handle]) {
-            return Promise.resolve();
-          }
-
-          fetches[handle] =
-            fetches[handle] || fetch(urls[handle], { mode: "no-cors" });
-          return fetches[handle];
-        }
-
-        function runExtraScript(handle, type, index) {
-          const id =
-            "wp-enqueue-dynamic-script:" +
-            handle +
-            ":" +
-            type +
-            ":" +
-            (index + 1);
-          const template = document.getElementById(id);
-          if (!template) {
-            return Promise.reject();
-          }
-
-          const script = document.createElement("script");
-          script.innerHTML = template.innerHTML;
-          document.body.appendChild(script);
-          return Promise.resolve();
-        }
-
-        function loadExternalScript(handle) {
-          if (!urls[handle]) {
-            return Promise.resolve();
-          }
-
-          return fetches[handle].then(() => {
-            return new Promise((resolve, reject) => {
-              const script = document.createElement("script");
-              script.onload = () => resolve();
-              script.onerror = (e) => reject(e);
-              script.src = urls[handle];
-              document.body.appendChild(script);
-            });
-          });
-        }
-
-        function loadExtra(handle, pos) {
-          const count =
-            (scriptExtras[handle] && scriptExtras[handle][pos]) || 0;
-          let promise = Promise.resolve();
-
-          for (let i = 0; i < count; i++) {
-            promise = promise.then(() => runExtraScript(handle, pos, i));
-          }
-
-          return promise;
-        }
-
-        function loadWPScript(handle) {
-          return loadExtra(handle, "before")
-            .then(() => loadExternalScript(handle))
-            .then(() => loadExtra(handle, "after"));
-        }
-      })();
     </script>
   </body>
 </html>

@@ -1370,7 +1370,6 @@
                       style="height: 55px"
                     >
                       <span class="button"><span>Like</span></span>
-                      <span class="loading">Loading...</span>
                     </div>
                     <span class="sd-text-color"></span
                     ><a class="sd-link-color"></a>

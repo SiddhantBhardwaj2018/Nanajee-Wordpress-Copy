@@ -1198,6 +1198,9 @@
                   Ahmedabad, 380009, Gujarat, India
                 </p>
                 <p>[<a href="contact.php">Contact details&nbsp;</a>]</p>
+                <p>[<a href="tribute.php">Read Tribute To Donn Byrne&nbsp;</a>]</p>
+                <p>[<a href="https://spsp.org/membership/awards/heritage-wall/ramadhar-singh" target="_blank">First Indian Psychologist to be member of US Heritage Wall of Fame</a>]</p>
+
                 <hr />
                 <p style="text-align: justify"></p>
 
@@ -1764,48 +1767,6 @@
         </form>
       </div>
     </div>
-    <div
-      id="actionbar"
-      style="display: none"
-      class="actnbr-pub-apostrophe actnbr-has-follow"
-    >
-      <ul>
-        <li class="actnbr-ellipsis actnbr-hidden">
-          <svg
-            class="gridicon gridicons-ellipsis"
-            height="24"
-            width="24"
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-          >
-            <g>
-              <path
-                d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"
-              />
-            </g>
-          </svg>
-          <div class="actnbr-popover tip tip-top-left actnbr-more">
-            <div class="tip-arrow"></div>
-            <div class="tip-inner">
-              <ul>
-                <li class="actnbr-sitename">
-                  <a href="https://ramadharsingh.com">
-                    <img
-                      alt=""
-                      src="https://s0.wp.com/i/logo/wpcom-gray-white.png"
-                      srcset="https://s0.wp.com/i/logo/wpcom-gray-white.png 1x"
-                      class="avatar avatar-50"
-                      height="50"
-                      width="50"
-                    />
-                    Ramadhar Singh - Distinguished Professor
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </li>
-      </ul>
     </div>
 
     <script>
